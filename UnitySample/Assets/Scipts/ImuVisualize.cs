@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 
 public class ImuVisualize : MonoBehaviour
 {
@@ -45,6 +46,8 @@ public class ImuVisualize : MonoBehaviour
 
             AccelZBar.localScale = new Vector3(0.1f, 0.1f, Mathf.Abs(AccelVector.z));
             AccelZBar.localPosition = new Vector3(0.0f, 0.0f, AccelVector.z * 0.5f);
+
+            Console.WriteLine(AccelXBar.localScale);
         }
 
         if (GyroAxisModel)

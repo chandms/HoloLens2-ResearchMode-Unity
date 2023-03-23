@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
+using System;
 
 public class PointCloudRenderer : MonoBehaviour
 {
@@ -72,6 +73,7 @@ public class PointCloudRenderer : MonoBehaviour
             newElem.transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
 
             elems.Add(newElem);
+            Console.WriteLine("Hii added "+ i);
         }
     }
 
