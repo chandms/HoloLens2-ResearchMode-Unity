@@ -30,6 +30,8 @@ namespace Microsoft.MixedReality.Toolkit
         public Text GyroText = null;
         public Text MagText = null;
 
+        private int count = 0;
+
         public ImuVisualize RefImuVisualize = null;
 
         public string filename = "sensor_data.txt";
@@ -42,13 +44,19 @@ namespace Microsoft.MixedReality.Toolkit
 
         public Vector3 head_movement_direction = Vector3.zero;
 
+        TCPClientIMU tcpClientIMU;
+
         public Vector3 head_velocity = Vector3.zero;
 
         [SerializeField]
         private float defaultDistanceInMeters = 2f;
 
+        public bool log_sensor_data = false;
+
         void Start()
         {
+         tcpClientIMU = GetComponent<TCPClientIMU>();
+
 #if ENABLE_WINMD_SUPPORT
         researchMode = new HL2ResearchMode();
         researchMode.InitializeAccelSensor();
@@ -60,6 +68,52 @@ namespace Microsoft.MixedReality.Toolkit
         researchMode.StartMagSensorLoop();
 #endif
             AccelText.text = $"Accel Nothing : CM";
+        }
+
+        public string PrepareData()
+        {
+            string temp_data = "";
+
+            temp_data += "\r\nLog Entry : \n";
+            DateTime curDateTime = DateTime.Now;
+            temp_data += $"{curDateTime.ToLongTimeString()} {DateTime.Now.ToLongDateString()}\n";
+            temp_data += $"{curDateTime.Hour} {curDateTime.Minute} {curDateTime.Second} {curDateTime.Millisecond} \n";
+
+            temp_data += $" head_origin :{Camera.main.transform.position.ToString("F5")}\n";
+            temp_data += $" head_direction :{Camera.main.transform.forward.ToString("F5")}\n";
+            temp_data += $" head movement direction :{head_movement_direction.ToString("F5")}\n";
+            temp_data += $" head velocity :{head_velocity.ToString("F5")}";
+
+            if (accelSampleData!=null && accelSampleData.Length == 3)
+            {
+                temp_data += $" Accelerometer[0] :{accelSampleData[0].ToString("F5")}\n";
+                temp_data += $" Accelerometer[1] :{accelSampleData[1].ToString("F5")}\n";
+                temp_data += $" Accelerometer[2] :{accelSampleData[2].ToString("F5")}\n";
+            }
+
+            if (gyroSampleData!=null && gyroSampleData.Length == 3)
+            {
+                temp_data += $" Gyroscope[0] :{gyroSampleData[0].ToString("F5")}\n";
+                temp_data += $" Gyroscope[1] :{gyroSampleData[1].ToString("F5")}\n";
+                temp_data += $" Gyroscope[2] :{gyroSampleData[2].ToString("F5")}\n";
+            }
+
+            if (magSampleData!=null && magSampleData.Length == 3)
+            {
+                temp_data += $" Magnetometer[0] :{ magSampleData[0].ToString("F5")}\n";
+                temp_data += $" Magnetometer[1] :{magSampleData[1].ToString("F5")}\n";
+                temp_data += $" Magnetometer[2] :{magSampleData[2].ToString("F5")}\n";
+            }
+
+            temp_data += $" eye_origin :{eye_origin.ToString("F5")}\n";
+            temp_data += $" eye_direction :{eye_direction.ToString("F5")}\n";
+            temp_data += $" eye_cursor :{eye_cursor.ToString("F5")}\n";
+
+
+            temp_data += "-------------------------------\n";
+
+            return temp_data;
+
         }
         void LateUpdate()
         {
@@ -100,6 +154,7 @@ namespace Microsoft.MixedReality.Toolkit
             }
         }
 #endif
+            string temp_data = PrepareData();
             // Convert to Vector3
             accelVector = CreateAccelVector(accelSampleData);
             gyroEulerAngle = CreateGyroEulerAngle(gyroSampleData);
@@ -126,7 +181,24 @@ namespace Microsoft.MixedReality.Toolkit
 
             }
 
-            LogAllSensorData();
+
+            if (log_sensor_data == true)
+            {
+                LogAllSensorData(temp_data);
+            }
+
+           
+
+            #if WINDOWS_UWP
+                if (tcpClientIMU != null)
+                {
+                    tcpClientIMU.SendSensorData(temp_data);
+                }
+            #endif
+
+
+
+            count += 1;
         }
 
         private Vector3 CreateAccelVector(float[] accelSample)
@@ -143,7 +215,6 @@ namespace Microsoft.MixedReality.Toolkit
                     -1.0f * accelSample[0],
                     -1.0f * accelSample[1]
                     );
-                Console.WriteLine("accl " + accelSample[2] + " " + accelSample[0] + " " + accelSample[1]);
             }
             return vector;
         }
@@ -162,7 +233,6 @@ namespace Microsoft.MixedReality.Toolkit
                     gyroSample[0],
                     gyroSample[1]
                     );
-                Console.WriteLine("gyro " + gyroSample[2] + " " + gyroSample[0] + " " + gyroSample[1]);
             }
             return vector;
         }
@@ -179,7 +249,12 @@ namespace Microsoft.MixedReality.Toolkit
             if (!focus) StopSensorsEvent();
         }
 
-        public void LogAllSensorData()
+        public void UpdateLogVar()
+        {
+            log_sensor_data = !log_sensor_data;
+        }
+
+        public void LogAllSensorData(string param_str)
         {
             string path = Path.Combine(Application.persistentDataPath, filename);
             //string path = filename;
@@ -191,49 +266,7 @@ namespace Microsoft.MixedReality.Toolkit
                 {
 
                     writer.Write("\r\nLog Entry : ");
-                    DateTime curDateTime = DateTime.Now;
-                    writer.WriteLine($"{curDateTime.ToLongTimeString()} {DateTime.Now.ToLongDateString()}");
-                    writer.WriteLine($"{curDateTime.Hour} {curDateTime.Minute} {curDateTime.Second} {curDateTime.Millisecond} ");
-
-                    writer.WriteLine("Head Tracking ");
-                    writer.WriteLine($" head_origin :{Camera.main.transform.position.ToString("F5")}");
-                    writer.WriteLine($" head_direction :{Camera.main.transform.forward.ToString("F5")}");
-                    writer.WriteLine($" head movement direction :{head_movement_direction.ToString("F5")}");
-                    writer.WriteLine($" head velocity :{head_velocity.ToString("F5")}");
-
-
-                    writer.WriteLine("Accelerometer Data ");
-                    if ((accelSampleData?.Length ?? 0) == 3)
-                    {
-                        writer.WriteLine($" Accelerometer[0] :{accelSampleData[0].ToString("F5")}");
-                        writer.WriteLine($" Accelerometer[1] :{accelSampleData[1].ToString("F5")}");
-                        writer.WriteLine($" Accelerometer[2] :{accelSampleData[2].ToString("F5")}");
-                    }
-
-                    writer.WriteLine("Gyroscope Data ");
-                    if ((gyroSampleData?.Length ?? 0) == 3)
-                    {
-                        writer.WriteLine($" Gyroscope[0] :{gyroSampleData[0].ToString("F5")}");
-                        writer.WriteLine($" Gyroscope[1] :{gyroSampleData[1].ToString("F5")}");
-                        writer.WriteLine($" Gyroscope[2] :{gyroSampleData[2].ToString("F5")}");
-                    }
-
-
-                    writer.WriteLine("Magnetometer Data ");
-                    if ((magSampleData?.Length ?? 0) == 3)
-                    {
-                        writer.WriteLine($" Magnetometer[0] :{magSampleData[0].ToString("F5")}");
-                        writer.WriteLine($" Magnetometer[1] :{magSampleData[1].ToString("F5")}");
-                        writer.WriteLine($" Magnetometer[2] :{magSampleData[2].ToString("F5")}");
-                    }
-
-                    writer.WriteLine("Eye Tracking ");
-                    writer.WriteLine($" eye_origin :{eye_origin.ToString("F5")}");
-                    writer.WriteLine($" eye_direction :{eye_direction.ToString("F5")}");
-                    writer.WriteLine($" eye_cursor :{eye_cursor.ToString("F5")}");
-
-                    writer.WriteLine("-------------------------------");
-
+                    writer.WriteLine(param_str);
 
 
                 }

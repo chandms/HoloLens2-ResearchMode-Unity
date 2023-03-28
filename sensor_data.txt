@@ -1,0 +1,163 @@
+
+Log Entry : 2:28:47 PM Thursday, March 23, 2023
+14 28 47 120 
+Head Tracking 
+ head_origin :(0.00333, 0.08211, 0.07767)
+ head_direction :(-0.00493, 0.02973, 0.99955)
+ head movement direction :(0.00000, 0.00000, 0.00000)
+ head velocity :(0.00000, 0.00000, 0.00000)
+Accelerometer Data 
+Gyroscope Data 
+Magnetometer Data 
+Eye Tracking 
+ eye_origin :(0.00100, 0.02463, 0.02330)
+ eye_direction :(-0.00148, 0.00892, 0.99996)
+ eye_cursor :(-0.00196, 0.04247, 2.02322)
+-------------------------------
+
+Log Entry : 2:29:09 PM Thursday, March 23, 2023
+14 29 9 805 
+Head Tracking 
+ head_origin :(0.00383, 0.08055, 0.07913)
+ head_direction :(-0.00248, 0.00917, 0.99995)
+ head movement direction :(0.00000, 0.00000, 0.00000)
+ head velocity :(0.00000, 0.00000, 0.00000)
+Accelerometer Data 
+Gyroscope Data 
+Magnetometer Data 
+Eye Tracking 
+ eye_origin :(0.00115, 0.02417, 0.02374)
+ eye_direction :(-0.00074, 0.00275, 1.00000)
+ eye_cursor :(-0.00034, 0.02967, 2.02373)
+-------------------------------
+
+Log Entry : 2:29:26 PM Thursday, March 23, 2023
+14 29 26 670 
+Head Tracking 
+ head_origin :(0.01791, 0.07501, 0.06382)
+ head_direction :(0.14955, -0.01889, 0.98857)
+ head movement direction :(0.10901, 0.66125, 0.74220)
+ head velocity :(0.00000, 0.00000, 0.00000)
+Accelerometer Data 
+Gyroscope Data 
+Magnetometer Data 
+Eye Tracking 
+ eye_origin :(0.01299, 0.07391, 0.07845)
+ eye_direction :(0.03757, -0.09288, 0.99497)
+ eye_cursor :(0.08813, -0.11184, 2.06839)
+-------------------------------
+
+Log Entry : 2:32:21 PM Thursday, March 23, 2023
+14 32 21 272 
+Head Tracking 
+ head_origin :(0.00645, 0.07263, 0.08640)
+ head_direction :(-0.00746, -0.08360, 0.99647)
+ head movement direction :(0.00000, 0.00000, 0.00000)
+ head velocity :(0.00000, 0.00000, 0.00000)
+Accelerometer Data 
+Gyroscope Data 
+Magnetometer Data 
+Eye Tracking 
+ eye_origin :(0.00194, 0.02179, 0.02592)
+ eye_direction :(-0.00224, -0.02510, 0.99968)
+ eye_cursor :(-0.00254, -0.02841, 2.02528)
+-------------------------------
+
+Log Entry : 2:32:38 PM Thursday, March 23, 2023
+14 32 38 492 
+Head Tracking 
+ head_origin :(-0.01347, 0.06964, 0.07154)
+ head_direction :(0.04972, -0.06992, 0.99631)
+ head movement direction :(-0.25659, 0.73759, 0.62460)
+ head velocity :(0.00000, 0.00000, 0.00000)
+Accelerometer Data 
+Gyroscope Data 
+Magnetometer Data 
+Eye Tracking 
+ eye_origin :(-0.02302, 0.07894, 0.07267)
+ eye_direction :(0.02016, 0.06283, 0.99782)
+ eye_cursor :(0.01730, 0.20459, 2.06831)
+-------------------------------
+
+Log Entry : 2:32:55 PM Thursday, March 23, 2023
+14 32 55 582 
+Head Tracking 
+ head_origin :(0.02283, 0.07385, 0.02250)
+ head_direction :(0.00487, -0.03427, 0.99940)
+ head movement direction :(0.45131, 0.83999, 0.30122)
+ head velocity :(0.00000, 0.00000, 0.00000)
+Accelerometer Data 
+Gyroscope Data 
+Magnetometer Data 
+Eye Tracking 
+ eye_origin :(0.03425, 0.07240, 0.02731)
+ eye_direction :(-0.02286, -0.11651, 0.99293)
+ eye_cursor :(-0.01147, -0.16062, 2.01316)
+-------------------------------
+
+Log Entry : 2:47:02 PM Thursday, March 23, 2023
+14 47 2 243 
+Head Tracking 
+ head_origin :(0.00511, 0.08252, 0.07841)
+ head_direction :(-0.00261, 0.03224, 0.99948)
+ head movement direction :(0.00000, 0.00000, 0.00000)
+ head velocity :(0.00000, 0.00000, 0.00000)
+Accelerometer Data 
+Gyroscope Data 
+Magnetometer Data 
+Eye Tracking 
+ eye_origin :(0.00153, 0.02475, 0.02352)
+ eye_direction :(-0.00078, 0.00967, 0.99995)
+ eye_cursor :(-0.00003, 0.04410, 2.02343)
+-------------------------------
+
+Log Entry : 2:47:19 PM Thursday, March 23, 2023
+14 47 19 43 
+Head Tracking 
+ head_origin :(0.01804, 0.07762, 0.08781)
+ head_direction :(0.22987, 0.00094, 0.97322)
+ head movement direction :(0.19271, 0.61793, 0.76225)
+ head velocity :(0.00000, 0.00000, 0.00000)
+Accelerometer Data 
+ Accelerometer[0] :9.70090
+ Accelerometer[1] :1.31866
+ Accelerometer[2] :-0.00067
+Gyroscope Data 
+ Gyroscope[0] :0.00413
+ Gyroscope[1] :0.00078
+ Gyroscope[2] :0.00630
+Magnetometer Data 
+ Magnetometer[0] :408.30000
+ Magnetometer[1] :412.65000
+ Magnetometer[2] :-177.60000
+Eye Tracking 
+ eye_origin :(0.02960, 0.07644, 0.09435)
+ eye_direction :(0.02213, 0.00190, 0.99975)
+ eye_cursor :(0.07386, 0.08023, 2.09386)
+-------------------------------
+
+Log Entry : 2:47:35 PM Thursday, March 23, 2023
+14 47 35 843 
+Head Tracking 
+ head_origin :(-0.10269, 0.06226, 0.14514)
+ head_direction :(-0.72424, -0.21066, 0.65658)
+ head movement direction :(-0.52671, 0.29705, 0.79645)
+ head velocity :(0.00000, 0.00000, 0.00000)
+Accelerometer Data 
+ Accelerometer[0] :9.71505
+ Accelerometer[1] :-1.01695
+ Accelerometer[2] :-0.60876
+Gyroscope Data 
+ Gyroscope[0] :0.04452
+ Gyroscope[1] :-0.05202
+ Gyroscope[2] :0.01359
+Magnetometer Data 
+ Magnetometer[0] :408.60000
+ Magnetometer[1] :435.30000
+ Magnetometer[2] :-182.85000
+Eye Tracking 
+ eye_origin :(-0.10571, 0.05794, 0.15385)
+ eye_direction :(-0.67931, -0.48810, 0.54799)
+ eye_cursor :(-1.46434, -0.91826, 1.24983)
+-------------------------------
+
