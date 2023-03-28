@@ -29,8 +29,12 @@ namespace Microsoft.MixedReality.Toolkit
         public Text AccelText = null;
         public Text GyroText = null;
         public Text MagText = null;
+        public Text HeadText = null;
+        public Text EyeText = null;
 
         private int count = 0;
+
+        public string logFlag = "All";
 
         public ImuVisualize RefImuVisualize = null;
 
@@ -79,35 +83,48 @@ namespace Microsoft.MixedReality.Toolkit
             temp_data += $"{curDateTime.ToLongTimeString()} {DateTime.Now.ToLongDateString()}\n";
             temp_data += $"{curDateTime.Hour} {curDateTime.Minute} {curDateTime.Second} {curDateTime.Millisecond} \n";
 
-            temp_data += $" head_origin :{Camera.main.transform.position.ToString("F5")}\n";
-            temp_data += $" head_direction :{Camera.main.transform.forward.ToString("F5")}\n";
-            temp_data += $" head movement direction :{head_movement_direction.ToString("F5")}\n";
-            temp_data += $" head velocity :{head_velocity.ToString("F5")}";
-
-            if (accelSampleData!=null && accelSampleData.Length == 3)
-            {
-                temp_data += $" Accelerometer[0] :{accelSampleData[0].ToString("F5")}\n";
-                temp_data += $" Accelerometer[1] :{accelSampleData[1].ToString("F5")}\n";
-                temp_data += $" Accelerometer[2] :{accelSampleData[2].ToString("F5")}\n";
+            if (string.Compare("Head",logFlag)==0 || string.Compare("All", logFlag) == 0) {
+                temp_data += $" head_origin :{Camera.main.transform.position.ToString("F5")}\n";
+                temp_data += $" head_direction :{Camera.main.transform.forward.ToString("F5")}\n";
+                temp_data += $" head movement direction :{head_movement_direction.ToString("F5")}\n";
+                temp_data += $" head velocity :{head_velocity.ToString("F5")}\n";
             }
 
-            if (gyroSampleData!=null && gyroSampleData.Length == 3)
-            {
-                temp_data += $" Gyroscope[0] :{gyroSampleData[0].ToString("F5")}\n";
-                temp_data += $" Gyroscope[1] :{gyroSampleData[1].ToString("F5")}\n";
-                temp_data += $" Gyroscope[2] :{gyroSampleData[2].ToString("F5")}\n";
+
+            if (string.Compare("Accel", logFlag) == 0 || string.Compare("All", logFlag) == 0) {
+                if (accelSampleData != null && accelSampleData.Length == 3)
+                {
+                    temp_data += $" Accelerometer[0] :{accelSampleData[0].ToString("F5")}\n";
+                    temp_data += $" Accelerometer[1] :{accelSampleData[1].ToString("F5")}\n";
+                    temp_data += $" Accelerometer[2] :{accelSampleData[2].ToString("F5")}\n";
+                }
             }
 
-            if (magSampleData!=null && magSampleData.Length == 3)
-            {
-                temp_data += $" Magnetometer[0] :{ magSampleData[0].ToString("F5")}\n";
-                temp_data += $" Magnetometer[1] :{magSampleData[1].ToString("F5")}\n";
-                temp_data += $" Magnetometer[2] :{magSampleData[2].ToString("F5")}\n";
+            if (string.Compare("Gyro", logFlag) == 0 || string.Compare("All", logFlag) == 0) {
+                if (gyroSampleData != null && gyroSampleData.Length == 3)
+                {
+                    temp_data += $" Gyroscope[0] :{gyroSampleData[0].ToString("F5")}\n";
+                    temp_data += $" Gyroscope[1] :{gyroSampleData[1].ToString("F5")}\n";
+                    temp_data += $" Gyroscope[2] :{gyroSampleData[2].ToString("F5")}\n";
+                }
             }
 
-            temp_data += $" eye_origin :{eye_origin.ToString("F5")}\n";
-            temp_data += $" eye_direction :{eye_direction.ToString("F5")}\n";
-            temp_data += $" eye_cursor :{eye_cursor.ToString("F5")}\n";
+            if (string.Compare("Mag", logFlag) == 0 || string.Compare("All", logFlag) == 0) {
+                if (magSampleData != null && magSampleData.Length == 3)
+                {
+                    temp_data += $" Magnetometer[0] :{ magSampleData[0].ToString("F5")}\n";
+                    temp_data += $" Magnetometer[1] :{magSampleData[1].ToString("F5")}\n";
+                    temp_data += $" Magnetometer[2] :{magSampleData[2].ToString("F5")}\n";
+                }
+            }
+
+
+            if (string.Compare("Eye", logFlag) == 0 || string.Compare("All", logFlag) == 0) {
+                temp_data += $" eye_origin :{eye_origin.ToString("F5")}\n";
+                temp_data += $" eye_direction :{eye_direction.ToString("F5")}\n";
+                temp_data += $" eye_cursor :{eye_cursor.ToString("F5")}\n";
+
+            }
 
 
             temp_data += "-------------------------------\n";
@@ -154,7 +171,13 @@ namespace Microsoft.MixedReality.Toolkit
             }
         }
 #endif
+
+            
+            
+
             string temp_data = PrepareData();
+            Debug.Log(logFlag);
+
             // Convert to Vector3
             accelVector = CreateAccelVector(accelSampleData);
             gyroEulerAngle = CreateGyroEulerAngle(gyroSampleData);
@@ -180,6 +203,9 @@ namespace Microsoft.MixedReality.Toolkit
 
 
             }
+
+            HeadText.text = $"Head {head_movement_direction.ToString("F5")}";
+            EyeText.text = $"Eye {eye_cursor.ToString("F5")}";
 
 
             if (log_sensor_data == true)
@@ -259,7 +285,7 @@ namespace Microsoft.MixedReality.Toolkit
             string path = Path.Combine(Application.persistentDataPath, filename);
             //string path = filename;
     
-            // Debug.Log("file path "+path);
+            Debug.Log("file path "+path);
             using (var file = new FileStream(path, FileMode.Append, FileAccess.Write, FileShare.Write))
             {
                 using (var writer = new StreamWriter(file))
@@ -272,6 +298,36 @@ namespace Microsoft.MixedReality.Toolkit
                 }
 
             }
+        }
+
+        public void ChangeLogFlagToAccel()
+        {
+            logFlag = "Accel";
+        }
+
+        public void ChangeLogFlagToGyro()
+        {
+            logFlag = "Gyro";
+        }
+
+        public void ChangeLogFlagToMag()
+        {
+            logFlag = "Mag";
+        }
+
+        public void ChangeLogFlagToHead()
+        {
+            logFlag = "Head";
+        }
+
+        public void ChangeLogFlagToEye()
+        {
+            logFlag = "Eye";
+        }
+
+        public void ChangeLogFlagToAll()
+        {
+            logFlag = "All";
         }
     }
 
