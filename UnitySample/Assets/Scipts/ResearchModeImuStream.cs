@@ -29,8 +29,15 @@ namespace Microsoft.MixedReality.Toolkit
         public Text AccelText = null;
         public Text GyroText = null;
         public Text MagText = null;
-        public Text HeadText = null;
-        public Text EyeText = null;
+
+        public Text HeadOriginText = null;
+        public Text HeadDirectionText = null;
+        public Text HeadVelocityText = null;
+        public Text HeadMovementDirectionText = null;
+
+        public Text EyeOriginText = null;
+        public Text EyeDirectionText = null;
+        public Text EyeCursorText = null;
 
         private int count = 0;
 
@@ -52,6 +59,9 @@ namespace Microsoft.MixedReality.Toolkit
 
         public Vector3 head_velocity = Vector3.zero;
 
+        public Vector3 head_origin = Vector3.zero;
+        public Vector3 head_direction = Vector3.zero;
+
         [SerializeField]
         private float defaultDistanceInMeters = 2f;
 
@@ -71,7 +81,6 @@ namespace Microsoft.MixedReality.Toolkit
         researchMode.StartGyroSensorLoop();
         researchMode.StartMagSensorLoop();
 #endif
-            AccelText.text = $"Accel Nothing : CM";
         }
 
         public string PrepareData()
@@ -84,8 +93,9 @@ namespace Microsoft.MixedReality.Toolkit
             temp_data += $"{curDateTime.Hour} {curDateTime.Minute} {curDateTime.Second} {curDateTime.Millisecond} \n";
 
             if (string.Compare("Head",logFlag)==0 || string.Compare("All", logFlag) == 0) {
-                temp_data += $" head_origin :{Camera.main.transform.position.ToString("F5")}\n";
-                temp_data += $" head_direction :{Camera.main.transform.forward.ToString("F5")}\n";
+
+                temp_data += $" head_origin :{head_origin.ToString("F5")}\n";
+                temp_data += $" head_direction :{head_direction.ToString("F5")}\n";
                 temp_data += $" head movement direction :{head_movement_direction.ToString("F5")}\n";
                 temp_data += $" head velocity :{head_velocity.ToString("F5")}\n";
             }
@@ -141,10 +151,12 @@ namespace Microsoft.MixedReality.Toolkit
             accelSampleData = researchMode.GetAccelSample();
             if (accelSampleData.Length == 3)
             {
-                AccelText.text = $"Accel : {accelSampleData[0]:F3}, {accelSampleData[1]:F3}, {accelSampleData[2]:F3}";
-            }
-            else{
-                AccelText.text = $"Accel Nothing : {accelSampleData.Length}";
+                if (string.Compare("Accel", logFlag) == 0 || string.Compare("All", logFlag) == 0) {
+                    AccelText.text = $"Accel : {accelSampleData[0]:F3}, {accelSampleData[1]:F3}, {accelSampleData[2]:F3}";
+                }
+                else{
+                    AccelText.text = $"Accel : ";
+                }
             }
         }
 
@@ -154,10 +166,12 @@ namespace Microsoft.MixedReality.Toolkit
             gyroSampleData = researchMode.GetGyroSample();
             if (gyroSampleData.Length == 3)
             {
+                if (string.Compare("Gyro", logFlag) == 0 || string.Compare("All", logFlag) == 0) {
                 GyroText.text = $"Gyro  : {gyroSampleData[0]:F3}, {gyroSampleData[1]:F3}, {gyroSampleData[2]:F3}";
-            }
-            else{
-                GyroText.text = $"Gyro Nothing : {gyroSampleData.Length}";
+                }
+                else{
+                    GyroText.text = $"Gyro  : ";
+                }
             }
         }
 
@@ -167,15 +181,20 @@ namespace Microsoft.MixedReality.Toolkit
             magSampleData = researchMode.GetMagSample();
             if (magSampleData.Length == 3)
             {
+                if (string.Compare("Mag", logFlag) == 0 || string.Compare("All", logFlag) == 0) {
                 MagText.text = $"Mag   : {magSampleData[0]:F3}, {magSampleData[1]:F3}, {magSampleData[2]:F3}";
+                }
+                else{
+                    MagText.text = $"Mag   : ";
+                }
             }
         }
 #endif
 
-            
-            
 
-            string temp_data = PrepareData();
+
+
+
             Debug.Log(logFlag);
 
             // Convert to Vector3
@@ -204,8 +223,40 @@ namespace Microsoft.MixedReality.Toolkit
 
             }
 
-            HeadText.text = $"Head {head_movement_direction.ToString("F5")}";
-            EyeText.text = $"Eye {eye_cursor.ToString("F5")}";
+            head_origin = Camera.main.transform.position;
+            head_direction = Camera.main.transform.forward;
+
+            if (string.Compare("Head", logFlag) == 0 || string.Compare("All", logFlag) == 0)
+            {
+                HeadMovementDirectionText.text = $"H Move Dir : {head_movement_direction.ToString("F5")}";
+                HeadOriginText.text = $"H Origin : {head_origin.ToString("F5")}";
+                HeadDirectionText.text = $"H Direction : {head_direction.ToString("F5")}";
+                HeadVelocityText.text = $"H Velocity : {head_velocity.ToString("F5")}";
+            }
+            else
+            {
+                HeadMovementDirectionText.text = $"H Move Dir : ";
+                HeadOriginText.text = $"H Origin : ";
+                HeadDirectionText.text = $"H Direction : ";
+                HeadVelocityText.text = $"H Velocity : ";
+            }
+
+            if (string.Compare("Eye", logFlag) == 0 || string.Compare("All", logFlag) == 0)
+            {
+                EyeCursorText.text = $"E Cursor : {eye_cursor.ToString("F5")}";
+                EyeDirectionText.text = $"E Direction : {eye_direction.ToString("F5")}";
+                EyeOriginText.text = $"E Origin : {eye_origin.ToString("F5")}";
+            }
+            else
+            {
+                EyeCursorText.text = $"E Cursor : ";
+                EyeDirectionText.text = $"E Direction : ";
+                EyeOriginText.text = $"E Origin : ";
+            }
+
+            string temp_data = PrepareData();
+
+            
 
 
             if (log_sensor_data == true)

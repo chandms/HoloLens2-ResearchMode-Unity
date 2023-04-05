@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System;
+using System.IO;
+using System.Text;
 //using System.Runtime.Serialization.Formatters.Binary;
 #if WINDOWS_UWP
 using Windows.Networking.Sockets;
@@ -22,8 +24,10 @@ public class TCPClientIMU : MonoBehaviour
     [SerializeField]
     string hostIPAddress, port;
 
+
     public Renderer ConnectionStatusLED;
     private bool connected = false;
+    public string configfileName = "config_sensor.txt";
     public bool Connected
     {
         get { return connected; }
@@ -36,6 +40,34 @@ public class TCPClientIMU : MonoBehaviour
     private async void StartCoonection()
     {
         if (socket != null) socket.Dispose();
+
+        string configfilePath = Path.Combine(Application.persistentDataPath, configfileName);
+        // string configfilePath = configfileName;
+
+        if (File.Exists(configfilePath))
+        {
+
+            byte[] configData = UnityEngine.Windows.File.ReadAllBytes(configfilePath);
+            string configText = Encoding.ASCII.GetString(configData);
+
+            string[] words = configText.Split('\n');
+
+            foreach (var word in words)
+            {
+                string[] cur_pair = word.Split(':');
+                string key = cur_pair[0].Trim();
+                string val = cur_pair[1].Trim();
+
+                if (string.Compare(key, "ip") == 0)
+                {
+                    hostIPAddress = val;
+                }
+
+                else if(string.Compare(key, "port") == 0){
+                    port = val;
+                }
+            }
+        }
 
         try
         {
