@@ -1,0 +1,5817 @@
+
+Log Entry : 
+9:05:30 AM Sunday, April 9, 2023
+9 5 30 738 
+ head_origin :(-0.03268, 0.07498, 0.08174)
+ head_direction :(0.01155, -0.14204, 0.98979)
+ head movement direction :(-0.22417, 0.62776, 0.74543)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.81768
+ Accelerometer[1] :-0.38590
+ Accelerometer[2] :-0.69819
+ Gyroscope[0] :-0.04293
+ Gyroscope[1] :-0.01126
+ Gyroscope[2] :0.07625
+ Magnetometer[0] :432.30000
+ Magnetometer[1] :403.80000
+ Magnetometer[2] :-184.20000
+ eye_origin :(-0.02610, 0.07136, 0.08588)
+ eye_direction :(-0.02451, -0.26099, 0.96503)
+ eye_cursor :(-0.07513, -0.45062, 2.01594)
+-------------------------------
+
+Log Entry : 
+9:05:30 AM Sunday, April 9, 2023
+9 5 30 758 
+ head_origin :(-0.03300, 0.07540, 0.08246)
+ head_direction :(0.00991, -0.13950, 0.99017)
+ head movement direction :(-0.22451, 0.62722, 0.74578)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.81768
+ Accelerometer[1] :-0.38590
+ Accelerometer[2] :-0.69819
+ Gyroscope[0] :-0.04293
+ Gyroscope[1] :-0.01126
+ Gyroscope[2] :0.07625
+ Magnetometer[0] :432.30000
+ Magnetometer[1] :403.80000
+ Magnetometer[2] :-184.20000
+ eye_origin :(-0.02622, 0.07139, 0.08605)
+ eye_direction :(-0.02489, -0.26136, 0.96492)
+ eye_cursor :(-0.07600, -0.45133, 2.01589)
+-------------------------------
+
+Log Entry : 
+9:05:30 AM Sunday, April 9, 2023
+9 5 30 768 
+ head_origin :(-0.03335, 0.07575, 0.08331)
+ head_direction :(0.00833, -0.13546, 0.99075)
+ head movement direction :(-0.22489, 0.62667, 0.74613)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.81768
+ Accelerometer[1] :-0.38590
+ Accelerometer[2] :-0.69819
+ Gyroscope[0] :-0.07279
+ Gyroscope[1] :-0.01078
+ Gyroscope[2] :-0.03110
+ Magnetometer[0] :432.30000
+ Magnetometer[1] :403.80000
+ Magnetometer[2] :-184.20000
+ eye_origin :(-0.02633, 0.07143, 0.08624)
+ eye_direction :(-0.02535, -0.26179, 0.96479)
+ eye_cursor :(-0.07703, -0.45214, 2.01583)
+-------------------------------
+
+Log Entry : 
+9:05:30 AM Sunday, April 9, 2023
+9 5 30 788 
+ head_origin :(-0.03370, 0.07593, 0.08403)
+ head_direction :(0.00646, -0.13131, 0.99132)
+ head movement direction :(-0.22529, 0.62610, 0.74649)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.87362
+ Accelerometer[1] :-0.28783
+ Accelerometer[2] :-0.63760
+ Gyroscope[0] :-0.07279
+ Gyroscope[1] :-0.01078
+ Gyroscope[2] :-0.03110
+ Magnetometer[0] :432.30000
+ Magnetometer[1] :403.80000
+ Magnetometer[2] :-184.20000
+ eye_origin :(-0.02644, 0.07148, 0.08645)
+ eye_direction :(-0.02586, -0.26209, 0.96470)
+ eye_cursor :(-0.07816, -0.45269, 2.01585)
+-------------------------------
+
+Log Entry : 
+9:05:30 AM Sunday, April 9, 2023
+9 5 30 808 
+ head_origin :(-0.03407, 0.07587, 0.08483)
+ head_direction :(0.00471, -0.12834, 0.99172)
+ head movement direction :(-0.22570, 0.62551, 0.74686)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.87362
+ Accelerometer[1] :-0.28783
+ Accelerometer[2] :-0.63760
+ Gyroscope[0] :-0.07279
+ Gyroscope[1] :-0.01078
+ Gyroscope[2] :-0.03110
+ Magnetometer[0] :432.30000
+ Magnetometer[1] :403.80000
+ Magnetometer[2] :-184.20000
+ eye_origin :(-0.02655, 0.07154, 0.08667)
+ eye_direction :(-0.02633, -0.26252, 0.96457)
+ eye_cursor :(-0.07921, -0.45350, 2.01581)
+-------------------------------
+
+Log Entry : 
+9:05:30 AM Sunday, April 9, 2023
+9 5 30 818 
+ head_origin :(-0.03449, 0.07567, 0.08546)
+ head_direction :(0.00341, -0.12720, 0.99187)
+ head movement direction :(-0.22612, 0.62491, 0.74723)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.87362
+ Accelerometer[1] :-0.28783
+ Accelerometer[2] :-0.63760
+ Gyroscope[0] :-0.07201
+ Gyroscope[1] :-0.01889
+ Gyroscope[2] :-0.14594
+ Magnetometer[0] :432.30000
+ Magnetometer[1] :403.80000
+ Magnetometer[2] :-184.20000
+ eye_origin :(-0.02668, 0.07160, 0.08691)
+ eye_direction :(-0.02685, -0.26282, 0.96447)
+ eye_cursor :(-0.08038, -0.45404, 2.01585)
+-------------------------------
+
+Log Entry : 
+9:05:30 AM Sunday, April 9, 2023
+9 5 30 838 
+ head_origin :(-0.03498, 0.07598, 0.08613)
+ head_direction :(0.00226, -0.12553, 0.99209)
+ head movement direction :(-0.22657, 0.62430, 0.74761)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.87362
+ Accelerometer[1] :-0.28783
+ Accelerometer[2] :-0.63760
+ Gyroscope[0] :-0.07201
+ Gyroscope[1] :-0.01889
+ Gyroscope[2] :-0.14594
+ Magnetometer[0] :432.30000
+ Magnetometer[1] :403.80000
+ Magnetometer[2] :-184.20000
+ eye_origin :(-0.02680, 0.07168, 0.08717)
+ eye_direction :(-0.02738, -0.26324, 0.96434)
+ eye_cursor :(-0.08155, -0.45481, 2.01585)
+-------------------------------
+
+Log Entry : 
+9:05:30 AM Sunday, April 9, 2023
+9 5 30 858 
+ head_origin :(-0.03546, 0.07620, 0.08682)
+ head_direction :(0.00091, -0.12126, 0.99262)
+ head movement direction :(-0.22701, 0.62367, 0.74800)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.87362
+ Accelerometer[1] :-0.28783
+ Accelerometer[2] :-0.63760
+ Gyroscope[0] :-0.07201
+ Gyroscope[1] :-0.01889
+ Gyroscope[2] :-0.14594
+ Magnetometer[0] :432.30000
+ Magnetometer[1] :403.80000
+ Magnetometer[2] :-184.20000
+ eye_origin :(-0.02692, 0.07175, 0.08744)
+ eye_direction :(-0.02792, -0.26359, 0.96423)
+ eye_cursor :(-0.08276, -0.45542, 2.01590)
+-------------------------------
+
+Log Entry : 
+9:05:30 AM Sunday, April 9, 2023
+9 5 30 868 
+ head_origin :(-0.03585, 0.07633, 0.08751)
+ head_direction :(-0.00114, -0.11574, 0.99328)
+ head movement direction :(-0.22746, 0.62301, 0.74841)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :10.00810
+ Accelerometer[1] :-0.10220
+ Accelerometer[2] :-0.50247
+ Gyroscope[0] :-0.06500
+ Gyroscope[1] :-0.04976
+ Gyroscope[2] :-0.09209
+ Magnetometer[0] :432.30000
+ Magnetometer[1] :403.80000
+ Magnetometer[2] :-184.20000
+ eye_origin :(-0.02706, 0.07183, 0.08773)
+ eye_direction :(-0.02828, -0.26396, 0.96412)
+ eye_cursor :(-0.08362, -0.45609, 2.01597)
+-------------------------------
+
+Log Entry : 
+9:05:30 AM Sunday, April 9, 2023
+9 5 30 888 
+ head_origin :(-0.03597, 0.07617, 0.08812)
+ head_direction :(-0.00353, -0.11068, 0.99385)
+ head movement direction :(-0.22793, 0.62234, 0.74883)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :10.00810
+ Accelerometer[1] :-0.10220
+ Accelerometer[2] :-0.50247
+ Gyroscope[0] :-0.06500
+ Gyroscope[1] :-0.04976
+ Gyroscope[2] :-0.09209
+ Magnetometer[0] :432.30000
+ Magnetometer[1] :403.80000
+ Magnetometer[2] :-184.20000
+ eye_origin :(-0.02721, 0.07192, 0.08804)
+ eye_direction :(-0.02870, -0.26415, 0.96405)
+ eye_cursor :(-0.08462, -0.45639, 2.01615)
+-------------------------------
+
+Log Entry : 
+9:05:30 AM Sunday, April 9, 2023
+9 5 30 908 
+ head_origin :(-0.03593, 0.07570, 0.08872)
+ head_direction :(-0.00477, -0.10800, 0.99414)
+ head movement direction :(-0.22841, 0.62163, 0.74927)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :10.00810
+ Accelerometer[1] :-0.10220
+ Accelerometer[2] :-0.50247
+ Gyroscope[0] :-0.06500
+ Gyroscope[1] :-0.04976
+ Gyroscope[2] :-0.09209
+ Magnetometer[0] :432.30000
+ Magnetometer[1] :403.80000
+ Magnetometer[2] :-184.20000
+ eye_origin :(-0.02736, 0.07201, 0.08836)
+ eye_direction :(-0.02901, -0.26450, 0.96395)
+ eye_cursor :(-0.08538, -0.45699, 2.01626)
+-------------------------------
+
+Log Entry : 
+9:05:30 AM Sunday, April 9, 2023
+9 5 30 918 
+ head_origin :(-0.03599, 0.07513, 0.08893)
+ head_direction :(-0.00475, -0.10916, 0.99401)
+ head movement direction :(-0.22892, 0.62090, 0.74972)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :10.00810
+ Accelerometer[1] :-0.10220
+ Accelerometer[2] :-0.50247
+ Gyroscope[0] :-0.09617
+ Gyroscope[1] :-0.01865
+ Gyroscope[2] :-0.19222
+ Magnetometer[0] :432.90000
+ Magnetometer[1] :404.25000
+ Magnetometer[2] :-186.15000
+ eye_origin :(-0.02753, 0.07209, 0.08869)
+ eye_direction :(-0.02935, -0.26471, 0.96388)
+ eye_cursor :(-0.08623, -0.45732, 2.01645)
+-------------------------------
+
+Log Entry : 
+9:05:30 AM Sunday, April 9, 2023
+9 5 30 938 
+ head_origin :(-0.03632, 0.07502, 0.08891)
+ head_direction :(-0.00428, -0.11271, 0.99362)
+ head movement direction :(-0.22944, 0.62014, 0.75019)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :10.00810
+ Accelerometer[1] :-0.10220
+ Accelerometer[2] :-0.50247
+ Gyroscope[0] :-0.09617
+ Gyroscope[1] :-0.01865
+ Gyroscope[2] :-0.19222
+ Magnetometer[0] :432.90000
+ Magnetometer[1] :404.25000
+ Magnetometer[2] :-186.15000
+ eye_origin :(-0.02773, 0.07218, 0.08903)
+ eye_direction :(-0.02948, -0.26514, 0.96376)
+ eye_cursor :(-0.08670, -0.45811, 2.01654)
+-------------------------------
+
+Log Entry : 
+9:05:30 AM Sunday, April 9, 2023
+9 5 30 958 
+ head_origin :(-0.03682, 0.07519, 0.08878)
+ head_direction :(-0.00446, -0.11448, 0.99342)
+ head movement direction :(-0.23002, 0.61934, 0.75067)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :10.11799
+ Accelerometer[1] :-0.07409
+ Accelerometer[2] :-0.53005
+ Gyroscope[0] :-0.09617
+ Gyroscope[1] :-0.01865
+ Gyroscope[2] :-0.19222
+ Magnetometer[0] :432.90000
+ Magnetometer[1] :404.25000
+ Magnetometer[2] :-186.15000
+ eye_origin :(-0.02793, 0.07225, 0.08936)
+ eye_direction :(-0.02962, -0.26555, 0.96364)
+ eye_cursor :(-0.08718, -0.45885, 2.01665)
+-------------------------------
+
+Log Entry : 
+9:05:30 AM Sunday, April 9, 2023
+9 5 30 968 
+ head_origin :(-0.03734, 0.07504, 0.08864)
+ head_direction :(-0.00566, -0.11621, 0.99321)
+ head movement direction :(-0.23064, 0.61850, 0.75117)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :10.11799
+ Accelerometer[1] :-0.07409
+ Accelerometer[2] :-0.53005
+ Gyroscope[0] :-0.06523
+ Gyroscope[1] :0.07276
+ Gyroscope[2] :-0.07794
+ Magnetometer[0] :432.90000
+ Magnetometer[1] :404.25000
+ Magnetometer[2] :-186.15000
+ eye_origin :(-0.02818, 0.07231, 0.08970)
+ eye_direction :(-0.02955, -0.26618, 0.96347)
+ eye_cursor :(-0.08727, -0.46004, 2.01664)
+-------------------------------
+
+Log Entry : 
+9:05:30 AM Sunday, April 9, 2023
+9 5 30 998 
+ head_origin :(-0.03780, 0.07514, 0.08825)
+ head_direction :(-0.00847, -0.11763, 0.99302)
+ head movement direction :(-0.23133, 0.61762, 0.75168)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :10.11799
+ Accelerometer[1] :-0.07409
+ Accelerometer[2] :-0.53005
+ Gyroscope[0] :-0.06523
+ Gyroscope[1] :0.07276
+ Gyroscope[2] :-0.07794
+ Magnetometer[0] :432.90000
+ Magnetometer[1] :404.25000
+ Magnetometer[2] :-186.15000
+ eye_origin :(-0.02843, 0.07237, 0.09003)
+ eye_direction :(-0.02952, -0.26679, 0.96330)
+ eye_cursor :(-0.08747, -0.46122, 2.01663)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 8 
+ head_origin :(-0.03810, 0.07498, 0.08812)
+ head_direction :(-0.01121, -0.11878, 0.99286)
+ head movement direction :(-0.23210, 0.61670, 0.75220)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :10.11799
+ Accelerometer[1] :-0.07409
+ Accelerometer[2] :-0.53005
+ Gyroscope[0] :-0.06523
+ Gyroscope[1] :0.07276
+ Gyroscope[2] :-0.07794
+ Magnetometer[0] :432.90000
+ Magnetometer[1] :404.25000
+ Magnetometer[2] :-186.15000
+ eye_origin :(-0.02871, 0.07241, 0.09035)
+ eye_direction :(-0.02942, -0.26755, 0.96309)
+ eye_cursor :(-0.08755, -0.46270, 2.01654)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 18 
+ head_origin :(-0.03855, 0.07476, 0.08758)
+ head_direction :(-0.01384, -0.12107, 0.99255)
+ head movement direction :(-0.23296, 0.61574, 0.75273)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :10.11799
+ Accelerometer[1] :-0.07409
+ Accelerometer[2] :-0.53005
+ Gyroscope[0] :-0.08872
+ Gyroscope[1] :0.00396
+ Gyroscope[2] :-0.03105
+ Magnetometer[0] :432.90000
+ Magnetometer[1] :404.25000
+ Magnetometer[2] :-186.15000
+ eye_origin :(-0.02899, 0.07245, 0.09065)
+ eye_direction :(-0.02936, -0.26830, 0.96289)
+ eye_cursor :(-0.08771, -0.46416, 2.01643)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 38 
+ head_origin :(-0.03918, 0.07461, 0.08700)
+ head_direction :(-0.01647, -0.12355, 0.99220)
+ head movement direction :(-0.23391, 0.61474, 0.75325)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.44842
+ Accelerometer[1] :-0.35238
+ Accelerometer[2] :-0.51471
+ Gyroscope[0] :-0.08872
+ Gyroscope[1] :0.00396
+ Gyroscope[2] :-0.03105
+ Magnetometer[0] :432.90000
+ Magnetometer[1] :404.25000
+ Magnetometer[2] :-186.15000
+ eye_origin :(-0.02933, 0.07248, 0.09094)
+ eye_direction :(-0.02911, -0.26916, 0.96266)
+ eye_cursor :(-0.08754, -0.46584, 2.01625)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 58 
+ head_origin :(-0.03998, 0.07445, 0.08632)
+ head_direction :(-0.02029, -0.12683, 0.99172)
+ head movement direction :(-0.23497, 0.61371, 0.75376)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.44842
+ Accelerometer[1] :-0.35238
+ Accelerometer[2] :-0.51471
+ Gyroscope[0] :-0.08872
+ Gyroscope[1] :0.00396
+ Gyroscope[2] :-0.03105
+ Magnetometer[0] :432.90000
+ Magnetometer[1] :404.25000
+ Magnetometer[2] :-186.15000
+ eye_origin :(-0.02966, 0.07250, 0.09121)
+ eye_direction :(-0.02893, -0.27002, 0.96242)
+ eye_cursor :(-0.08751, -0.46755, 2.01604)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 68 
+ head_origin :(-0.04086, 0.07421, 0.08561)
+ head_direction :(-0.02506, -0.13022, 0.99117)
+ head movement direction :(-0.23614, 0.61265, 0.75426)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.44842
+ Accelerometer[1] :-0.35238
+ Accelerometer[2] :-0.51471
+ Gyroscope[0] :-0.07362
+ Gyroscope[1] :-0.01129
+ Gyroscope[2] :0.09112
+ Magnetometer[0] :432.90000
+ Magnetometer[1] :404.25000
+ Magnetometer[2] :-186.15000
+ eye_origin :(-0.03002, 0.07251, 0.09144)
+ eye_direction :(-0.02877, -0.27089, 0.96218)
+ eye_cursor :(-0.08756, -0.46928, 2.01580)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 88 
+ head_origin :(-0.04177, 0.07422, 0.08468)
+ head_direction :(-0.03040, -0.13341, 0.99059)
+ head movement direction :(-0.23745, 0.61156, 0.75473)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.44842
+ Accelerometer[1] :-0.35238
+ Accelerometer[2] :-0.51471
+ Gyroscope[0] :-0.07362
+ Gyroscope[1] :-0.01129
+ Gyroscope[2] :0.09112
+ Magnetometer[0] :432.90000
+ Magnetometer[1] :404.25000
+ Magnetometer[2] :-186.15000
+ eye_origin :(-0.03040, 0.07251, 0.09165)
+ eye_direction :(-0.02878, -0.27184, 0.96191)
+ eye_cursor :(-0.08796, -0.47116, 2.01548)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 108 
+ head_origin :(-0.04269, 0.07408, 0.08406)
+ head_direction :(-0.03542, -0.13391, 0.99036)
+ head movement direction :(-0.23888, 0.61046, 0.75516)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.58150
+ Accelerometer[1] :-0.36364
+ Accelerometer[2] :-0.42846
+ Gyroscope[0] :-0.19325
+ Gyroscope[1] :-0.05763
+ Gyroscope[2] :0.06157
+ Magnetometer[0] :432.90000
+ Magnetometer[1] :404.25000
+ Magnetometer[2] :-186.15000
+ eye_origin :(-0.03083, 0.07250, 0.09182)
+ eye_direction :(-0.02866, -0.27274, 0.96166)
+ eye_cursor :(-0.08815, -0.47299, 2.01514)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 128 
+ head_origin :(-0.04367, 0.07374, 0.08340)
+ head_direction :(-0.04009, -0.13422, 0.99014)
+ head movement direction :(-0.24048, 0.60935, 0.75556)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.58150
+ Accelerometer[1] :-0.36364
+ Accelerometer[2] :-0.42846
+ Gyroscope[0] :-0.19325
+ Gyroscope[1] :-0.05763
+ Gyroscope[2] :0.06157
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :402.30000
+ Magnetometer[2] :-185.85000
+ eye_origin :(-0.03127, 0.07248, 0.09196)
+ eye_direction :(-0.02875, -0.27369, 0.96139)
+ eye_cursor :(-0.08876, -0.47491, 2.01473)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 138 
+ head_origin :(-0.04476, 0.07360, 0.08268)
+ head_direction :(-0.04437, -0.13490, 0.98986)
+ head movement direction :(-0.24224, 0.60823, 0.75589)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.58150
+ Accelerometer[1] :-0.36364
+ Accelerometer[2] :-0.42846
+ Gyroscope[0] :-0.19325
+ Gyroscope[1] :-0.05763
+ Gyroscope[2] :0.06157
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :402.30000
+ Magnetometer[2] :-185.85000
+ eye_origin :(-0.03174, 0.07245, 0.09207)
+ eye_direction :(-0.02849, -0.27452, 0.96116)
+ eye_cursor :(-0.08873, -0.47659, 2.01439)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 148 
+ head_origin :(-0.04594, 0.07321, 0.08177)
+ head_direction :(-0.04952, -0.13529, 0.98957)
+ head movement direction :(-0.24417, 0.60711, 0.75617)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.58150
+ Accelerometer[1] :-0.36364
+ Accelerometer[2] :-0.42846
+ Gyroscope[0] :-0.19325
+ Gyroscope[1] :-0.05763
+ Gyroscope[2] :0.06157
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :402.30000
+ Magnetometer[2] :-185.85000
+ eye_origin :(-0.03221, 0.07243, 0.09216)
+ eye_direction :(-0.02836, -0.27535, 0.96093)
+ eye_cursor :(-0.08892, -0.47826, 2.01401)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 168 
+ head_origin :(-0.04705, 0.07279, 0.08092)
+ head_direction :(-0.05545, -0.13629, 0.98912)
+ head movement direction :(-0.24625, 0.60600, 0.75639)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.58150
+ Accelerometer[1] :-0.36364
+ Accelerometer[2] :-0.42846
+ Gyroscope[0] :-0.27192
+ Gyroscope[1] :-0.09578
+ Gyroscope[2] :0.12336
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :402.30000
+ Magnetometer[2] :-185.85000
+ eye_origin :(-0.03272, 0.07239, 0.09221)
+ eye_direction :(-0.02815, -0.27589, 0.96078)
+ eye_cursor :(-0.08902, -0.47939, 2.01376)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 188 
+ head_origin :(-0.04808, 0.07230, 0.08014)
+ head_direction :(-0.06123, -0.13735, 0.98863)
+ head movement direction :(-0.24852, 0.60489, 0.75653)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.58150
+ Accelerometer[1] :-0.36364
+ Accelerometer[2] :-0.42846
+ Gyroscope[0] :-0.27192
+ Gyroscope[1] :-0.09578
+ Gyroscope[2] :0.12336
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :402.30000
+ Magnetometer[2] :-185.85000
+ eye_origin :(-0.03323, 0.07235, 0.09224)
+ eye_direction :(-0.02806, -0.27644, 0.96062)
+ eye_cursor :(-0.08936, -0.48053, 2.01348)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 198 
+ head_origin :(-0.04923, 0.07221, 0.07934)
+ head_direction :(-0.06715, -0.13846, 0.98809)
+ head movement direction :(-0.25095, 0.60380, 0.75660)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.89189
+ Accelerometer[1] :-0.31438
+ Accelerometer[2] :-0.28615
+ Gyroscope[0] :-0.27192
+ Gyroscope[1] :-0.09578
+ Gyroscope[2] :0.12336
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :402.30000
+ Magnetometer[2] :-185.85000
+ eye_origin :(-0.03378, 0.07230, 0.09223)
+ eye_direction :(-0.02821, -0.27702, 0.96045)
+ eye_cursor :(-0.09020, -0.48174, 2.01313)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 218 
+ head_origin :(-0.05036, 0.07199, 0.07873)
+ head_direction :(-0.07326, -0.13844, 0.98766)
+ head movement direction :(-0.25356, 0.60272, 0.75659)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.89189
+ Accelerometer[1] :-0.31438
+ Accelerometer[2] :-0.28615
+ Gyroscope[0] :-0.26429
+ Gyroscope[1] :0.01111
+ Gyroscope[2] :0.06175
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :402.30000
+ Magnetometer[2] :-185.85000
+ eye_origin :(-0.03407, 0.07231, 0.09220)
+ eye_direction :(-0.03075, -0.27072, 0.96217)
+ eye_cursor :(-0.09558, -0.46912, 2.01654)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 248 
+ head_origin :(-0.05133, 0.07161, 0.07813)
+ head_direction :(-0.08007, -0.13739, 0.98727)
+ head movement direction :(-0.25613, 0.60173, 0.75652)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.89189
+ Accelerometer[1] :-0.31438
+ Accelerometer[2] :-0.28615
+ Gyroscope[0] :-0.26429
+ Gyroscope[1] :0.01111
+ Gyroscope[2] :0.06175
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :402.30000
+ Magnetometer[2] :-185.85000
+ eye_origin :(-0.03407, 0.07231, 0.09220)
+ eye_direction :(-0.03075, -0.27072, 0.96217)
+ eye_cursor :(-0.09558, -0.46912, 2.01654)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 268 
+ head_origin :(-0.05216, 0.07158, 0.07780)
+ head_direction :(-0.08693, -0.13720, 0.98672)
+ head movement direction :(-0.25844, 0.60082, 0.75645)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.89189
+ Accelerometer[1] :-0.31438
+ Accelerometer[2] :-0.28615
+ Gyroscope[0] :-0.32815
+ Gyroscope[1] :-0.00370
+ Gyroscope[2] :0.10135
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :402.30000
+ Magnetometer[2] :-185.85000
+ eye_origin :(-0.03407, 0.07231, 0.09220)
+ eye_direction :(-0.03075, -0.27072, 0.96217)
+ eye_cursor :(-0.09558, -0.46912, 2.01654)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 278 
+ head_origin :(-0.05297, 0.07147, 0.07738)
+ head_direction :(-0.09285, -0.13612, 0.98633)
+ head movement direction :(-0.26052, 0.60001, 0.75638)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.79824
+ Accelerometer[1] :-0.16008
+ Accelerometer[2] :-0.43837
+ Gyroscope[0] :-0.32815
+ Gyroscope[1] :-0.00370
+ Gyroscope[2] :0.10135
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :402.30000
+ Magnetometer[2] :-185.85000
+ eye_origin :(-0.03407, 0.07231, 0.09220)
+ eye_direction :(-0.03075, -0.27072, 0.96217)
+ eye_cursor :(-0.09558, -0.46912, 2.01654)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 298 
+ head_origin :(-0.05378, 0.07125, 0.07717)
+ head_direction :(-0.09826, -0.13549, 0.98589)
+ head movement direction :(-0.26239, 0.59928, 0.75632)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.79824
+ Accelerometer[1] :-0.16008
+ Accelerometer[2] :-0.43837
+ Gyroscope[0] :-0.32815
+ Gyroscope[1] :-0.00370
+ Gyroscope[2] :0.10135
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :402.30000
+ Magnetometer[2] :-185.85000
+ eye_origin :(-0.03407, 0.07231, 0.09220)
+ eye_direction :(-0.03075, -0.27072, 0.96217)
+ eye_cursor :(-0.09558, -0.46912, 2.01654)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 308 
+ head_origin :(-0.05451, 0.07112, 0.07690)
+ head_direction :(-0.10337, -0.13560, 0.98536)
+ head movement direction :(-0.26408, 0.59861, 0.75626)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.79824
+ Accelerometer[1] :-0.16008
+ Accelerometer[2] :-0.43837
+ Gyroscope[0] :-0.36748
+ Gyroscope[1] :0.11889
+ Gyroscope[2] :0.10843
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :402.30000
+ Magnetometer[2] :-185.85000
+ eye_origin :(-0.03465, 0.07231, 0.09205)
+ eye_direction :(-0.03248, -0.25791, 0.96562)
+ eye_cursor :(-0.09961, -0.44352, 2.02330)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 328 
+ head_origin :(-0.05517, 0.07112, 0.07653)
+ head_direction :(-0.10835, -0.13611, 0.98475)
+ head movement direction :(-0.26606, 0.59799, 0.75605)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.79824
+ Accelerometer[1] :-0.16008
+ Accelerometer[2] :-0.43837
+ Gyroscope[0] :-0.36748
+ Gyroscope[1] :0.11889
+ Gyroscope[2] :0.10843
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :402.30000
+ Magnetometer[2] :-185.85000
+ eye_origin :(-0.03524, 0.07230, 0.09189)
+ eye_direction :(-0.03427, -0.24556, 0.96878)
+ eye_cursor :(-0.10378, -0.41881, 2.02945)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 338 
+ head_origin :(-0.05563, 0.07099, 0.07655)
+ head_direction :(-0.11152, -0.13674, 0.98431)
+ head movement direction :(-0.26832, 0.59741, 0.75571)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.79824
+ Accelerometer[1] :-0.16008
+ Accelerometer[2] :-0.43837
+ Gyroscope[0] :-0.36748
+ Gyroscope[1] :0.11889
+ Gyroscope[2] :0.10843
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :402.30000
+ Magnetometer[2] :-185.85000
+ eye_origin :(-0.03586, 0.07229, 0.09172)
+ eye_direction :(-0.03608, -0.23363, 0.97166)
+ eye_cursor :(-0.10802, -0.39497, 2.03504)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 358 
+ head_origin :(-0.05615, 0.07094, 0.07645)
+ head_direction :(-0.11419, -0.13817, 0.98380)
+ head movement direction :(-0.27085, 0.59686, 0.75525)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.79824
+ Accelerometer[1] :-0.16008
+ Accelerometer[2] :-0.43837
+ Gyroscope[0] :-0.31857
+ Gyroscope[1] :0.11100
+ Gyroscope[2] :-0.06906
+ Magnetometer[0] :434.10000
+ Magnetometer[1] :403.50000
+ Magnetometer[2] :-185.25000
+ eye_origin :(-0.03647, 0.07227, 0.09155)
+ eye_direction :(-0.03793, -0.22214, 0.97428)
+ eye_cursor :(-0.11233, -0.37200, 2.04011)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 368 
+ head_origin :(-0.05664, 0.07098, 0.07647)
+ head_direction :(-0.11488, -0.13978, 0.98350)
+ head movement direction :(-0.27361, 0.59634, 0.75466)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.91806
+ Accelerometer[1] :-0.16170
+ Accelerometer[2] :-0.91223
+ Gyroscope[0] :-0.31857
+ Gyroscope[1] :0.11100
+ Gyroscope[2] :-0.06906
+ Magnetometer[0] :434.10000
+ Magnetometer[1] :403.50000
+ Magnetometer[2] :-185.25000
+ eye_origin :(-0.03715, 0.07225, 0.09137)
+ eye_direction :(-0.03965, -0.21107, 0.97667)
+ eye_cursor :(-0.11644, -0.34989, 2.04470)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 398 
+ head_origin :(-0.05714, 0.07115, 0.07656)
+ head_direction :(-0.11328, -0.14032, 0.98361)
+ head movement direction :(-0.27665, 0.59582, 0.75396)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.91806
+ Accelerometer[1] :-0.16170
+ Accelerometer[2] :-0.91223
+ Gyroscope[0] :-0.31857
+ Gyroscope[1] :0.11100
+ Gyroscope[2] :-0.06906
+ Magnetometer[0] :434.10000
+ Magnetometer[1] :403.50000
+ Magnetometer[2] :-185.25000
+ eye_origin :(-0.03784, 0.07222, 0.09118)
+ eye_direction :(-0.04146, -0.20044, 0.97883)
+ eye_cursor :(-0.12076, -0.32866, 2.04884)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 409 
+ head_origin :(-0.05752, 0.07136, 0.07662)
+ head_direction :(-0.11259, -0.14032, 0.98368)
+ head movement direction :(-0.27994, 0.59532, 0.75315)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.91806
+ Accelerometer[1] :-0.16170
+ Accelerometer[2] :-0.91223
+ Gyroscope[0] :-0.23198
+ Gyroscope[1] :-0.02664
+ Gyroscope[2] :-0.00674
+ Magnetometer[0] :434.10000
+ Magnetometer[1] :403.50000
+ Magnetometer[2] :-185.25000
+ eye_origin :(-0.03861, 0.07219, 0.09099)
+ eye_direction :(-0.04298, -0.19016, 0.98081)
+ eye_cursor :(-0.12456, -0.30813, 2.05261)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 428 
+ head_origin :(-0.05772, 0.07182, 0.07686)
+ head_direction :(-0.11075, -0.13907, 0.98407)
+ head movement direction :(-0.28351, 0.59480, 0.75222)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.91806
+ Accelerometer[1] :-0.16170
+ Accelerometer[2] :-0.91223
+ Gyroscope[0] :-0.23198
+ Gyroscope[1] :-0.02664
+ Gyroscope[2] :-0.00674
+ Magnetometer[0] :434.10000
+ Magnetometer[1] :403.50000
+ Magnetometer[2] :-185.25000
+ eye_origin :(-0.05742, 0.07149, 0.08633)
+ eye_direction :(-0.07880, 0.06294, 0.99490)
+ eye_cursor :(-0.21501, 0.19737, 2.07614)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 438 
+ head_origin :(-0.05789, 0.07212, 0.07721)
+ head_direction :(-0.10742, -0.13588, 0.98488)
+ head movement direction :(-0.30130, 0.59301, 0.74670)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.91806
+ Accelerometer[1] :-0.16170
+ Accelerometer[2] :-0.91223
+ Gyroscope[0] :-0.23198
+ Gyroscope[1] :-0.02664
+ Gyroscope[2] :-0.00674
+ Magnetometer[0] :434.10000
+ Magnetometer[1] :403.50000
+ Magnetometer[2] :-185.25000
+ eye_origin :(-0.05741, 0.07149, 0.08634)
+ eye_direction :(-0.07866, 0.06294, 0.99491)
+ eye_cursor :(-0.21472, 0.19737, 2.07616)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 458 
+ head_origin :(-0.05801, 0.07236, 0.07751)
+ head_direction :(-0.10421, -0.13259, 0.98568)
+ head movement direction :(-0.31721, 0.59122, 0.74151)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.79184
+ Accelerometer[1] :-0.35403
+ Accelerometer[2] :-1.05488
+ Gyroscope[0] :-0.10485
+ Gyroscope[1] :-0.01949
+ Gyroscope[2] :0.00704
+ Magnetometer[0] :434.10000
+ Magnetometer[1] :403.50000
+ Magnetometer[2] :-185.25000
+ eye_origin :(-0.05742, 0.07150, 0.08635)
+ eye_direction :(-0.07848, 0.06299, 0.99492)
+ eye_cursor :(-0.21437, 0.19749, 2.07620)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 468 
+ head_origin :(-0.05806, 0.07272, 0.07803)
+ head_direction :(-0.09955, -0.12869, 0.98668)
+ head movement direction :(-0.33146, 0.58947, 0.73666)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.79184
+ Accelerometer[1] :-0.35403
+ Accelerometer[2] :-1.05488
+ Gyroscope[0] :-0.10485
+ Gyroscope[1] :-0.01949
+ Gyroscope[2] :0.00704
+ Magnetometer[0] :434.10000
+ Magnetometer[1] :403.50000
+ Magnetometer[2] :-185.25000
+ eye_origin :(-0.05743, 0.07152, 0.08637)
+ eye_direction :(-0.07823, 0.06306, 0.99494)
+ eye_cursor :(-0.21389, 0.19765, 2.07625)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 488 
+ head_origin :(-0.05805, 0.07356, 0.07827)
+ head_direction :(-0.09555, -0.12453, 0.98760)
+ head movement direction :(-0.34421, 0.58778, 0.73215)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.79184
+ Accelerometer[1] :-0.35403
+ Accelerometer[2] :-1.05488
+ Gyroscope[0] :-0.10485
+ Gyroscope[1] :-0.01949
+ Gyroscope[2] :0.00704
+ Magnetometer[0] :434.10000
+ Magnetometer[1] :403.50000
+ Magnetometer[2] :-185.25000
+ eye_origin :(-0.05745, 0.07156, 0.08640)
+ eye_direction :(-0.07788, 0.06325, 0.99495)
+ eye_cursor :(-0.21321, 0.19806, 2.07631)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 508 
+ head_origin :(-0.05799, 0.07494, 0.07879)
+ head_direction :(-0.09025, -0.11566, 0.98918)
+ head movement direction :(-0.35563, 0.58617, 0.72797)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.79184
+ Accelerometer[1] :-0.35403
+ Accelerometer[2] :-1.05488
+ Gyroscope[0] :0.05339
+ Gyroscope[1] :-0.02675
+ Gyroscope[2] :-0.05509
+ Magnetometer[0] :434.10000
+ Magnetometer[1] :403.50000
+ Magnetometer[2] :-185.25000
+ eye_origin :(-0.05747, 0.07160, 0.08643)
+ eye_direction :(-0.07748, 0.06340, 0.99498)
+ eye_cursor :(-0.21242, 0.19839, 2.07639)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 518 
+ head_origin :(-0.05789, 0.07581, 0.07925)
+ head_direction :(-0.08509, -0.10299, 0.99104)
+ head movement direction :(-0.36586, 0.58465, 0.72411)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.79184
+ Accelerometer[1] :-0.35403
+ Accelerometer[2] :-1.05488
+ Gyroscope[0] :0.05339
+ Gyroscope[1] :-0.02675
+ Gyroscope[2] :-0.05509
+ Magnetometer[0] :434.10000
+ Magnetometer[1] :403.50000
+ Magnetometer[2] :-185.25000
+ eye_origin :(-0.05749, 0.07167, 0.08649)
+ eye_direction :(-0.07693, 0.06379, 0.99499)
+ eye_cursor :(-0.21136, 0.19925, 2.07648)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 538 
+ head_origin :(-0.05776, 0.07628, 0.07986)
+ head_direction :(-0.08021, -0.09074, 0.99264)
+ head movement direction :(-0.37501, 0.58324, 0.72056)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :10.15160
+ Accelerometer[1] :-0.47264
+ Accelerometer[2] :-1.01857
+ Gyroscope[0] :0.05339
+ Gyroscope[1] :-0.02675
+ Gyroscope[2] :-0.05509
+ Magnetometer[0] :434.10000
+ Magnetometer[1] :403.50000
+ Magnetometer[2] :-185.25000
+ eye_origin :(-0.05749, 0.07177, 0.08656)
+ eye_direction :(-0.07575, 0.06444, 0.99504)
+ eye_cursor :(-0.20899, 0.20064, 2.07665)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 558 
+ head_origin :(-0.05754, 0.07735, 0.08040)
+ head_direction :(-0.07629, -0.08005, 0.99387)
+ head movement direction :(-0.38318, 0.58195, 0.71729)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :10.15160
+ Accelerometer[1] :-0.47264
+ Accelerometer[2] :-1.01857
+ Gyroscope[0] :0.22087
+ Gyroscope[1] :0.10377
+ Gyroscope[2] :-0.24130
+ Magnetometer[0] :434.10000
+ Magnetometer[1] :403.50000
+ Magnetometer[2] :-185.25000
+ eye_origin :(-0.05750, 0.07188, 0.08665)
+ eye_direction :(-0.07452, 0.06526, 0.99508)
+ eye_cursor :(-0.20653, 0.20240, 2.07681)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 568 
+ head_origin :(-0.05710, 0.07876, 0.08105)
+ head_direction :(-0.07176, -0.06625, 0.99522)
+ head movement direction :(-0.39046, 0.58078, 0.71431)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :10.15160
+ Accelerometer[1] :-0.47264
+ Accelerometer[2] :-1.01857
+ Gyroscope[0] :0.22087
+ Gyroscope[1] :0.10377
+ Gyroscope[2] :-0.24130
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :403.35000
+ Magnetometer[2] :-183.00000
+ eye_origin :(-0.05748, 0.07205, 0.08675)
+ eye_direction :(-0.06993, 0.06655, 0.99533)
+ eye_cursor :(-0.19734, 0.20515, 2.07741)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 588 
+ head_origin :(-0.05652, 0.07951, 0.08170)
+ head_direction :(-0.06610, -0.05065, 0.99653)
+ head movement direction :(-0.39692, 0.57976, 0.71157)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :10.15160
+ Accelerometer[1] :-0.47264
+ Accelerometer[2] :-1.01857
+ Gyroscope[0] :0.22087
+ Gyroscope[1] :0.10377
+ Gyroscope[2] :-0.24130
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :403.35000
+ Magnetometer[2] :-183.00000
+ eye_origin :(-0.05746, 0.07223, 0.08686)
+ eye_direction :(-0.06543, 0.06804, 0.99554)
+ eye_cursor :(-0.18831, 0.20830, 2.07793)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 608 
+ head_origin :(-0.05599, 0.08011, 0.08246)
+ head_direction :(-0.05998, -0.03811, 0.99747)
+ head movement direction :(-0.40264, 0.57888, 0.70907)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :10.15160
+ Accelerometer[1] :-0.47264
+ Accelerometer[2] :-1.01857
+ Gyroscope[0] :0.23111
+ Gyroscope[1] :0.17350
+ Gyroscope[2] :-0.50196
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :403.35000
+ Magnetometer[2] :-183.00000
+ eye_origin :(-0.05749, 0.07246, 0.08699)
+ eye_direction :(-0.06051, 0.07007, 0.99571)
+ eye_cursor :(-0.17851, 0.21260, 2.07840)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 620 
+ head_origin :(-0.05550, 0.08107, 0.08295)
+ head_direction :(-0.05465, -0.02780, 0.99812)
+ head movement direction :(-0.40771, 0.57814, 0.70677)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :10.21955
+ Accelerometer[1] :-0.16919
+ Accelerometer[2] :-0.95729
+ Gyroscope[0] :0.23111
+ Gyroscope[1] :0.17350
+ Gyroscope[2] :-0.50196
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :403.35000
+ Magnetometer[2] :-183.00000
+ eye_origin :(-0.05751, 0.07273, 0.08713)
+ eye_direction :(-0.05561, 0.07245, 0.99582)
+ eye_cursor :(-0.16873, 0.21762, 2.07878)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 638 
+ head_origin :(-0.05489, 0.08262, 0.08354)
+ head_direction :(-0.04974, -0.01522, 0.99865)
+ head movement direction :(-0.41219, 0.57755, 0.70465)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :10.21955
+ Accelerometer[1] :-0.16919
+ Accelerometer[2] :-0.95729
+ Gyroscope[0] :0.23111
+ Gyroscope[1] :0.17350
+ Gyroscope[2] :-0.50196
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :403.35000
+ Magnetometer[2] :-183.00000
+ eye_origin :(-0.05754, 0.07300, 0.08729)
+ eye_direction :(-0.05071, 0.07452, 0.99593)
+ eye_cursor :(-0.15896, 0.22204, 2.07915)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 648 
+ head_origin :(-0.05418, 0.08383, 0.08411)
+ head_direction :(-0.04472, -0.00164, 0.99900)
+ head movement direction :(-0.41613, 0.57710, 0.70271)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :10.21955
+ Accelerometer[1] :-0.16919
+ Accelerometer[2] :-0.95729
+ Gyroscope[0] :0.26296
+ Gyroscope[1] :0.31947
+ Gyroscope[2] :-0.53334
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :403.35000
+ Magnetometer[2] :-183.00000
+ eye_origin :(-0.05754, 0.07332, 0.08746)
+ eye_direction :(-0.04578, 0.07708, 0.99597)
+ eye_cursor :(-0.14909, 0.22747, 2.07941)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 668 
+ head_origin :(-0.05344, 0.08442, 0.08479)
+ head_direction :(-0.03977, 0.01088, 0.99915)
+ head movement direction :(-0.41957, 0.57679, 0.70091)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :10.21955
+ Accelerometer[1] :-0.16919
+ Accelerometer[2] :-0.95729
+ Gyroscope[0] :0.26296
+ Gyroscope[1] :0.31947
+ Gyroscope[2] :-0.53334
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :403.35000
+ Magnetometer[2] :-183.00000
+ eye_origin :(-0.05749, 0.07367, 0.08766)
+ eye_direction :(-0.04081, 0.07946, 0.99600)
+ eye_cursor :(-0.13910, 0.23258, 2.07967)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 688 
+ head_origin :(-0.05269, 0.08549, 0.08534)
+ head_direction :(-0.03537, 0.02066, 0.99916)
+ head movement direction :(-0.42250, 0.57664, 0.69927)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :10.21955
+ Accelerometer[1] :-0.16919
+ Accelerometer[2] :-0.95729
+ Gyroscope[0] :0.26296
+ Gyroscope[1] :0.31947
+ Gyroscope[2] :-0.53334
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :403.35000
+ Magnetometer[2] :-183.00000
+ eye_origin :(-0.05740, 0.07407, 0.08788)
+ eye_direction :(-0.03581, 0.08230, 0.99596)
+ eye_cursor :(-0.12903, 0.23867, 2.07981)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 709 
+ head_origin :(-0.05176, 0.08681, 0.08591)
+ head_direction :(-0.03069, 0.03136, 0.99904)
+ head movement direction :(-0.42495, 0.57665, 0.69778)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.84873
+ Accelerometer[1] :0.30882
+ Accelerometer[2] :-1.12888
+ Gyroscope[0] :0.33464
+ Gyroscope[1] :0.27324
+ Gyroscope[2] :-0.63383
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :403.35000
+ Magnetometer[2] :-183.00000
+ eye_origin :(-0.05731, 0.07448, 0.08810)
+ eye_direction :(-0.03089, 0.08463, 0.99593)
+ eye_cursor :(-0.11909, 0.24374, 2.07997)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 718 
+ head_origin :(-0.05084, 0.08739, 0.08646)
+ head_direction :(-0.02544, 0.04150, 0.99881)
+ head movement direction :(-0.42696, 0.57682, 0.69641)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.84873
+ Accelerometer[1] :0.30882
+ Accelerometer[2] :-1.12888
+ Gyroscope[0] :0.33464
+ Gyroscope[1] :0.27324
+ Gyroscope[2] :-0.63383
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :403.35000
+ Magnetometer[2] :-183.00000
+ eye_origin :(-0.05719, 0.07492, 0.08835)
+ eye_direction :(-0.02594, 0.08739, 0.99584)
+ eye_cursor :(-0.10907, 0.24971, 2.08002)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 738 
+ head_origin :(-0.04987, 0.08785, 0.08710)
+ head_direction :(-0.02012, 0.04831, 0.99863)
+ head movement direction :(-0.42854, 0.57714, 0.69517)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.84873
+ Accelerometer[1] :0.30882
+ Accelerometer[2] :-1.12888
+ Gyroscope[0] :0.33464
+ Gyroscope[1] :0.27324
+ Gyroscope[2] :-0.63383
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :403.35000
+ Magnetometer[2] :-183.00000
+ eye_origin :(-0.05710, 0.07536, 0.08860)
+ eye_direction :(-0.02136, 0.08850, 0.99585)
+ eye_cursor :(-0.09983, 0.25235, 2.08029)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 748 
+ head_origin :(-0.04885, 0.08883, 0.08761)
+ head_direction :(-0.01504, 0.05423, 0.99842)
+ head movement direction :(-0.42976, 0.57759, 0.69404)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.84873
+ Accelerometer[1] :0.30882
+ Accelerometer[2] :-1.12888
+ Gyroscope[0] :0.32628
+ Gyroscope[1] :0.22799
+ Gyroscope[2] :-0.65680
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :403.35000
+ Magnetometer[2] :-183.00000
+ eye_origin :(-0.05698, 0.07582, 0.08887)
+ eye_direction :(-0.01674, 0.08999, 0.99580)
+ eye_cursor :(-0.09047, 0.25581, 2.08047)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 768 
+ head_origin :(-0.04775, 0.08989, 0.08802)
+ head_direction :(-0.00991, 0.06182, 0.99804)
+ head movement direction :(-0.43063, 0.57818, 0.69301)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.84873
+ Accelerometer[1] :0.30882
+ Accelerometer[2] :-1.12888
+ Gyroscope[0] :0.32628
+ Gyroscope[1] :0.22799
+ Gyroscope[2] :-0.65680
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :403.35000
+ Magnetometer[2] :-183.00000
+ eye_origin :(-0.05235, 0.08818, 0.09598)
+ eye_direction :(0.09663, 0.13304, 0.98639)
+ eye_cursor :(0.14091, 0.35426, 2.06876)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 788 
+ head_origin :(-0.04658, 0.09053, 0.08862)
+ head_direction :(-0.00466, 0.07053, 0.99750)
+ head movement direction :(-0.42495, 0.58330, 0.69223)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.84873
+ Accelerometer[1] :0.30882
+ Accelerometer[2] :-1.12888
+ Gyroscope[0] :0.32628
+ Gyroscope[1] :0.22799
+ Gyroscope[2] :-0.65680
+ Magnetometer[0] :434.55000
+ Magnetometer[1] :403.35000
+ Magnetometer[2] :-183.00000
+ eye_origin :(-0.05233, 0.08820, 0.09599)
+ eye_direction :(0.09674, 0.13324, 0.98635)
+ eye_cursor :(0.14116, 0.35468, 2.06869)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 808 
+ head_origin :(-0.04551, 0.09088, 0.08917)
+ head_direction :(0.00041, 0.07758, 0.99699)
+ head movement direction :(-0.41979, 0.58789, 0.69149)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.62632
+ Accelerometer[1] :0.79381
+ Accelerometer[2] :-1.31048
+ Gyroscope[0] :0.36554
+ Gyroscope[1] :0.21129
+ Gyroscope[2] :-0.48835
+ Magnetometer[0] :435.45000
+ Magnetometer[1] :402.15000
+ Magnetometer[2] :-182.40000
+ eye_origin :(-0.05230, 0.08826, 0.09603)
+ eye_direction :(0.09700, 0.13364, 0.98627)
+ eye_cursor :(0.14170, 0.35553, 2.06857)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 818 
+ head_origin :(-0.04441, 0.09159, 0.08957)
+ head_direction :(0.00455, 0.08467, 0.99640)
+ head movement direction :(-0.41510, 0.59201, 0.69080)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.62632
+ Accelerometer[1] :0.79381
+ Accelerometer[2] :-1.31048
+ Gyroscope[0] :0.36554
+ Gyroscope[1] :0.21129
+ Gyroscope[2] :-0.48835
+ Magnetometer[0] :435.45000
+ Magnetometer[1] :402.15000
+ Magnetometer[2] :-182.40000
+ eye_origin :(-0.05223, 0.08836, 0.09609)
+ eye_direction :(0.09748, 0.13440, 0.98612)
+ eye_cursor :(0.14273, 0.35715, 2.06833)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 838 
+ head_origin :(-0.04330, 0.09244, 0.08994)
+ head_direction :(0.00780, 0.09100, 0.99582)
+ head movement direction :(-0.41080, 0.59575, 0.69017)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.62632
+ Accelerometer[1] :0.79381
+ Accelerometer[2] :-1.31048
+ Gyroscope[0] :0.36554
+ Gyroscope[1] :0.21129
+ Gyroscope[2] :-0.48835
+ Magnetometer[0] :435.45000
+ Magnetometer[1] :402.15000
+ Magnetometer[2] :-182.40000
+ eye_origin :(-0.05214, 0.08847, 0.09616)
+ eye_direction :(0.09792, 0.13502, 0.98599)
+ eye_cursor :(0.14369, 0.35851, 2.06815)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 848 
+ head_origin :(-0.04208, 0.09328, 0.09039)
+ head_direction :(0.01096, 0.09856, 0.99507)
+ head movement direction :(-0.40683, 0.59913, 0.68959)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.62632
+ Accelerometer[1] :0.79381
+ Accelerometer[2] :-1.31048
+ Gyroscope[0] :0.34125
+ Gyroscope[1] :0.13540
+ Gyroscope[2] :-0.50254
+ Magnetometer[0] :435.45000
+ Magnetometer[1] :402.15000
+ Magnetometer[2] :-182.40000
+ eye_origin :(-0.05200, 0.08862, 0.09625)
+ eye_direction :(0.09854, 0.13597, 0.98580)
+ eye_cursor :(0.14509, 0.36056, 2.06785)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 869 
+ head_origin :(-0.04088, 0.09384, 0.09083)
+ head_direction :(0.01425, 0.10701, 0.99416)
+ head movement direction :(-0.40312, 0.60223, 0.68907)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.62632
+ Accelerometer[1] :0.79381
+ Accelerometer[2] :-1.31048
+ Gyroscope[0] :0.34125
+ Gyroscope[1] :0.13540
+ Gyroscope[2] :-0.50254
+ Magnetometer[0] :435.45000
+ Magnetometer[1] :402.15000
+ Magnetometer[2] :-182.40000
+ eye_origin :(-0.05183, 0.08880, 0.09637)
+ eye_direction :(0.09921, 0.13701, 0.98559)
+ eye_cursor :(0.14659, 0.36282, 2.06754)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 894 
+ head_origin :(-0.03952, 0.09487, 0.09176)
+ head_direction :(0.01723, 0.11426, 0.99330)
+ head movement direction :(-0.39963, 0.60508, 0.68861)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.38174
+ Accelerometer[1] :1.27062
+ Accelerometer[2] :-1.43512
+ Gyroscope[0] :0.29291
+ Gyroscope[1] :0.15098
+ Gyroscope[2] :-0.41062
+ Magnetometer[0] :435.45000
+ Magnetometer[1] :402.15000
+ Magnetometer[2] :-182.40000
+ eye_origin :(-0.05161, 0.08900, 0.09650)
+ eye_direction :(0.10003, 0.13836, 0.98532)
+ eye_cursor :(0.14846, 0.36573, 2.06713)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 908 
+ head_origin :(-0.03843, 0.09550, 0.09192)
+ head_direction :(0.01972, 0.12188, 0.99235)
+ head movement direction :(-0.39628, 0.60772, 0.68821)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.38174
+ Accelerometer[1] :1.27062
+ Accelerometer[2] :-1.43512
+ Gyroscope[0] :0.29291
+ Gyroscope[1] :0.15098
+ Gyroscope[2] :-0.41062
+ Magnetometer[0] :435.45000
+ Magnetometer[1] :402.15000
+ Magnetometer[2] :-182.40000
+ eye_origin :(-0.05134, 0.08922, 0.09664)
+ eye_direction :(0.10077, 0.13960, 0.98507)
+ eye_cursor :(0.15020, 0.36841, 2.06677)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 918 
+ head_origin :(-0.03725, 0.09610, 0.09233)
+ head_direction :(0.02216, 0.13001, 0.99126)
+ head movement direction :(-0.39305, 0.61018, 0.68789)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.38174
+ Accelerometer[1] :1.27062
+ Accelerometer[2] :-1.43512
+ Gyroscope[0] :0.29291
+ Gyroscope[1] :0.15098
+ Gyroscope[2] :-0.41062
+ Magnetometer[0] :435.45000
+ Magnetometer[1] :402.15000
+ Magnetometer[2] :-182.40000
+ eye_origin :(-0.05103, 0.08946, 0.09679)
+ eye_direction :(0.10165, 0.14114, 0.98476)
+ eye_cursor :(0.15227, 0.37174, 2.06630)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 938 
+ head_origin :(-0.03606, 0.09681, 0.09247)
+ head_direction :(0.02429, 0.13864, 0.99004)
+ head movement direction :(-0.38988, 0.61250, 0.68763)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.38174
+ Accelerometer[1] :1.27062
+ Accelerometer[2] :-1.43512
+ Gyroscope[0] :0.27851
+ Gyroscope[1] :0.08126
+ Gyroscope[2] :-0.44078
+ Magnetometer[0] :435.45000
+ Magnetometer[1] :402.15000
+ Magnetometer[2] :-182.40000
+ eye_origin :(-0.05064, 0.08971, 0.09694)
+ eye_direction :(0.10238, 0.14256, 0.98448)
+ eye_cursor :(0.15412, 0.37482, 2.06590)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 949 
+ head_origin :(-0.03491, 0.09738, 0.09278)
+ head_direction :(0.02687, 0.14767, 0.98867)
+ head movement direction :(-0.38671, 0.61471, 0.68744)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.38174
+ Accelerometer[1] :1.27062
+ Accelerometer[2] :-1.43512
+ Gyroscope[0] :0.27851
+ Gyroscope[1] :0.08126
+ Gyroscope[2] :-0.44078
+ Magnetometer[0] :435.45000
+ Magnetometer[1] :402.15000
+ Magnetometer[2] :-182.40000
+ eye_origin :(-0.05020, 0.08999, 0.09711)
+ eye_direction :(0.10323, 0.14430, 0.98413)
+ eye_cursor :(0.15626, 0.37859, 2.06538)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 968 
+ head_origin :(-0.03393, 0.09819, 0.09300)
+ head_direction :(0.02912, 0.15609, 0.98731)
+ head movement direction :(-0.38352, 0.61684, 0.68733)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.44006
+ Accelerometer[1] :1.66049
+ Accelerometer[2] :-1.40399
+ Gyroscope[0] :0.27851
+ Gyroscope[1] :0.08126
+ Gyroscope[2] :-0.44078
+ Magnetometer[0] :435.45000
+ Magnetometer[1] :402.15000
+ Magnetometer[2] :-182.40000
+ eye_origin :(-0.04971, 0.09029, 0.09728)
+ eye_direction :(0.10416, 0.14607, 0.98378)
+ eye_cursor :(0.15860, 0.38244, 2.06484)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 988 
+ head_origin :(-0.03298, 0.09919, 0.09302)
+ head_direction :(0.03117, 0.16663, 0.98553)
+ head movement direction :(-0.38027, 0.61890, 0.68728)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.44006
+ Accelerometer[1] :1.66049
+ Accelerometer[2] :-1.40399
+ Gyroscope[0] :0.25439
+ Gyroscope[1] :0.09011
+ Gyroscope[2] :-0.49443
+ Magnetometer[0] :435.45000
+ Magnetometer[1] :402.15000
+ Magnetometer[2] :-182.40000
+ eye_origin :(-0.04922, 0.09060, 0.09746)
+ eye_direction :(0.10512, 0.14797, 0.98339)
+ eye_cursor :(0.16101, 0.38655, 2.06424)
+-------------------------------
+
+Log Entry : 
+9:05:31 AM Sunday, April 9, 2023
+9 5 31 998 
+ head_origin :(-0.03220, 0.09997, 0.09309)
+ head_direction :(0.03334, 0.17773, 0.98352)
+ head movement direction :(-0.37696, 0.62091, 0.68729)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.44006
+ Accelerometer[1] :1.66049
+ Accelerometer[2] :-1.40399
+ Gyroscope[0] :0.25439
+ Gyroscope[1] :0.09011
+ Gyroscope[2] :-0.49443
+ Magnetometer[0] :435.45000
+ Magnetometer[1] :402.15000
+ Magnetometer[2] :-182.40000
+ eye_origin :(-0.04869, 0.09093, 0.09764)
+ eye_direction :(0.10618, 0.14996, 0.98297)
+ eye_cursor :(0.16368, 0.39085, 2.06359)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 18 
+ head_origin :(-0.03144, 0.10092, 0.09318)
+ head_direction :(0.03533, 0.19029, 0.98109)
+ head movement direction :(-0.37357, 0.62289, 0.68736)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.44006
+ Accelerometer[1] :1.66049
+ Accelerometer[2] :-1.40399
+ Gyroscope[0] :0.25439
+ Gyroscope[1] :0.09011
+ Gyroscope[2] :-0.49443
+ Magnetometer[0] :437.10000
+ Magnetometer[1] :397.05000
+ Magnetometer[2] :-182.10000
+ eye_origin :(-0.03461, 0.09998, 0.10222)
+ eye_direction :(0.13460, 0.20880, 0.96865)
+ eye_cursor :(0.23459, 0.51758, 2.03953)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 38 
+ head_origin :(-0.03083, 0.10145, 0.09320)
+ head_direction :(0.03687, 0.20263, 0.97856)
+ head movement direction :(-0.36006, 0.62921, 0.68880)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.44006
+ Accelerometer[1] :1.66049
+ Accelerometer[2] :-1.40399
+ Gyroscope[0] :0.24736
+ Gyroscope[1] :-0.00169
+ Gyroscope[2] :-0.52455
+ Magnetometer[0] :437.10000
+ Magnetometer[1] :397.05000
+ Magnetometer[2] :-182.10000
+ eye_origin :(-0.03459, 0.10000, 0.10222)
+ eye_direction :(0.13467, 0.20881, 0.96864)
+ eye_cursor :(0.23474, 0.51763, 2.03950)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 53 
+ head_origin :(-0.03014, 0.10202, 0.09323)
+ head_direction :(0.03808, 0.21386, 0.97612)
+ head movement direction :(-0.34783, 0.63479, 0.68997)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.48216
+ Accelerometer[1] :2.05282
+ Accelerometer[2] :-1.25298
+ Gyroscope[0] :0.24736
+ Gyroscope[1] :-0.00169
+ Gyroscope[2] :-0.52455
+ Magnetometer[0] :437.10000
+ Magnetometer[1] :397.05000
+ Magnetometer[2] :-182.10000
+ eye_origin :(-0.03452, 0.10008, 0.10223)
+ eye_direction :(0.13485, 0.20945, 0.96848)
+ eye_cursor :(0.23518, 0.51897, 2.03919)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 68 
+ head_origin :(-0.02949, 0.10265, 0.09308)
+ head_direction :(0.03931, 0.22404, 0.97379)
+ head movement direction :(-0.33670, 0.63975, 0.69090)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.48216
+ Accelerometer[1] :2.05282
+ Accelerometer[2] :-1.25298
+ Gyroscope[0] :0.24736
+ Gyroscope[1] :-0.00169
+ Gyroscope[2] :-0.52455
+ Magnetometer[0] :437.10000
+ Magnetometer[1] :397.05000
+ Magnetometer[2] :-182.10000
+ eye_origin :(-0.03441, 0.10018, 0.10225)
+ eye_direction :(0.13510, 0.21020, 0.96828)
+ eye_cursor :(0.23580, 0.52058, 2.03880)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 88 
+ head_origin :(-0.02886, 0.10309, 0.09295)
+ head_direction :(0.04081, 0.23396, 0.97139)
+ head movement direction :(-0.32657, 0.64418, 0.69165)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.48216
+ Accelerometer[1] :2.05282
+ Accelerometer[2] :-1.25298
+ Gyroscope[0] :0.14336
+ Gyroscope[1] :0.19710
+ Gyroscope[2] :-0.55523
+ Magnetometer[0] :437.10000
+ Magnetometer[1] :397.05000
+ Magnetometer[2] :-182.10000
+ eye_origin :(-0.03428, 0.10029, 0.10226)
+ eye_direction :(0.13539, 0.21117, 0.96803)
+ eye_cursor :(0.23649, 0.52264, 2.03831)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 98 
+ head_origin :(-0.02839, 0.10319, 0.09264)
+ head_direction :(0.04192, 0.24227, 0.96930)
+ head movement direction :(-0.31732, 0.64817, 0.69223)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.48216
+ Accelerometer[1] :2.05282
+ Accelerometer[2] :-1.25298
+ Gyroscope[0] :0.14336
+ Gyroscope[1] :0.19710
+ Gyroscope[2] :-0.55523
+ Magnetometer[0] :437.10000
+ Magnetometer[1] :397.05000
+ Magnetometer[2] :-182.10000
+ eye_origin :(-0.03410, 0.10044, 0.10226)
+ eye_direction :(0.13575, 0.21227, 0.96774)
+ eye_cursor :(0.23740, 0.52499, 2.03773)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 118 
+ head_origin :(-0.02795, 0.10329, 0.09248)
+ head_direction :(0.04254, 0.24735, 0.96799)
+ head movement direction :(-0.30884, 0.65177, 0.69268)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.48216
+ Accelerometer[1] :2.05282
+ Accelerometer[2] :-1.25298
+ Gyroscope[0] :0.14336
+ Gyroscope[1] :0.19710
+ Gyroscope[2] :-0.55523
+ Magnetometer[0] :437.10000
+ Magnetometer[1] :397.05000
+ Magnetometer[2] :-182.10000
+ eye_origin :(-0.03390, 0.10062, 0.10227)
+ eye_direction :(0.13617, 0.21375, 0.96735)
+ eye_cursor :(0.23845, 0.52812, 2.03697)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 138 
+ head_origin :(-0.02758, 0.10358, 0.09215)
+ head_direction :(0.04255, 0.25065, 0.96714)
+ head movement direction :(-0.30104, 0.65507, 0.69301)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.52560
+ Accelerometer[1] :2.51907
+ Accelerometer[2] :-1.05394
+ Gyroscope[0] :0.17531
+ Gyroscope[1] :0.16650
+ Gyroscope[2] :-0.57121
+ Magnetometer[0] :437.10000
+ Magnetometer[1] :397.05000
+ Magnetometer[2] :-182.10000
+ eye_origin :(-0.03365, 0.10081, 0.10226)
+ eye_direction :(0.13664, 0.21502, 0.96700)
+ eye_cursor :(0.23963, 0.53085, 2.03627)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 148 
+ head_origin :(-0.02708, 0.10398, 0.09179)
+ head_direction :(0.04251, 0.25397, 0.96628)
+ head movement direction :(-0.29383, 0.65809, 0.69324)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.52560
+ Accelerometer[1] :2.51907
+ Accelerometer[2] :-1.05394
+ Gyroscope[0] :0.17531
+ Gyroscope[1] :0.16650
+ Gyroscope[2] :-0.57121
+ Magnetometer[0] :437.10000
+ Magnetometer[1] :397.05000
+ Magnetometer[2] :-182.10000
+ eye_origin :(-0.03339, 0.10101, 0.10225)
+ eye_direction :(0.13713, 0.21658, 0.96658)
+ eye_cursor :(0.24088, 0.53418, 2.03542)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 168 
+ head_origin :(-0.02658, 0.10412, 0.09140)
+ head_direction :(0.04312, 0.25748, 0.96532)
+ head movement direction :(-0.28714, 0.66090, 0.69337)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.52560
+ Accelerometer[1] :2.51907
+ Accelerometer[2] :-1.05394
+ Gyroscope[0] :0.17531
+ Gyroscope[1] :0.16650
+ Gyroscope[2] :-0.57121
+ Magnetometer[0] :437.10000
+ Magnetometer[1] :397.05000
+ Magnetometer[2] :-182.10000
+ eye_origin :(-0.03310, 0.10123, 0.10223)
+ eye_direction :(0.13776, 0.21802, 0.96617)
+ eye_cursor :(0.24243, 0.53727, 2.03457)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 188 
+ head_origin :(-0.02607, 0.10426, 0.09112)
+ head_direction :(0.04438, 0.25984, 0.96463)
+ head movement direction :(-0.28090, 0.66352, 0.69343)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.52560
+ Accelerometer[1] :2.51907
+ Accelerometer[2] :-1.05394
+ Gyroscope[0] :0.15133
+ Gyroscope[1] :0.12070
+ Gyroscope[2] :-0.45476
+ Magnetometer[0] :437.10000
+ Magnetometer[1] :397.05000
+ Magnetometer[2] :-182.10000
+ eye_origin :(-0.03280, 0.10145, 0.10219)
+ eye_direction :(0.13839, 0.21953, 0.96574)
+ eye_cursor :(0.24397, 0.54051, 2.03368)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 198 
+ head_origin :(-0.02567, 0.10404, 0.09071)
+ head_direction :(0.04578, 0.26143, 0.96414)
+ head movement direction :(-0.27507, 0.66598, 0.69341)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.52560
+ Accelerometer[1] :2.51907
+ Accelerometer[2] :-1.05394
+ Gyroscope[0] :0.15133
+ Gyroscope[1] :0.12070
+ Gyroscope[2] :-0.45476
+ Magnetometer[0] :437.10000
+ Magnetometer[1] :397.05000
+ Magnetometer[2] :-182.10000
+ eye_origin :(-0.03246, 0.10167, 0.10215)
+ eye_direction :(0.13909, 0.22096, 0.96532)
+ eye_cursor :(0.24571, 0.54358, 2.03278)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 218 
+ head_origin :(-0.02529, 0.10407, 0.09034)
+ head_direction :(0.04706, 0.26135, 0.96410)
+ head movement direction :(-0.26958, 0.66831, 0.69332)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.87588
+ Accelerometer[1] :3.03674
+ Accelerometer[2] :-1.17616
+ Gyroscope[0] :0.15133
+ Gyroscope[1] :0.12070
+ Gyroscope[2] :-0.45476
+ Magnetometer[0] :437.10000
+ Magnetometer[1] :397.05000
+ Magnetometer[2] :-182.10000
+ eye_origin :(-0.03211, 0.10189, 0.10209)
+ eye_direction :(0.13981, 0.22250, 0.96486)
+ eye_cursor :(0.24750, 0.54689, 2.03180)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 238 
+ head_origin :(-0.02481, 0.10438, 0.08985)
+ head_direction :(0.04834, 0.26201, 0.96385)
+ head movement direction :(-0.26439, 0.67053, 0.69317)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.87588
+ Accelerometer[1] :3.03674
+ Accelerometer[2] :-1.17616
+ Gyroscope[0] :0.09535
+ Gyroscope[1] :0.17291
+ Gyroscope[2] :-0.32507
+ Magnetometer[0] :441.30000
+ Magnetometer[1] :392.40000
+ Magnetometer[2] :-181.05000
+ eye_origin :(-0.03175, 0.10212, 0.10201)
+ eye_direction :(0.14059, 0.22394, 0.96441)
+ eye_cursor :(0.24944, 0.54999, 2.03083)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 248 
+ head_origin :(-0.02439, 0.10438, 0.08951)
+ head_direction :(0.05017, 0.26308, 0.96347)
+ head movement direction :(-0.25946, 0.67266, 0.69297)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.87588
+ Accelerometer[1] :3.03674
+ Accelerometer[2] :-1.17616
+ Gyroscope[0] :0.09535
+ Gyroscope[1] :0.17291
+ Gyroscope[2] :-0.32507
+ Magnetometer[0] :441.30000
+ Magnetometer[1] :392.40000
+ Magnetometer[2] :-181.05000
+ eye_origin :(-0.02266, 0.10757, 0.10000)
+ eye_direction :(0.16015, 0.25980, 0.95229)
+ eye_cursor :(0.29765, 0.62716, 2.00458)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 268 
+ head_origin :(-0.02392, 0.10426, 0.08925)
+ head_direction :(0.05211, 0.26317, 0.96334)
+ head movement direction :(-0.24891, 0.67823, 0.69141)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.87588
+ Accelerometer[1] :3.03674
+ Accelerometer[2] :-1.17616
+ Gyroscope[0] :0.09535
+ Gyroscope[1] :0.17291
+ Gyroscope[2] :-0.32507
+ Magnetometer[0] :441.30000
+ Magnetometer[1] :392.40000
+ Magnetometer[2] :-181.05000
+ eye_origin :(-0.02267, 0.10757, 0.09999)
+ eye_direction :(0.16026, 0.25979, 0.95227)
+ eye_cursor :(0.29785, 0.62715, 2.00454)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 288 
+ head_origin :(-0.02359, 0.10403, 0.08907)
+ head_direction :(0.05407, 0.26233, 0.96346)
+ head movement direction :(-0.23938, 0.68316, 0.68992)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.87588
+ Accelerometer[1] :3.03674
+ Accelerometer[2] :-1.17616
+ Gyroscope[0] :0.11734
+ Gyroscope[1] :0.08869
+ Gyroscope[2] :-0.12445
+ Magnetometer[0] :441.30000
+ Magnetometer[1] :392.40000
+ Magnetometer[2] :-181.05000
+ eye_origin :(-0.02266, 0.10757, 0.09996)
+ eye_direction :(0.16039, 0.25982, 0.95225)
+ eye_cursor :(0.29812, 0.62720, 2.00446)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 298 
+ head_origin :(-0.02322, 0.10418, 0.08874)
+ head_direction :(0.05548, 0.26119, 0.96369)
+ head movement direction :(-0.23079, 0.68754, 0.68849)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.79150
+ Accelerometer[1] :3.27470
+ Accelerometer[2] :-1.43431
+ Gyroscope[0] :0.11734
+ Gyroscope[1] :0.08869
+ Gyroscope[2] :-0.12445
+ Magnetometer[0] :441.30000
+ Magnetometer[1] :392.40000
+ Magnetometer[2] :-181.05000
+ eye_origin :(-0.02263, 0.10758, 0.09993)
+ eye_direction :(0.16061, 0.25985, 0.95220)
+ eye_cursor :(0.29858, 0.62728, 2.00433)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 318 
+ head_origin :(-0.02290, 0.10412, 0.08853)
+ head_direction :(0.05667, 0.26116, 0.96363)
+ head movement direction :(-0.22301, 0.69144, 0.68715)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.79150
+ Accelerometer[1] :3.27470
+ Accelerometer[2] :-1.43431
+ Gyroscope[0] :0.11734
+ Gyroscope[1] :0.08869
+ Gyroscope[2] :-0.12445
+ Magnetometer[0] :441.30000
+ Magnetometer[1] :392.40000
+ Magnetometer[2] :-181.05000
+ eye_origin :(-0.02259, 0.10758, 0.09988)
+ eye_direction :(0.16089, 0.25991, 0.95214)
+ eye_cursor :(0.29919, 0.62740, 2.00415)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 338 
+ head_origin :(-0.02238, 0.10397, 0.08839)
+ head_direction :(0.05773, 0.26058, 0.96373)
+ head movement direction :(-0.21598, 0.69493, 0.68587)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.79150
+ Accelerometer[1] :3.27470
+ Accelerometer[2] :-1.43431
+ Gyroscope[0] :0.09397
+ Gyroscope[1] :0.01994
+ Gyroscope[2] :-0.09345
+ Magnetometer[0] :441.30000
+ Magnetometer[1] :392.40000
+ Magnetometer[2] :-181.05000
+ eye_origin :(-0.02252, 0.10759, 0.09983)
+ eye_direction :(0.16121, 0.25993, 0.95208)
+ eye_cursor :(0.29990, 0.62744, 2.00398)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 353 
+ head_origin :(-0.02188, 0.10389, 0.08834)
+ head_direction :(0.05921, 0.25941, 0.96395)
+ head movement direction :(-0.20959, 0.69806, 0.68468)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.79150
+ Accelerometer[1] :3.27470
+ Accelerometer[2] :-1.43431
+ Gyroscope[0] :0.09397
+ Gyroscope[1] :0.01994
+ Gyroscope[2] :-0.09345
+ Magnetometer[0] :441.30000
+ Magnetometer[1] :392.40000
+ Magnetometer[2] :-181.05000
+ eye_origin :(-0.02244, 0.10759, 0.09976)
+ eye_direction :(0.16160, 0.25994, 0.95201)
+ eye_cursor :(0.30076, 0.62748, 2.00377)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 369 
+ head_origin :(-0.02135, 0.10384, 0.08816)
+ head_direction :(0.06101, 0.25753, 0.96434)
+ head movement direction :(-0.20379, 0.70088, 0.68355)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.79150
+ Accelerometer[1] :3.27470
+ Accelerometer[2] :-1.43431
+ Gyroscope[0] :0.09397
+ Gyroscope[1] :0.01994
+ Gyroscope[2] :-0.09345
+ Magnetometer[0] :441.30000
+ Magnetometer[1] :392.40000
+ Magnetometer[2] :-181.05000
+ eye_origin :(-0.02231, 0.10759, 0.09969)
+ eye_direction :(0.16196, 0.25994, 0.95195)
+ eye_cursor :(0.30162, 0.62747, 2.00358)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 388 
+ head_origin :(-0.02090, 0.10352, 0.08810)
+ head_direction :(0.06297, 0.25513, 0.96485)
+ head movement direction :(-0.19848, 0.70342, 0.68250)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.88939
+ Accelerometer[1] :3.53016
+ Accelerometer[2] :-1.53143
+ Gyroscope[0] :0.06875
+ Gyroscope[1] :-0.00382
+ Gyroscope[2] :0.02169
+ Magnetometer[0] :441.30000
+ Magnetometer[1] :392.40000
+ Magnetometer[2] :-181.05000
+ eye_origin :(-0.02218, 0.10759, 0.09962)
+ eye_direction :(0.16235, 0.25991, 0.95189)
+ eye_cursor :(0.30252, 0.62741, 2.00339)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 398 
+ head_origin :(-0.02030, 0.10325, 0.08814)
+ head_direction :(0.06529, 0.25113, 0.96575)
+ head movement direction :(-0.19361, 0.70573, 0.68152)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.88939
+ Accelerometer[1] :3.53016
+ Accelerometer[2] :-1.53143
+ Gyroscope[0] :0.06875
+ Gyroscope[1] :-0.00382
+ Gyroscope[2] :0.02169
+ Magnetometer[0] :441.30000
+ Magnetometer[1] :392.40000
+ Magnetometer[2] :-181.05000
+ eye_origin :(-0.02203, 0.10758, 0.09954)
+ eye_direction :(0.16280, 0.25982, 0.95184)
+ eye_cursor :(0.30357, 0.62722, 2.00321)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 418 
+ head_origin :(-0.01975, 0.10293, 0.08797)
+ head_direction :(0.06770, 0.24664, 0.96674)
+ head movement direction :(-0.18913, 0.70782, 0.68060)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.88939
+ Accelerometer[1] :3.53016
+ Accelerometer[2] :-1.53143
+ Gyroscope[0] :0.06875
+ Gyroscope[1] :-0.00382
+ Gyroscope[2] :0.02169
+ Magnetometer[0] :441.30000
+ Magnetometer[1] :392.40000
+ Magnetometer[2] :-181.05000
+ eye_origin :(-0.02184, 0.10756, 0.09945)
+ eye_direction :(0.16329, 0.25968, 0.95179)
+ eye_cursor :(0.30474, 0.62693, 2.00303)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 438 
+ head_origin :(-0.01906, 0.10260, 0.08785)
+ head_direction :(0.07050, 0.24205, 0.96770)
+ head movement direction :(-0.18498, 0.70973, 0.67975)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.88939
+ Accelerometer[1] :3.53016
+ Accelerometer[2] :-1.53143
+ Gyroscope[0] :0.12524
+ Gyroscope[1] :-0.10309
+ Gyroscope[2] :0.00585
+ Magnetometer[0] :441.30000
+ Magnetometer[1] :392.40000
+ Magnetometer[2] :-181.05000
+ eye_origin :(-0.02166, 0.10754, 0.09937)
+ eye_direction :(0.16381, 0.25948, 0.95175)
+ eye_cursor :(0.30597, 0.62651, 2.00287)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 448 
+ head_origin :(-0.01839, 0.10230, 0.08769)
+ head_direction :(0.07360, 0.23702, 0.96871)
+ head movement direction :(-0.18113, 0.71147, 0.67897)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.88939
+ Accelerometer[1] :3.53016
+ Accelerometer[2] :-1.53143
+ Gyroscope[0] :0.12524
+ Gyroscope[1] :-0.10309
+ Gyroscope[2] :0.00585
+ Magnetometer[0] :443.55000
+ Magnetometer[1] :387.15000
+ Magnetometer[2] :-182.70000
+ eye_origin :(-0.02166, 0.10754, 0.09937)
+ eye_direction :(0.16381, 0.25948, 0.95175)
+ eye_cursor :(0.30597, 0.62651, 2.00287)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 468 
+ head_origin :(-0.01752, 0.10180, 0.08773)
+ head_direction :(0.07716, 0.23157, 0.96975)
+ head movement direction :(-0.17766, 0.71303, 0.67825)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.85464
+ Accelerometer[1] :3.52027
+ Accelerometer[2] :-1.58393
+ Gyroscope[0] :0.09958
+ Gyroscope[1] :-0.09648
+ Gyroscope[2] :0.18319
+ Magnetometer[0] :443.55000
+ Magnetometer[1] :387.15000
+ Magnetometer[2] :-182.70000
+ eye_origin :(-0.02166, 0.10754, 0.09937)
+ eye_direction :(0.16381, 0.25948, 0.95175)
+ eye_cursor :(0.30597, 0.62651, 2.00287)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 488 
+ head_origin :(-0.01664, 0.10127, 0.08758)
+ head_direction :(0.08090, 0.22502, 0.97099)
+ head movement direction :(-0.17453, 0.71443, 0.67759)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.85464
+ Accelerometer[1] :3.52027
+ Accelerometer[2] :-1.58393
+ Gyroscope[0] :0.09958
+ Gyroscope[1] :-0.09648
+ Gyroscope[2] :0.18319
+ Magnetometer[0] :443.55000
+ Magnetometer[1] :387.15000
+ Magnetometer[2] :-182.70000
+ eye_origin :(-0.02166, 0.10754, 0.09937)
+ eye_direction :(0.16381, 0.25948, 0.95175)
+ eye_cursor :(0.30597, 0.62651, 2.00287)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 498 
+ head_origin :(-0.01561, 0.10053, 0.08757)
+ head_direction :(0.08531, 0.21733, 0.97236)
+ head movement direction :(-0.17172, 0.71567, 0.67700)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.85464
+ Accelerometer[1] :3.52027
+ Accelerometer[2] :-1.58393
+ Gyroscope[0] :0.09958
+ Gyroscope[1] :-0.09648
+ Gyroscope[2] :0.18319
+ Magnetometer[0] :443.55000
+ Magnetometer[1] :387.15000
+ Magnetometer[2] :-182.70000
+ eye_origin :(-0.02166, 0.10754, 0.09937)
+ eye_direction :(0.16381, 0.25948, 0.95175)
+ eye_cursor :(0.30597, 0.62651, 2.00287)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 518 
+ head_origin :(-0.01450, 0.10001, 0.08756)
+ head_direction :(0.09016, 0.20826, 0.97391)
+ head movement direction :(-0.16918, 0.71679, 0.67645)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.85464
+ Accelerometer[1] :3.52027
+ Accelerometer[2] :-1.58393
+ Gyroscope[0] :0.15434
+ Gyroscope[1] :-0.11143
+ Gyroscope[2] :0.22810
+ Magnetometer[0] :443.55000
+ Magnetometer[1] :387.15000
+ Magnetometer[2] :-182.70000
+ eye_origin :(-0.02257, 0.10734, 0.09933)
+ eye_direction :(0.17259, 0.24872, 0.95307)
+ eye_cursor :(0.32260, 0.60478, 2.00548)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 538 
+ head_origin :(-0.01325, 0.09945, 0.08746)
+ head_direction :(0.09575, 0.19922, 0.97527)
+ head movement direction :(-0.16752, 0.71766, 0.67594)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.85464
+ Accelerometer[1] :3.52027
+ Accelerometer[2] :-1.58393
+ Gyroscope[0] :0.15434
+ Gyroscope[1] :-0.11143
+ Gyroscope[2] :0.22810
+ Magnetometer[0] :443.55000
+ Magnetometer[1] :387.15000
+ Magnetometer[2] :-182.70000
+ eye_origin :(-0.02343, 0.10714, 0.09929)
+ eye_direction :(0.18108, 0.23816, 0.95420)
+ eye_cursor :(0.33873, 0.58345, 2.00768)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 548 
+ head_origin :(-0.01191, 0.09870, 0.08744)
+ head_direction :(0.10269, 0.19019, 0.97636)
+ head movement direction :(-0.16661, 0.71832, 0.67547)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.87577
+ Accelerometer[1] :3.29991
+ Accelerometer[2] :-1.57817
+ Gyroscope[0] :0.15434
+ Gyroscope[1] :-0.11143
+ Gyroscope[2] :0.22810
+ Magnetometer[0] :443.55000
+ Magnetometer[1] :387.15000
+ Magnetometer[2] :-182.70000
+ eye_origin :(-0.02322, 0.10690, 0.09917)
+ eye_direction :(0.19046, 0.22468, 0.95564)
+ eye_cursor :(0.35769, 0.55627, 2.01045)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 568 
+ head_origin :(-0.01045, 0.09792, 0.08736)
+ head_direction :(0.11055, 0.18043, 0.97736)
+ head movement direction :(-0.16567, 0.71890, 0.67509)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.87577
+ Accelerometer[1] :3.29991
+ Accelerometer[2] :-1.57817
+ Gyroscope[0] :0.23285
+ Gyroscope[1] :-0.17348
+ Gyroscope[2] :0.38914
+ Magnetometer[0] :443.55000
+ Magnetometer[1] :387.15000
+ Magnetometer[2] :-182.70000
+ eye_origin :(-0.02297, 0.10665, 0.09905)
+ eye_direction :(0.19965, 0.21129, 0.95682)
+ eye_cursor :(0.37633, 0.52923, 2.01269)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 588 
+ head_origin :(-0.00885, 0.09727, 0.08719)
+ head_direction :(0.11911, 0.17006, 0.97821)
+ head movement direction :(-0.16469, 0.71939, 0.67480)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.87577
+ Accelerometer[1] :3.29991
+ Accelerometer[2] :-1.57817
+ Gyroscope[0] :0.23285
+ Gyroscope[1] :-0.17348
+ Gyroscope[2] :0.38914
+ Magnetometer[0] :443.55000
+ Magnetometer[1] :387.15000
+ Magnetometer[2] :-182.70000
+ eye_origin :(-0.02260, 0.10639, 0.09893)
+ eye_direction :(0.20879, 0.19778, 0.95775)
+ eye_cursor :(0.39498, 0.50194, 2.01444)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 606 
+ head_origin :(-0.00691, 0.09665, 0.08716)
+ head_direction :(0.13002, 0.15988, 0.97854)
+ head movement direction :(-0.16359, 0.71981, 0.67462)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.87577
+ Accelerometer[1] :3.29991
+ Accelerometer[2] :-1.57817
+ Gyroscope[0] :0.23285
+ Gyroscope[1] :-0.17348
+ Gyroscope[2] :0.38914
+ Magnetometer[0] :443.55000
+ Magnetometer[1] :387.15000
+ Magnetometer[2] :-182.70000
+ eye_origin :(-0.02218, 0.10610, 0.09881)
+ eye_direction :(0.21781, 0.18431, 0.95843)
+ eye_cursor :(0.41344, 0.47473, 2.01567)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 621 
+ head_origin :(-0.00507, 0.09589, 0.08695)
+ head_direction :(0.14295, 0.14980, 0.97833)
+ head movement direction :(-0.16236, 0.72017, 0.67453)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :8.87577
+ Accelerometer[1] :3.29991
+ Accelerometer[2] :-1.57817
+ Gyroscope[0] :0.28899
+ Gyroscope[1] :-0.18957
+ Gyroscope[2] :0.41205
+ Magnetometer[0] :443.55000
+ Magnetometer[1] :387.15000
+ Magnetometer[2] :-182.70000
+ eye_origin :(-0.02135, 0.10578, 0.09865)
+ eye_direction :(0.22915, 0.17009, 0.95841)
+ eye_cursor :(0.43696, 0.44596, 2.01548)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 638 
+ head_origin :(-0.00308, 0.09532, 0.08684)
+ head_direction :(0.15740, 0.14025, 0.97753)
+ head movement direction :(-0.16073, 0.72051, 0.67456)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.03267
+ Accelerometer[1] :2.88017
+ Accelerometer[2] :-1.60075
+ Gyroscope[0] :0.28899
+ Gyroscope[1] :-0.18957
+ Gyroscope[2] :0.41205
+ Magnetometer[0] :443.55000
+ Magnetometer[1] :387.15000
+ Magnetometer[2] :-182.70000
+ eye_origin :(-0.02051, 0.10545, 0.09848)
+ eye_direction :(0.24021, 0.15612, 0.95809)
+ eye_cursor :(0.45990, 0.41770, 2.01466)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 648 
+ head_origin :(-0.00117, 0.09508, 0.08650)
+ head_direction :(0.17271, 0.13171, 0.97613)
+ head movement direction :(-0.15873, 0.72083, 0.67469)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.03267
+ Accelerometer[1] :2.88017
+ Accelerometer[2] :-1.60075
+ Gyroscope[0] :0.28899
+ Gyroscope[1] :-0.18957
+ Gyroscope[2] :0.41205
+ Magnetometer[0] :443.55000
+ Magnetometer[1] :387.15000
+ Magnetometer[2] :-182.70000
+ eye_origin :(-0.02051, 0.10545, 0.09848)
+ eye_direction :(0.24021, 0.15612, 0.95809)
+ eye_cursor :(0.45990, 0.41770, 2.01466)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 668 
+ head_origin :(0.00103, 0.09472, 0.08634)
+ head_direction :(0.18943, 0.12456, 0.97396)
+ head movement direction :(-0.15693, 0.72112, 0.67481)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.03267
+ Accelerometer[1] :2.88017
+ Accelerometer[2] :-1.60075
+ Gyroscope[0] :0.46192
+ Gyroscope[1] :-0.17433
+ Gyroscope[2] :0.52570
+ Magnetometer[0] :444.15000
+ Magnetometer[1] :388.50000
+ Magnetometer[2] :-184.35000
+ eye_origin :(-0.02051, 0.10545, 0.09848)
+ eye_direction :(0.24021, 0.15612, 0.95809)
+ eye_cursor :(0.45990, 0.41770, 2.01466)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 688 
+ head_origin :(0.00322, 0.09440, 0.08609)
+ head_direction :(0.20876, 0.11890, 0.97071)
+ head movement direction :(-0.15531, 0.72137, 0.67491)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.03267
+ Accelerometer[1] :2.88017
+ Accelerometer[2] :-1.60075
+ Gyroscope[0] :0.46192
+ Gyroscope[1] :-0.17433
+ Gyroscope[2] :0.52570
+ Magnetometer[0] :444.15000
+ Magnetometer[1] :388.50000
+ Magnetometer[2] :-184.35000
+ eye_origin :(-0.01948, 0.10506, 0.09829)
+ eye_direction :(0.25597, 0.14337, 0.95599)
+ eye_cursor :(0.49245, 0.39180, 2.01028)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 698 
+ head_origin :(0.00538, 0.09377, 0.08587)
+ head_direction :(0.22659, 0.11270, 0.96745)
+ head movement direction :(-0.15320, 0.72161, 0.67513)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.03267
+ Accelerometer[1] :2.88017
+ Accelerometer[2] :-1.60075
+ Gyroscope[0] :0.46192
+ Gyroscope[1] :-0.17433
+ Gyroscope[2] :0.52570
+ Magnetometer[0] :444.15000
+ Magnetometer[1] :388.50000
+ Magnetometer[2] :-184.35000
+ eye_origin :(-0.01845, 0.10466, 0.09809)
+ eye_direction :(0.27138, 0.13084, 0.95354)
+ eye_cursor :(0.52432, 0.36635, 2.00517)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 718 
+ head_origin :(0.00751, 0.09328, 0.08551)
+ head_direction :(0.24609, 0.10705, 0.96332)
+ head movement direction :(-0.15064, 0.72184, 0.67546)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.47176
+ Accelerometer[1] :2.29776
+ Accelerometer[2] :-1.41882
+ Gyroscope[0] :0.77151
+ Gyroscope[1] :-0.09121
+ Gyroscope[2] :0.50005
+ Magnetometer[0] :444.15000
+ Magnetometer[1] :388.50000
+ Magnetometer[2] :-184.35000
+ eye_origin :(-0.01734, 0.10427, 0.09788)
+ eye_direction :(0.28813, 0.11978, 0.95007)
+ eye_cursor :(0.55892, 0.34383, 1.99802)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 739 
+ head_origin :(0.00970, 0.09282, 0.08523)
+ head_direction :(0.26539, 0.10123, 0.95881)
+ head movement direction :(-0.14762, 0.72207, 0.67589)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.47176
+ Accelerometer[1] :2.29776
+ Accelerometer[2] :-1.41882
+ Gyroscope[0] :0.77151
+ Gyroscope[1] :-0.09121
+ Gyroscope[2] :0.50005
+ Magnetometer[0] :444.15000
+ Magnetometer[1] :388.50000
+ Magnetometer[2] :-184.35000
+ eye_origin :(-0.01622, 0.10388, 0.09767)
+ eye_direction :(0.30451, 0.10891, 0.94626)
+ eye_cursor :(0.59280, 0.32169, 1.99020)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 748 
+ head_origin :(0.01175, 0.09237, 0.08497)
+ head_direction :(0.28385, 0.09524, 0.95413)
+ head movement direction :(-0.14417, 0.72229, 0.67640)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.47176
+ Accelerometer[1] :2.29776
+ Accelerometer[2] :-1.41882
+ Gyroscope[0] :0.77151
+ Gyroscope[1] :-0.09121
+ Gyroscope[2] :0.50005
+ Magnetometer[0] :444.15000
+ Magnetometer[1] :388.50000
+ Magnetometer[2] :-184.35000
+ eye_origin :(-0.01622, 0.10388, 0.09767)
+ eye_direction :(0.30451, 0.10891, 0.94626)
+ eye_cursor :(0.59280, 0.32169, 1.99020)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 768 
+ head_origin :(0.01375, 0.09203, 0.08463)
+ head_direction :(0.30113, 0.08957, 0.94937)
+ head movement direction :(-0.14106, 0.72248, 0.67685)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.47176
+ Accelerometer[1] :2.29776
+ Accelerometer[2] :-1.41882
+ Gyroscope[0] :1.01631
+ Gyroscope[1] :-0.05214
+ Gyroscope[2] :0.47502
+ Magnetometer[0] :444.15000
+ Magnetometer[1] :388.50000
+ Magnetometer[2] :-184.35000
+ eye_origin :(-0.01622, 0.10388, 0.09767)
+ eye_direction :(0.30451, 0.10891, 0.94626)
+ eye_cursor :(0.59280, 0.32169, 1.99020)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 788 
+ head_origin :(0.01582, 0.09150, 0.08438)
+ head_direction :(0.31863, 0.08434, 0.94412)
+ head movement direction :(-0.13827, 0.72264, 0.67725)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.47176
+ Accelerometer[1] :2.29776
+ Accelerometer[2] :-1.41882
+ Gyroscope[0] :1.01631
+ Gyroscope[1] :-0.05214
+ Gyroscope[2] :0.47502
+ Magnetometer[0] :444.15000
+ Magnetometer[1] :388.50000
+ Magnetometer[2] :-184.35000
+ eye_origin :(-0.01622, 0.10388, 0.09767)
+ eye_direction :(0.30451, 0.10891, 0.94626)
+ eye_cursor :(0.59280, 0.32169, 1.99020)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 798 
+ head_origin :(0.01776, 0.09115, 0.08400)
+ head_direction :(0.33548, 0.07916, 0.93871)
+ head movement direction :(-0.13575, 0.72279, 0.67761)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75883
+ Accelerometer[1] :1.99597
+ Accelerometer[2] :-0.98193
+ Gyroscope[0] :1.01631
+ Gyroscope[1] :-0.05214
+ Gyroscope[2] :0.47502
+ Magnetometer[0] :444.15000
+ Magnetometer[1] :388.50000
+ Magnetometer[2] :-184.35000
+ eye_origin :(-0.01622, 0.10388, 0.09767)
+ eye_direction :(0.30451, 0.10891, 0.94626)
+ eye_cursor :(0.59280, 0.32169, 1.99020)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 818 
+ head_origin :(0.01954, 0.09078, 0.08365)
+ head_direction :(0.35100, 0.07386, 0.93346)
+ head movement direction :(-0.13348, 0.72291, 0.67792)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75883
+ Accelerometer[1] :1.99597
+ Accelerometer[2] :-0.98193
+ Gyroscope[0] :1.06382
+ Gyroscope[1] :0.06916
+ Gyroscope[2] :0.48274
+ Magnetometer[0] :444.15000
+ Magnetometer[1] :388.50000
+ Magnetometer[2] :-184.35000
+ eye_origin :(-0.01458, 0.10340, 0.09736)
+ eye_direction :(0.32306, 0.09811, 0.94128)
+ eye_cursor :(0.63155, 0.29962, 1.97992)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 838 
+ head_origin :(0.02132, 0.09043, 0.08345)
+ head_direction :(0.36527, 0.06902, 0.92834)
+ head movement direction :(-0.13035, 0.72308, 0.67836)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75883
+ Accelerometer[1] :1.99597
+ Accelerometer[2] :-0.98193
+ Gyroscope[0] :1.06382
+ Gyroscope[1] :0.06916
+ Gyroscope[2] :0.48274
+ Magnetometer[0] :444.15000
+ Magnetometer[1] :388.50000
+ Magnetometer[2] :-184.35000
+ eye_origin :(-0.01294, 0.10293, 0.09705)
+ eye_direction :(0.34116, 0.08753, 0.93592)
+ eye_cursor :(0.66938, 0.27798, 1.96890)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 848 
+ head_origin :(0.02300, 0.08997, 0.08297)
+ head_direction :(0.37836, 0.06445, 0.92341)
+ head movement direction :(-0.12643, 0.72327, 0.67889)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75883
+ Accelerometer[1] :1.99597
+ Accelerometer[2] :-0.98193
+ Gyroscope[0] :1.06382
+ Gyroscope[1] :0.06916
+ Gyroscope[2] :0.48274
+ Magnetometer[0] :444.15000
+ Magnetometer[1] :388.50000
+ Magnetometer[2] :-184.35000
+ eye_origin :(-0.01127, 0.10246, 0.09675)
+ eye_direction :(0.35743, 0.07922, 0.93057)
+ eye_cursor :(0.70360, 0.26090, 1.95789)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 868 
+ head_origin :(0.02482, 0.08965, 0.08282)
+ head_direction :(0.39157, 0.06011, 0.91818)
+ head movement direction :(-0.12177, 0.72350, 0.67950)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75883
+ Accelerometer[1] :1.99597
+ Accelerometer[2] :-0.98193
+ Gyroscope[0] :1.06434
+ Gyroscope[1] :0.06947
+ Gyroscope[2] :0.40575
+ Magnetometer[0] :444.15000
+ Magnetometer[1] :388.50000
+ Magnetometer[2] :-184.35000
+ eye_origin :(-0.00957, 0.10199, 0.09643)
+ eye_direction :(0.37363, 0.07097, 0.92486)
+ eye_cursor :(0.73770, 0.24392, 1.94615)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 888 
+ head_origin :(0.02632, 0.08934, 0.08254)
+ head_direction :(0.40375, 0.05625, 0.91314)
+ head movement direction :(-0.11641, 0.72373, 0.68019)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.64650
+ Accelerometer[1] :2.12366
+ Accelerometer[2] :-0.42731
+ Gyroscope[0] :1.06434
+ Gyroscope[1] :0.06947
+ Gyroscope[2] :0.40575
+ Magnetometer[0] :440.55000
+ Magnetometer[1] :390.45000
+ Magnetometer[2] :-185.70000
+ eye_origin :(-0.00787, 0.10153, 0.09612)
+ eye_direction :(0.38910, 0.06304, 0.91904)
+ eye_cursor :(0.77033, 0.22760, 1.93419)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 898 
+ head_origin :(0.02781, 0.08911, 0.08214)
+ head_direction :(0.41434, 0.05227, 0.90862)
+ head movement direction :(-0.11041, 0.72398, 0.68092)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.64650
+ Accelerometer[1] :2.12366
+ Accelerometer[2] :-0.42731
+ Gyroscope[0] :1.06434
+ Gyroscope[1] :0.06947
+ Gyroscope[2] :0.40575
+ Magnetometer[0] :440.55000
+ Magnetometer[1] :390.45000
+ Magnetometer[2] :-185.70000
+ eye_origin :(-0.00616, 0.10106, 0.09579)
+ eye_direction :(0.40447, 0.05517, 0.91288)
+ eye_cursor :(0.80279, 0.21139, 1.92156)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 918 
+ head_origin :(0.02926, 0.08868, 0.08182)
+ head_direction :(0.42447, 0.04833, 0.90415)
+ head movement direction :(-0.10380, 0.72424, 0.68169)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.64650
+ Accelerometer[1] :2.12366
+ Accelerometer[2] :-0.42731
+ Gyroscope[0] :0.99425
+ Gyroscope[1] :-0.01336
+ Gyroscope[2] :0.29170
+ Magnetometer[0] :440.55000
+ Magnetometer[1] :390.45000
+ Magnetometer[2] :-185.70000
+ eye_origin :(-0.00432, 0.10059, 0.09542)
+ eye_direction :(0.41795, 0.04762, 0.90722)
+ eye_cursor :(0.83158, 0.19583, 1.90986)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 938 
+ head_origin :(0.03071, 0.08840, 0.08150)
+ head_direction :(0.43406, 0.04450, 0.89978)
+ head movement direction :(-0.09656, 0.72450, 0.68248)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.64650
+ Accelerometer[1] :2.12366
+ Accelerometer[2] :-0.42731
+ Gyroscope[0] :0.99425
+ Gyroscope[1] :-0.01336
+ Gyroscope[2] :0.29170
+ Magnetometer[0] :440.55000
+ Magnetometer[1] :390.45000
+ Magnetometer[2] :-185.70000
+ eye_origin :(-0.00252, 0.10013, 0.09506)
+ eye_direction :(0.43109, 0.04024, 0.90141)
+ eye_cursor :(0.85965, 0.18062, 1.89788)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 948 
+ head_origin :(0.03209, 0.08798, 0.08112)
+ head_direction :(0.44304, 0.04078, 0.89557)
+ head movement direction :(-0.08875, 0.72476, 0.68326)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.64650
+ Accelerometer[1] :2.12366
+ Accelerometer[2] :-0.42731
+ Gyroscope[0] :0.99425
+ Gyroscope[1] :-0.01336
+ Gyroscope[2] :0.29170
+ Magnetometer[0] :440.55000
+ Magnetometer[1] :390.45000
+ Magnetometer[2] :-185.70000
+ eye_origin :(-0.00091, 0.09968, 0.09476)
+ eye_direction :(0.44391, 0.03305, 0.89546)
+ eye_cursor :(0.88691, 0.16579, 1.88569)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 968 
+ head_origin :(0.03360, 0.08760, 0.08086)
+ head_direction :(0.45172, 0.03689, 0.89140)
+ head movement direction :(-0.08055, 0.72498, 0.68404)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.69520
+ Accelerometer[1] :2.01665
+ Accelerometer[2] :-0.18037
+ Gyroscope[0] :0.84407
+ Gyroscope[1] :0.00174
+ Gyroscope[2] :0.24621
+ Magnetometer[0] :440.55000
+ Magnetometer[1] :390.45000
+ Magnetometer[2] :-185.70000
+ eye_origin :(0.03703, 0.08861, 0.08838)
+ eye_direction :(0.71907, -0.14012, 0.68066)
+ eye_cursor :(1.47517, -0.19163, 1.44971)
+-------------------------------
+
+Log Entry : 
+9:05:32 AM Sunday, April 9, 2023
+9 5 32 988 
+ head_origin :(0.03498, 0.08708, 0.08049)
+ head_direction :(0.45988, 0.03181, 0.88741)
+ head movement direction :(-0.04379, 0.72478, 0.68759)
+ head velocity :(0.11379, -0.03323, -0.01915)
+ Accelerometer[0] :9.69520
+ Accelerometer[1] :2.01665
+ Accelerometer[2] :-0.18037
+ Gyroscope[0] :0.84407
+ Gyroscope[1] :0.00174
+ Gyroscope[2] :0.24621
+ Magnetometer[0] :440.55000
+ Magnetometer[1] :390.45000
+ Magnetometer[2] :-185.70000
+ eye_origin :(0.03707, 0.08860, 0.08837)
+ eye_direction :(0.71926, -0.14023, 0.68044)
+ eye_cursor :(1.47559, -0.19186, 1.44925)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 8 
+ head_origin :(0.03638, 0.08657, 0.08016)
+ head_direction :(0.46788, 0.02563, 0.88342)
+ head movement direction :(-0.01063, 0.72375, 0.68998)
+ head velocity :(0.10697, -0.03124, -0.01800)
+ Accelerometer[0] :9.69520
+ Accelerometer[1] :2.01665
+ Accelerometer[2] :-0.18037
+ Gyroscope[0] :0.84407
+ Gyroscope[1] :0.00174
+ Gyroscope[2] :0.24621
+ Magnetometer[0] :440.55000
+ Magnetometer[1] :390.45000
+ Magnetometer[2] :-185.70000
+ eye_origin :(0.03717, 0.08857, 0.08833)
+ eye_direction :(0.71976, -0.14056, 0.67984)
+ eye_cursor :(1.47670, -0.19256, 1.44802)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 18 
+ head_origin :(0.03762, 0.08600, 0.07977)
+ head_direction :(0.47558, 0.01951, 0.87946)
+ head movement direction :(0.01933, 0.72214, 0.69148)
+ head velocity :(0.10055, -0.02936, -0.01692)
+ Accelerometer[0] :9.69520
+ Accelerometer[1] :2.01665
+ Accelerometer[2] :-0.18037
+ Gyroscope[0] :0.70944
+ Gyroscope[1] :0.00920
+ Gyroscope[2] :0.25441
+ Magnetometer[0] :440.55000
+ Magnetometer[1] :390.45000
+ Magnetometer[2] :-185.70000
+ eye_origin :(0.03752, 0.08852, 0.08822)
+ eye_direction :(0.71576, -0.13916, 0.68434)
+ eye_cursor :(1.46903, -0.18981, 1.45690)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 38 
+ head_origin :(0.03889, 0.08564, 0.07936)
+ head_direction :(0.48285, 0.01320, 0.87560)
+ head movement direction :(0.04655, 0.72015, 0.69226)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.69520
+ Accelerometer[1] :2.01665
+ Accelerometer[2] :-0.18037
+ Gyroscope[0] :0.70944
+ Gyroscope[1] :0.00920
+ Gyroscope[2] :0.25441
+ Magnetometer[0] :440.55000
+ Magnetometer[1] :390.45000
+ Magnetometer[2] :-185.70000
+ eye_origin :(0.03789, 0.08846, 0.08809)
+ eye_direction :(0.71203, -0.13794, 0.68847)
+ eye_cursor :(1.46195, -0.18743, 1.46502)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 48 
+ head_origin :(0.04031, 0.08548, 0.07875)
+ head_direction :(0.49045, 0.00851, 0.87143)
+ head movement direction :(0.07131, 0.71791, 0.69247)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.58535
+ Accelerometer[1] :1.78326
+ Accelerometer[2] :-0.16319
+ Gyroscope[0] :0.61392
+ Gyroscope[1] :-0.09749
+ Gyroscope[2] :0.28606
+ Magnetometer[0] :440.55000
+ Magnetometer[1] :390.45000
+ Magnetometer[2] :-185.70000
+ eye_origin :(0.03789, 0.08846, 0.08809)
+ eye_direction :(0.71203, -0.13794, 0.68847)
+ eye_cursor :(1.46195, -0.18743, 1.46502)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 69 
+ head_origin :(0.04176, 0.08518, 0.07815)
+ head_direction :(0.49919, 0.00485, 0.86648)
+ head movement direction :(0.09357, 0.71551, 0.69230)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.58535
+ Accelerometer[1] :1.78326
+ Accelerometer[2] :-0.16319
+ Gyroscope[0] :0.61392
+ Gyroscope[1] :-0.09749
+ Gyroscope[2] :0.28606
+ Magnetometer[0] :440.55000
+ Magnetometer[1] :390.45000
+ Magnetometer[2] :-185.70000
+ eye_origin :(0.03789, 0.08846, 0.08809)
+ eye_direction :(0.71203, -0.13794, 0.68847)
+ eye_cursor :(1.46195, -0.18743, 1.46502)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 88 
+ head_origin :(0.04315, 0.08479, 0.07768)
+ head_direction :(0.50909, 0.00087, 0.86072)
+ head movement direction :(0.11356, 0.71305, 0.69185)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.58535
+ Accelerometer[1] :1.78326
+ Accelerometer[2] :-0.16319
+ Gyroscope[0] :0.61392
+ Gyroscope[1] :-0.09749
+ Gyroscope[2] :0.28606
+ Magnetometer[0] :440.55000
+ Magnetometer[1] :390.45000
+ Magnetometer[2] :-185.70000
+ eye_origin :(0.03789, 0.08846, 0.08809)
+ eye_direction :(0.71203, -0.13794, 0.68847)
+ eye_cursor :(1.46195, -0.18743, 1.46502)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 98 
+ head_origin :(0.04421, 0.08422, 0.07708)
+ head_direction :(0.51920, -0.00305, 0.85465)
+ head movement direction :(0.13151, 0.71059, 0.69121)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.58535
+ Accelerometer[1] :1.78326
+ Accelerometer[2] :-0.16319
+ Gyroscope[0] :0.61392
+ Gyroscope[1] :-0.09749
+ Gyroscope[2] :0.28606
+ Magnetometer[0] :440.55000
+ Magnetometer[1] :390.45000
+ Magnetometer[2] :-185.70000
+ eye_origin :(0.03789, 0.08846, 0.08809)
+ eye_direction :(0.71203, -0.13794, 0.68847)
+ eye_cursor :(1.46195, -0.18743, 1.46502)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 118 
+ head_origin :(0.04541, 0.08367, 0.07647)
+ head_direction :(0.52906, -0.00731, 0.84855)
+ head movement direction :(0.14762, 0.70817, 0.69043)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.58535
+ Accelerometer[1] :1.78326
+ Accelerometer[2] :-0.16319
+ Gyroscope[0] :0.61417
+ Gyroscope[1] :-0.14269
+ Gyroscope[2] :0.25569
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :393.45000
+ Magnetometer[2] :-194.70000
+ eye_origin :(0.03853, 0.08830, 0.08785)
+ eye_direction :(0.70900, -0.13738, 0.69170)
+ eye_cursor :(1.45653, -0.18647, 1.47125)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 138 
+ head_origin :(0.04627, 0.08295, 0.07564)
+ head_direction :(0.53878, -0.01271, 0.84235)
+ head movement direction :(0.16262, 0.70581, 0.68949)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.77181
+ Accelerometer[1] :1.39245
+ Accelerometer[2] :-0.20134
+ Gyroscope[0] :0.61417
+ Gyroscope[1] :-0.14269
+ Gyroscope[2] :0.25569
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :393.45000
+ Magnetometer[2] :-194.70000
+ eye_origin :(0.03914, 0.08814, 0.08763)
+ eye_direction :(0.70474, -0.13606, 0.69629)
+ eye_cursor :(1.44863, -0.18398, 1.48022)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 148 
+ head_origin :(0.04734, 0.08233, 0.07486)
+ head_direction :(0.54809, -0.01889, 0.83621)
+ head movement direction :(0.17659, 0.70350, 0.68841)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.77181
+ Accelerometer[1] :1.39245
+ Accelerometer[2] :-0.20134
+ Gyroscope[0] :0.64629
+ Gyroscope[1] :-0.14990
+ Gyroscope[2] :0.21029
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :393.45000
+ Magnetometer[2] :-194.70000
+ eye_origin :(0.03977, 0.08798, 0.08741)
+ eye_direction :(0.70079, -0.13490, 0.70049)
+ eye_cursor :(1.44135, -0.18183, 1.48839)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 168 
+ head_origin :(0.04824, 0.08197, 0.07401)
+ head_direction :(0.55772, -0.02542, 0.82964)
+ head movement direction :(0.18964, 0.70125, 0.68723)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.77181
+ Accelerometer[1] :1.39245
+ Accelerometer[2] :-0.20134
+ Gyroscope[0] :0.64629
+ Gyroscope[1] :-0.14990
+ Gyroscope[2] :0.21029
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :393.45000
+ Magnetometer[2] :-194.70000
+ eye_origin :(0.04045, 0.08779, 0.08713)
+ eye_direction :(0.69723, -0.13391, 0.70423)
+ eye_cursor :(1.43491, -0.18002, 1.49559)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 188 
+ head_origin :(0.04919, 0.08183, 0.07308)
+ head_direction :(0.56809, -0.02981, 0.82243)
+ head movement direction :(0.20193, 0.69908, 0.68594)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.77181
+ Accelerometer[1] :1.39245
+ Accelerometer[2] :-0.20134
+ Gyroscope[0] :0.64629
+ Gyroscope[1] :-0.14990
+ Gyroscope[2] :0.21029
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :393.45000
+ Magnetometer[2] :-194.70000
+ eye_origin :(0.04114, 0.08760, 0.08685)
+ eye_direction :(0.69398, -0.13307, 0.70759)
+ eye_cursor :(1.42910, -0.17854, 1.50203)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 198 
+ head_origin :(0.04996, 0.08149, 0.07247)
+ head_direction :(0.57818, -0.03375, 0.81521)
+ head movement direction :(0.21353, 0.69697, 0.68457)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.77181
+ Accelerometer[1] :1.39245
+ Accelerometer[2] :-0.20134
+ Gyroscope[0] :0.67765
+ Gyroscope[1] :-0.11220
+ Gyroscope[2] :0.27102
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :393.45000
+ Magnetometer[2] :-194.70000
+ eye_origin :(0.04182, 0.08739, 0.08655)
+ eye_direction :(0.69105, -0.13230, 0.71059)
+ eye_cursor :(1.42392, -0.17722, 1.50774)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 218 
+ head_origin :(0.05047, 0.08114, 0.07204)
+ head_direction :(0.58652, -0.03863, 0.80901)
+ head movement direction :(0.22451, 0.69494, 0.68312)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.66670
+ Accelerometer[1] :1.07170
+ Accelerometer[2] :0.11841
+ Gyroscope[0] :0.67765
+ Gyroscope[1] :-0.11220
+ Gyroscope[2] :0.27102
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :393.45000
+ Magnetometer[2] :-194.70000
+ eye_origin :(0.04253, 0.08718, 0.08622)
+ eye_direction :(0.68860, -0.13179, 0.71306)
+ eye_cursor :(1.41973, -0.17640, 1.51235)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 238 
+ head_origin :(0.05062, 0.08095, 0.07165)
+ head_direction :(0.59196, -0.04318, 0.80481)
+ head movement direction :(0.23497, 0.69297, 0.68160)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.66670
+ Accelerometer[1] :1.07170
+ Accelerometer[2] :0.11841
+ Gyroscope[0] :0.67765
+ Gyroscope[1] :-0.11220
+ Gyroscope[2] :0.27102
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :393.45000
+ Magnetometer[2] :-194.70000
+ eye_origin :(0.04332, 0.08694, 0.08583)
+ eye_direction :(0.68632, -0.13137, 0.71534)
+ eye_cursor :(1.41596, -0.17580, 1.51651)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 258 
+ head_origin :(0.05103, 0.08133, 0.07135)
+ head_direction :(0.59549, -0.04522, 0.80209)
+ head movement direction :(0.24502, 0.69108, 0.67998)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.66670
+ Accelerometer[1] :1.07170
+ Accelerometer[2] :0.11841
+ Gyroscope[0] :0.69299
+ Gyroscope[1] :0.07758
+ Gyroscope[2] :0.32389
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :393.45000
+ Magnetometer[2] :-194.70000
+ eye_origin :(0.04410, 0.08670, 0.08543)
+ eye_direction :(0.68430, -0.13108, 0.71733)
+ eye_cursor :(1.41269, -0.17546, 1.52009)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 268 
+ head_origin :(0.05115, 0.08133, 0.07128)
+ head_direction :(0.59783, -0.04532, 0.80034)
+ head movement direction :(0.25471, 0.68925, 0.67828)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.66670
+ Accelerometer[1] :1.07170
+ Accelerometer[2] :0.11841
+ Gyroscope[0] :0.69299
+ Gyroscope[1] :0.07758
+ Gyroscope[2] :0.32389
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :393.45000
+ Magnetometer[2] :-194.70000
+ eye_origin :(0.04491, 0.08645, 0.08500)
+ eye_direction :(0.68233, -0.13078, 0.71925)
+ eye_cursor :(1.40957, -0.17511, 1.52351)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 288 
+ head_origin :(0.05108, 0.08098, 0.07135)
+ head_direction :(0.59815, -0.04525, 0.80011)
+ head movement direction :(0.26410, 0.68748, 0.67648)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.66670
+ Accelerometer[1] :1.07170
+ Accelerometer[2] :0.11841
+ Gyroscope[0] :0.69299
+ Gyroscope[1] :0.07758
+ Gyroscope[2] :0.32389
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :393.45000
+ Magnetometer[2] :-194.70000
+ eye_origin :(0.04571, 0.08621, 0.08458)
+ eye_direction :(0.68055, -0.13056, 0.72098)
+ eye_cursor :(1.40680, -0.17491, 1.52654)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 298 
+ head_origin :(0.05085, 0.08066, 0.07153)
+ head_direction :(0.59612, -0.04622, 0.80156)
+ head movement direction :(0.27320, 0.68576, 0.67460)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.66670
+ Accelerometer[1] :1.07170
+ Accelerometer[2] :0.11841
+ Gyroscope[0] :0.51867
+ Gyroscope[1] :-0.02121
+ Gyroscope[2] :0.24849
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :393.45000
+ Magnetometer[2] :-194.70000
+ eye_origin :(0.04651, 0.08596, 0.08414)
+ eye_direction :(0.67881, -0.13030, 0.72266)
+ eye_cursor :(1.40413, -0.17464, 1.52947)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 318 
+ head_origin :(0.05051, 0.08044, 0.07161)
+ head_direction :(0.59229, -0.04788, 0.80430)
+ head movement direction :(0.28206, 0.68410, 0.67264)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.74859
+ Accelerometer[1] :1.34012
+ Accelerometer[2] :0.46450
+ Gyroscope[0] :0.51867
+ Gyroscope[1] :-0.02121
+ Gyroscope[2] :0.24849
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :393.45000
+ Magnetometer[2] :-194.70000
+ eye_origin :(0.04729, 0.08572, 0.08371)
+ eye_direction :(0.67722, -0.13016, 0.72417)
+ eye_cursor :(1.40174, -0.17459, 1.53206)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 338 
+ head_origin :(0.05018, 0.08032, 0.07178)
+ head_direction :(0.58697, -0.04918, 0.80811)
+ head movement direction :(0.29069, 0.68249, 0.67060)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.74859
+ Accelerometer[1] :1.34012
+ Accelerometer[2] :0.46450
+ Gyroscope[0] :0.51867
+ Gyroscope[1] :-0.02121
+ Gyroscope[2] :0.24849
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :397.35000
+ Magnetometer[2] :-196.05000
+ eye_origin :(0.04806, 0.08548, 0.08328)
+ eye_direction :(0.67563, -0.12995, 0.72570)
+ eye_cursor :(1.39931, -0.17443, 1.53468)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 348 
+ head_origin :(0.04993, 0.08035, 0.07196)
+ head_direction :(0.58149, -0.05028, 0.81200)
+ head movement direction :(0.29909, 0.68092, 0.66851)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.74859
+ Accelerometer[1] :1.34012
+ Accelerometer[2] :0.46450
+ Gyroscope[0] :0.25018
+ Gyroscope[1] :-0.02049
+ Gyroscope[2] :0.15130
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :397.35000
+ Magnetometer[2] :-196.05000
+ eye_origin :(0.04879, 0.08524, 0.08287)
+ eye_direction :(0.67406, -0.12984, 0.72717)
+ eye_cursor :(1.39692, -0.17444, 1.53721)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 368 
+ head_origin :(0.04963, 0.08040, 0.07223)
+ head_direction :(0.57646, -0.05066, 0.81555)
+ head movement direction :(0.30725, 0.67938, 0.66636)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.74859
+ Accelerometer[1] :1.34012
+ Accelerometer[2] :0.46450
+ Gyroscope[0] :0.25018
+ Gyroscope[1] :-0.02049
+ Gyroscope[2] :0.15130
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :397.35000
+ Magnetometer[2] :-196.05000
+ eye_origin :(0.04951, 0.08500, 0.08246)
+ eye_direction :(0.67257, -0.12974, 0.72858)
+ eye_cursor :(1.39464, -0.17448, 1.53961)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 389 
+ head_origin :(0.04910, 0.08023, 0.07241)
+ head_direction :(0.57159, -0.05057, 0.81898)
+ head movement direction :(0.31520, 0.67788, 0.66418)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.74859
+ Accelerometer[1] :1.34012
+ Accelerometer[2] :0.46450
+ Gyroscope[0] :0.25018
+ Gyroscope[1] :-0.02049
+ Gyroscope[2] :0.15130
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :397.35000
+ Magnetometer[2] :-196.05000
+ eye_origin :(0.05019, 0.08476, 0.08207)
+ eye_direction :(0.67107, -0.12966, 0.72997)
+ eye_cursor :(1.39233, -0.17457, 1.54200)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 398 
+ head_origin :(0.04874, 0.08016, 0.07269)
+ head_direction :(0.56710, -0.05063, 0.82209)
+ head movement direction :(0.32293, 0.67640, 0.66196)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.78588
+ Accelerometer[1] :1.59714
+ Accelerometer[2] :0.76328
+ Gyroscope[0] :-0.03409
+ Gyroscope[1] :-0.07980
+ Gyroscope[2] :0.04592
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :397.35000
+ Magnetometer[2] :-196.05000
+ eye_origin :(0.05082, 0.08454, 0.08170)
+ eye_direction :(0.66974, -0.12967, 0.73119)
+ eye_cursor :(1.39030, -0.17479, 1.54408)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 418 
+ head_origin :(0.04830, 0.08014, 0.07282)
+ head_direction :(0.56320, -0.05087, 0.82475)
+ head movement direction :(0.33042, 0.67495, 0.65974)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.78588
+ Accelerometer[1] :1.59714
+ Accelerometer[2] :0.76328
+ Gyroscope[0] :-0.03409
+ Gyroscope[1] :-0.07980
+ Gyroscope[2] :0.04592
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :397.35000
+ Magnetometer[2] :-196.05000
+ eye_origin :(0.05142, 0.08432, 0.08136)
+ eye_direction :(0.66832, -0.12970, 0.73248)
+ eye_cursor :(1.38806, -0.17508, 1.54632)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 438 
+ head_origin :(0.04785, 0.08018, 0.07299)
+ head_direction :(0.55986, -0.05071, 0.82703)
+ head movement direction :(0.33765, 0.67353, 0.65753)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.78588
+ Accelerometer[1] :1.59714
+ Accelerometer[2] :0.76328
+ Gyroscope[0] :-0.03409
+ Gyroscope[1] :-0.07980
+ Gyroscope[2] :0.04592
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :397.35000
+ Magnetometer[2] :-196.05000
+ eye_origin :(0.05196, 0.08411, 0.08105)
+ eye_direction :(0.66720, -0.12974, 0.73350)
+ eye_cursor :(1.38635, -0.17537, 1.54804)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 448 
+ head_origin :(0.04727, 0.08024, 0.07301)
+ head_direction :(0.55658, -0.05037, 0.82927)
+ head movement direction :(0.34462, 0.67214, 0.65534)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.78588
+ Accelerometer[1] :1.59714
+ Accelerometer[2] :0.76328
+ Gyroscope[0] :-0.21670
+ Gyroscope[1] :-0.01113
+ Gyroscope[2] :0.08475
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :397.35000
+ Magnetometer[2] :-196.05000
+ eye_origin :(0.05245, 0.08391, 0.08076)
+ eye_direction :(0.66598, -0.12979, 0.73459)
+ eye_cursor :(1.38442, -0.17568, 1.54994)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 468 
+ head_origin :(0.04687, 0.08022, 0.07329)
+ head_direction :(0.55425, -0.05045, 0.83082)
+ head movement direction :(0.35131, 0.67077, 0.65318)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.78588
+ Accelerometer[1] :1.59714
+ Accelerometer[2] :0.76328
+ Gyroscope[0] :-0.21670
+ Gyroscope[1] :-0.01113
+ Gyroscope[2] :0.08475
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :397.35000
+ Magnetometer[2] :-196.05000
+ eye_origin :(0.05291, 0.08372, 0.08049)
+ eye_direction :(0.66500, -0.12983, 0.73547)
+ eye_cursor :(1.38292, -0.17595, 1.55143)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 489 
+ head_origin :(0.04622, 0.07994, 0.07347)
+ head_direction :(0.55159, -0.05101, 0.83255)
+ head movement direction :(0.35771, 0.66943, 0.65107)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.99852
+ Accelerometer[1] :1.01928
+ Accelerometer[2] :0.50835
+ Gyroscope[0] :-0.21670
+ Gyroscope[1] :-0.01113
+ Gyroscope[2] :0.08475
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :397.35000
+ Magnetometer[2] :-196.05000
+ eye_origin :(0.05334, 0.08353, 0.08024)
+ eye_direction :(0.66400, -0.12987, 0.73636)
+ eye_cursor :(1.38135, -0.17622, 1.55297)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 498 
+ head_origin :(0.04567, 0.07977, 0.07369)
+ head_direction :(0.54851, -0.05278, 0.83447)
+ head movement direction :(0.36385, 0.66813, 0.64902)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.99852
+ Accelerometer[1] :1.01928
+ Accelerometer[2] :0.50835
+ Gyroscope[0] :-0.25629
+ Gyroscope[1] :0.05735
+ Gyroscope[2] :0.13849
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :397.35000
+ Magnetometer[2] :-196.05000
+ eye_origin :(0.05334, 0.08353, 0.08024)
+ eye_direction :(0.66400, -0.12987, 0.73636)
+ eye_cursor :(1.38135, -0.17622, 1.55297)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 518 
+ head_origin :(0.04508, 0.07966, 0.07379)
+ head_direction :(0.54523, -0.05468, 0.83650)
+ head movement direction :(0.36935, 0.66693, 0.64714)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.99852
+ Accelerometer[1] :1.01928
+ Accelerometer[2] :0.50835
+ Gyroscope[0] :-0.25629
+ Gyroscope[1] :0.05735
+ Gyroscope[2] :0.13849
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :397.35000
+ Magnetometer[2] :-196.05000
+ eye_origin :(0.05334, 0.08353, 0.08024)
+ eye_direction :(0.66400, -0.12987, 0.73636)
+ eye_cursor :(1.38135, -0.17622, 1.55297)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 538 
+ head_origin :(0.04454, 0.07968, 0.07396)
+ head_direction :(0.54167, -0.05674, 0.83867)
+ head movement direction :(0.37429, 0.66582, 0.64543)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.99852
+ Accelerometer[1] :1.01928
+ Accelerometer[2] :0.50835
+ Gyroscope[0] :-0.25629
+ Gyroscope[1] :0.05735
+ Gyroscope[2] :0.13849
+ Magnetometer[0] :437.85000
+ Magnetometer[1] :397.35000
+ Magnetometer[2] :-196.05000
+ eye_origin :(0.05334, 0.08353, 0.08024)
+ eye_direction :(0.66400, -0.12987, 0.73636)
+ eye_cursor :(1.38135, -0.17622, 1.55297)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 548 
+ head_origin :(0.04384, 0.07958, 0.07423)
+ head_direction :(0.53734, -0.05838, 0.84134)
+ head movement direction :(0.37873, 0.66482, 0.64388)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.99852
+ Accelerometer[1] :1.01928
+ Accelerometer[2] :0.50835
+ Gyroscope[0] :-0.17733
+ Gyroscope[1] :0.01107
+ Gyroscope[2] :0.04650
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-200.85000
+ eye_origin :(0.05334, 0.08353, 0.08024)
+ eye_direction :(0.66400, -0.12987, 0.73636)
+ eye_cursor :(1.38135, -0.17622, 1.55297)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 568 
+ head_origin :(0.04314, 0.07943, 0.07448)
+ head_direction :(0.53181, -0.06072, 0.84468)
+ head movement direction :(0.38272, 0.66390, 0.64247)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.70158
+ Accelerometer[1] :0.70222
+ Accelerometer[2] :0.11458
+ Gyroscope[0] :-0.17733
+ Gyroscope[1] :0.01107
+ Gyroscope[2] :0.04650
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-200.85000
+ eye_origin :(0.05334, 0.08353, 0.08024)
+ eye_direction :(0.66400, -0.12987, 0.73636)
+ eye_cursor :(1.38135, -0.17622, 1.55297)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 588 
+ head_origin :(0.04248, 0.07907, 0.07473)
+ head_direction :(0.52580, -0.06379, 0.84821)
+ head movement direction :(0.38631, 0.66306, 0.64119)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.70158
+ Accelerometer[1] :0.70222
+ Accelerometer[2] :0.11458
+ Gyroscope[0] :-0.17733
+ Gyroscope[1] :0.01107
+ Gyroscope[2] :0.04650
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-200.85000
+ eye_origin :(0.05334, 0.08353, 0.08024)
+ eye_direction :(0.66400, -0.12987, 0.73636)
+ eye_cursor :(1.38135, -0.17622, 1.55297)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 598 
+ head_origin :(0.04192, 0.07886, 0.07491)
+ head_direction :(0.52052, -0.06663, 0.85124)
+ head movement direction :(0.38953, 0.66229, 0.64003)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.70158
+ Accelerometer[1] :0.70222
+ Accelerometer[2] :0.11458
+ Gyroscope[0] :-0.21691
+ Gyroscope[1] :-0.01124
+ Gyroscope[2] :0.11530
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-200.85000
+ eye_origin :(0.05334, 0.08353, 0.08024)
+ eye_direction :(0.66400, -0.12987, 0.73636)
+ eye_cursor :(1.38135, -0.17622, 1.55297)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 618 
+ head_origin :(0.04117, 0.07878, 0.07504)
+ head_direction :(0.51566, -0.06969, 0.85395)
+ head movement direction :(0.39242, 0.66160, 0.63898)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.70158
+ Accelerometer[1] :0.70222
+ Accelerometer[2] :0.11458
+ Gyroscope[0] :-0.21691
+ Gyroscope[1] :-0.01124
+ Gyroscope[2] :0.11530
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-200.85000
+ eye_origin :(0.05334, 0.08353, 0.08024)
+ eye_direction :(0.66400, -0.12987, 0.73636)
+ eye_cursor :(1.38135, -0.17622, 1.55297)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 628 
+ head_origin :(0.04033, 0.07847, 0.07543)
+ head_direction :(0.51041, -0.07256, 0.85687)
+ head movement direction :(0.39502, 0.66097, 0.63802)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.70158
+ Accelerometer[1] :0.70222
+ Accelerometer[2] :0.11458
+ Gyroscope[0] :-0.21691
+ Gyroscope[1] :-0.01124
+ Gyroscope[2] :0.11530
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-200.85000
+ eye_origin :(0.05334, 0.08353, 0.08024)
+ eye_direction :(0.66400, -0.12987, 0.73636)
+ eye_cursor :(1.38135, -0.17622, 1.55297)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 648 
+ head_origin :(0.03935, 0.07808, 0.07573)
+ head_direction :(0.50342, -0.07633, 0.86066)
+ head movement direction :(0.39736, 0.66040, 0.63716)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.52069
+ Accelerometer[1] :0.87770
+ Accelerometer[2] :0.06916
+ Gyroscope[0] :-0.31216
+ Gyroscope[1] :-0.12633
+ Gyroscope[2] :0.10909
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-200.85000
+ eye_origin :(0.05334, 0.08353, 0.08024)
+ eye_direction :(0.66400, -0.12987, 0.73636)
+ eye_cursor :(1.38135, -0.17622, 1.55297)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 668 
+ head_origin :(0.03848, 0.07767, 0.07594)
+ head_direction :(0.49597, -0.08100, 0.86456)
+ head movement direction :(0.39946, 0.65988, 0.63639)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.52069
+ Accelerometer[1] :0.87770
+ Accelerometer[2] :0.06916
+ Gyroscope[0] :-0.31216
+ Gyroscope[1] :-0.12633
+ Gyroscope[2] :0.10909
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-200.85000
+ eye_origin :(0.05334, 0.08353, 0.08024)
+ eye_direction :(0.66400, -0.12987, 0.73636)
+ eye_cursor :(1.38135, -0.17622, 1.55297)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 688 
+ head_origin :(0.03769, 0.07759, 0.07631)
+ head_direction :(0.48933, -0.08552, 0.86790)
+ head movement direction :(0.40135, 0.65941, 0.63568)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.52069
+ Accelerometer[1] :0.87770
+ Accelerometer[2] :0.06916
+ Gyroscope[0] :-0.30387
+ Gyroscope[1] :-0.11056
+ Gyroscope[2] :0.14685
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-200.85000
+ eye_origin :(0.05397, 0.08313, 0.07978)
+ eye_direction :(0.64871, -0.14580, 0.74693)
+ eye_cursor :(1.35140, -0.20847, 1.57365)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 698 
+ head_origin :(0.03678, 0.07740, 0.07670)
+ head_direction :(0.48245, -0.08918, 0.87137)
+ head movement direction :(0.40365, 0.65883, 0.63484)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.52069
+ Accelerometer[1] :0.87770
+ Accelerometer[2] :0.06916
+ Gyroscope[0] :-0.30387
+ Gyroscope[1] :-0.11056
+ Gyroscope[2] :0.14685
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-200.85000
+ eye_origin :(0.05453, 0.08274, 0.07936)
+ eye_direction :(0.63336, -0.16129, 0.75686)
+ eye_cursor :(1.32125, -0.23985, 1.59309)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 718 
+ head_origin :(0.03577, 0.07723, 0.07698)
+ head_direction :(0.47457, -0.09286, 0.87531)
+ head movement direction :(0.40625, 0.65814, 0.63389)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.52069
+ Accelerometer[1] :0.87770
+ Accelerometer[2] :0.06916
+ Gyroscope[0] :-0.30387
+ Gyroscope[1] :-0.11056
+ Gyroscope[2] :0.14685
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-200.85000
+ eye_origin :(0.05453, 0.08274, 0.07936)
+ eye_direction :(0.63336, -0.16129, 0.75686)
+ eye_cursor :(1.32125, -0.23985, 1.59309)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 738 
+ head_origin :(0.03475, 0.07701, 0.07746)
+ head_direction :(0.46643, -0.09613, 0.87932)
+ head movement direction :(0.40859, 0.65752, 0.63303)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.63766
+ Accelerometer[1] :0.80337
+ Accelerometer[2] :0.26341
+ Gyroscope[0] :-0.41581
+ Gyroscope[1] :-0.07280
+ Gyroscope[2] :0.23177
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-200.85000
+ eye_origin :(0.05453, 0.08274, 0.07936)
+ eye_direction :(0.63336, -0.16129, 0.75686)
+ eye_cursor :(1.32125, -0.23985, 1.59309)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 748 
+ head_origin :(0.03360, 0.07684, 0.07782)
+ head_direction :(0.45714, -0.09934, 0.88383)
+ head movement direction :(0.41070, 0.65695, 0.63225)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.63766
+ Accelerometer[1] :0.80337
+ Accelerometer[2] :0.26341
+ Gyroscope[0] :-0.41581
+ Gyroscope[1] :-0.07280
+ Gyroscope[2] :0.23177
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-200.85000
+ eye_origin :(0.05497, 0.08233, 0.07903)
+ eye_direction :(0.61700, -0.17571, 0.76710)
+ eye_cursor :(1.28897, -0.26908, 1.61323)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 768 
+ head_origin :(0.03244, 0.07682, 0.07826)
+ head_direction :(0.44760, -0.10198, 0.88840)
+ head movement direction :(0.41304, 0.65627, 0.63144)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.63766
+ Accelerometer[1] :0.80337
+ Accelerometer[2] :0.26341
+ Gyroscope[0] :-0.41581
+ Gyroscope[1] :-0.07280
+ Gyroscope[2] :0.23177
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-199.50000
+ eye_origin :(0.05535, 0.08193, 0.07875)
+ eye_direction :(0.60059, -0.18973, 0.77672)
+ eye_cursor :(1.25654, -0.29753, 1.63218)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 788 
+ head_origin :(0.03107, 0.07664, 0.07872)
+ head_direction :(0.43664, -0.10400, 0.89360)
+ head movement direction :(0.41554, 0.65548, 0.63061)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.63766
+ Accelerometer[1] :0.80337
+ Accelerometer[2] :0.26341
+ Gyroscope[0] :-0.44722
+ Gyroscope[1] :-0.10321
+ Gyroscope[2] :0.17834
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-199.50000
+ eye_origin :(0.05535, 0.08193, 0.07875)
+ eye_direction :(0.60059, -0.18973, 0.77672)
+ eye_cursor :(1.25654, -0.29753, 1.63218)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 798 
+ head_origin :(0.02960, 0.07645, 0.07918)
+ head_direction :(0.42359, -0.10596, 0.89964)
+ head movement direction :(0.41778, 0.65476, 0.62987)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.63766
+ Accelerometer[1] :0.80337
+ Accelerometer[2] :0.26341
+ Gyroscope[0] :-0.44722
+ Gyroscope[1] :-0.10321
+ Gyroscope[2] :0.17834
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-199.50000
+ eye_origin :(0.05535, 0.08193, 0.07875)
+ eye_direction :(0.60059, -0.18973, 0.77672)
+ eye_cursor :(1.25654, -0.29753, 1.63218)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 818 
+ head_origin :(0.02814, 0.07633, 0.07963)
+ head_direction :(0.40903, -0.10819, 0.90608)
+ head movement direction :(0.41980, 0.65412, 0.62920)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.80640
+ Accelerometer[1] :0.62320
+ Accelerometer[2] :0.37254
+ Gyroscope[0] :-0.44722
+ Gyroscope[1] :-0.10321
+ Gyroscope[2] :0.17834
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-199.50000
+ eye_origin :(0.05555, 0.08153, 0.07858)
+ eye_direction :(0.58069, -0.20107, 0.78890)
+ eye_cursor :(1.21694, -0.32062, 1.65638)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 838 
+ head_origin :(0.02669, 0.07626, 0.08007)
+ head_direction :(0.39369, -0.10987, 0.91265)
+ head movement direction :(0.42188, 0.65336, 0.62860)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.80640
+ Accelerometer[1] :0.62320
+ Accelerometer[2] :0.37254
+ Gyroscope[0] :-0.58206
+ Gyroscope[1] :-0.00385
+ Gyroscope[2] :0.20204
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-199.50000
+ eye_origin :(0.05572, 0.08115, 0.07844)
+ eye_direction :(0.56086, -0.21202, 0.80030)
+ eye_cursor :(1.17744, -0.34290, 1.67904)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 848 
+ head_origin :(0.02508, 0.07619, 0.08052)
+ head_direction :(0.37734, -0.11069, 0.91944)
+ head movement direction :(0.42397, 0.65252, 0.62807)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.80640
+ Accelerometer[1] :0.62320
+ Accelerometer[2] :0.37254
+ Gyroscope[0] :-0.58206
+ Gyroscope[1] :-0.00385
+ Gyroscope[2] :0.20204
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-199.50000
+ eye_origin :(0.05543, 0.08081, 0.07850)
+ eye_direction :(0.54092, -0.22211, 0.81122)
+ eye_cursor :(1.13727, -0.36341, 1.70093)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 869 
+ head_origin :(0.02344, 0.07586, 0.08084)
+ head_direction :(0.35943, -0.11210, 0.92641)
+ head movement direction :(0.42573, 0.65163, 0.62780)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.80640
+ Accelerometer[1] :0.62320
+ Accelerometer[2] :0.37254
+ Gyroscope[0] :-0.58206
+ Gyroscope[1] :-0.00385
+ Gyroscope[2] :0.20204
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-199.50000
+ eye_origin :(0.05509, 0.08048, 0.07859)
+ eye_direction :(0.52084, -0.23192, 0.82155)
+ eye_cursor :(1.09677, -0.38337, 1.72169)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 888 
+ head_origin :(0.02192, 0.07549, 0.08118)
+ head_direction :(0.34074, -0.11515, 0.93308)
+ head movement direction :(0.42715, 0.65073, 0.62777)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.80640
+ Accelerometer[1] :0.62320
+ Accelerometer[2] :0.37254
+ Gyroscope[0] :-0.84326
+ Gyroscope[1] :-0.08781
+ Gyroscope[2] :0.12716
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-199.50000
+ eye_origin :(0.05509, 0.08048, 0.07859)
+ eye_direction :(0.52084, -0.23192, 0.82155)
+ eye_cursor :(1.09677, -0.38337, 1.72169)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 898 
+ head_origin :(0.02066, 0.07538, 0.08145)
+ head_direction :(0.32308, -0.11862, 0.93891)
+ head movement direction :(0.42842, 0.64992, 0.62774)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.84250
+ Accelerometer[1] :0.62398
+ Accelerometer[2] :0.51079
+ Gyroscope[0] :-0.84326
+ Gyroscope[1] :-0.08781
+ Gyroscope[2] :0.12716
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-199.50000
+ eye_origin :(0.05509, 0.08048, 0.07859)
+ eye_direction :(0.52084, -0.23192, 0.82155)
+ eye_cursor :(1.09677, -0.38337, 1.72169)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 918 
+ head_origin :(0.01919, 0.07520, 0.08168)
+ head_direction :(0.30698, -0.12143, 0.94394)
+ head movement direction :(0.42957, 0.64918, 0.62772)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.84250
+ Accelerometer[1] :0.62398
+ Accelerometer[2] :0.51079
+ Gyroscope[0] :-0.84326
+ Gyroscope[1] :-0.08781
+ Gyroscope[2] :0.12716
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-199.50000
+ eye_origin :(0.05509, 0.08048, 0.07859)
+ eye_direction :(0.52084, -0.23192, 0.82155)
+ eye_cursor :(1.09677, -0.38337, 1.72169)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 938 
+ head_origin :(0.01764, 0.07484, 0.08199)
+ head_direction :(0.29158, -0.12461, 0.94839)
+ head movement direction :(0.43060, 0.64852, 0.62770)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.84250
+ Accelerometer[1] :0.62398
+ Accelerometer[2] :0.51079
+ Gyroscope[0] :-0.97817
+ Gyroscope[1] :-0.01919
+ Gyroscope[2] :0.16688
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-199.50000
+ eye_origin :(0.05509, 0.08048, 0.07859)
+ eye_direction :(0.52084, -0.23192, 0.82155)
+ eye_cursor :(1.09677, -0.38337, 1.72169)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 948 
+ head_origin :(0.01586, 0.07460, 0.08235)
+ head_direction :(0.27502, -0.12816, 0.95286)
+ head movement direction :(0.43153, 0.64793, 0.62768)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.84250
+ Accelerometer[1] :0.62398
+ Accelerometer[2] :0.51079
+ Gyroscope[0] :-0.97817
+ Gyroscope[1] :-0.01919
+ Gyroscope[2] :0.16688
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-199.50000
+ eye_origin :(0.05423, 0.08014, 0.07888)
+ eye_direction :(0.49948, -0.24199, 0.83184)
+ eye_cursor :(1.05320, -0.40384, 1.74257)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 968 
+ head_origin :(0.01429, 0.07429, 0.08243)
+ head_direction :(0.25675, -0.13165, 0.95747)
+ head movement direction :(0.43181, 0.64733, 0.62810)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.84250
+ Accelerometer[1] :0.62398
+ Accelerometer[2] :0.51079
+ Gyroscope[0] :-0.97817
+ Gyroscope[1] :-0.01919
+ Gyroscope[2] :0.16688
+ Magnetometer[0] :435.60000
+ Magnetometer[1] :399.60000
+ Magnetometer[2] :-199.50000
+ eye_origin :(0.05333, 0.07981, 0.07919)
+ eye_direction :(0.47797, -0.25184, 0.84150)
+ eye_cursor :(1.00927, -0.42387, 1.76219)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 988 
+ head_origin :(0.01299, 0.07396, 0.08263)
+ head_direction :(0.23909, -0.13597, 0.96143)
+ head movement direction :(0.43149, 0.64673, 0.62893)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.73154
+ Accelerometer[1] :0.20039
+ Accelerometer[2] :0.36676
+ Gyroscope[0] :-1.02613
+ Gyroscope[1] :-0.03401
+ Gyroscope[2] :0.20515
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.10000
+ Magnetometer[2] :-197.85000
+ eye_origin :(0.05259, 0.07947, 0.07945)
+ eye_direction :(0.45696, -0.26104, 0.85032)
+ eye_cursor :(0.96650, -0.44261, 1.78009)
+-------------------------------
+
+Log Entry : 
+9:05:33 AM Sunday, April 9, 2023
+9 5 33 998 
+ head_origin :(0.01190, 0.07373, 0.08289)
+ head_direction :(0.22315, -0.14046, 0.96461)
+ head movement direction :(0.43074, 0.64612, 0.63008)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.73154
+ Accelerometer[1] :0.20039
+ Accelerometer[2] :0.36676
+ Gyroscope[0] :-1.02613
+ Gyroscope[1] :-0.03401
+ Gyroscope[2] :0.20515
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.10000
+ Magnetometer[2] :-197.85000
+ eye_origin :(0.05180, 0.07913, 0.07972)
+ eye_direction :(0.43582, -0.27007, 0.85856)
+ eye_cursor :(0.92343, -0.46100, 1.79684)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 18 
+ head_origin :(0.01047, 0.07345, 0.08325)
+ head_direction :(0.20847, -0.14500, 0.96722)
+ head movement direction :(0.42954, 0.64549, 0.63153)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.73154
+ Accelerometer[1] :0.20039
+ Accelerometer[2] :0.36676
+ Gyroscope[0] :-1.02613
+ Gyroscope[1] :-0.03401
+ Gyroscope[2] :0.20515
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.10000
+ Magnetometer[2] :-197.85000
+ eye_origin :(0.05180, 0.07913, 0.07972)
+ eye_direction :(0.43582, -0.27007, 0.85856)
+ eye_cursor :(0.92343, -0.46100, 1.79684)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 38 
+ head_origin :(0.00898, 0.07322, 0.08343)
+ head_direction :(0.19351, -0.14888, 0.96974)
+ head movement direction :(0.42847, 0.64492, 0.63284)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.73154
+ Accelerometer[1] :0.20039
+ Accelerometer[2] :0.36676
+ Gyroscope[0] :-1.08130
+ Gyroscope[1] :0.03466
+ Gyroscope[2] :0.21256
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.10000
+ Magnetometer[2] :-197.85000
+ eye_origin :(0.05180, 0.07913, 0.07972)
+ eye_direction :(0.43582, -0.27007, 0.85856)
+ eye_cursor :(0.92343, -0.46100, 1.79684)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 58 
+ head_origin :(0.00739, 0.07303, 0.08378)
+ head_direction :(0.17725, -0.15203, 0.97235)
+ head movement direction :(0.42750, 0.64441, 0.63401)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.73154
+ Accelerometer[1] :0.20039
+ Accelerometer[2] :0.36676
+ Gyroscope[0] :-1.08130
+ Gyroscope[1] :0.03466
+ Gyroscope[2] :0.21256
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.10000
+ Magnetometer[2] :-197.85000
+ eye_origin :(0.05046, 0.07881, 0.08015)
+ eye_direction :(0.41744, -0.27817, 0.86508)
+ eye_cursor :(0.88535, -0.47753, 1.81031)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 68 
+ head_origin :(0.00593, 0.07282, 0.08381)
+ head_direction :(0.16029, -0.15566, 0.97472)
+ head movement direction :(0.42572, 0.64395, 0.63568)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75530
+ Accelerometer[1] :0.01578
+ Accelerometer[2] :0.18463
+ Gyroscope[0] :-1.08130
+ Gyroscope[1] :0.03466
+ Gyroscope[2] :0.21256
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.10000
+ Magnetometer[2] :-197.85000
+ eye_origin :(0.04910, 0.07848, 0.08058)
+ eye_direction :(0.39897, -0.28615, 0.87117)
+ eye_cursor :(0.84704, -0.49383, 1.82292)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 88 
+ head_origin :(0.00450, 0.07253, 0.08402)
+ head_direction :(0.14298, -0.15889, 0.97689)
+ head movement direction :(0.42318, 0.64353, 0.63780)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75530
+ Accelerometer[1] :0.01578
+ Accelerometer[2] :0.18463
+ Gyroscope[0] :-1.00183
+ Gyroscope[1] :0.02719
+ Gyroscope[2] :0.22062
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.10000
+ Magnetometer[2] :-197.85000
+ eye_origin :(0.04762, 0.07817, 0.08102)
+ eye_direction :(0.37897, -0.29434, 0.87735)
+ eye_cursor :(0.80556, -0.51050, 1.83573)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 98 
+ head_origin :(0.00319, 0.07219, 0.08427)
+ head_direction :(0.12633, -0.16287, 0.97853)
+ head movement direction :(0.41985, 0.64317, 0.64035)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75530
+ Accelerometer[1] :0.01578
+ Accelerometer[2] :0.18463
+ Gyroscope[0] :-1.00183
+ Gyroscope[1] :0.02719
+ Gyroscope[2] :0.22062
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.10000
+ Magnetometer[2] :-197.85000
+ eye_origin :(0.04613, 0.07785, 0.08144)
+ eye_direction :(0.35890, -0.30239, 0.88304)
+ eye_cursor :(0.76392, -0.52693, 1.84752)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 118 
+ head_origin :(0.00171, 0.07203, 0.08445)
+ head_direction :(0.10982, -0.16673, 0.97987)
+ head movement direction :(0.41580, 0.64288, 0.64329)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75530
+ Accelerometer[1] :0.01578
+ Accelerometer[2] :0.18463
+ Gyroscope[0] :-1.00183
+ Gyroscope[1] :0.02719
+ Gyroscope[2] :0.22062
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.10000
+ Magnetometer[2] :-197.85000
+ eye_origin :(0.04462, 0.07754, 0.08187)
+ eye_direction :(0.33894, -0.31015, 0.88822)
+ eye_cursor :(0.72250, -0.54276, 1.85830)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 138 
+ head_origin :(0.00010, 0.07192, 0.08457)
+ head_direction :(0.09315, -0.16990, 0.98105)
+ head movement direction :(0.41108, 0.64262, 0.64657)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75530
+ Accelerometer[1] :0.01578
+ Accelerometer[2] :0.18463
+ Gyroscope[0] :-1.00176
+ Gyroscope[1] :0.05791
+ Gyroscope[2] :0.20460
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.10000
+ Magnetometer[2] :-197.85000
+ eye_origin :(0.04313, 0.07723, 0.08228)
+ eye_direction :(0.31922, -0.31765, 0.89286)
+ eye_cursor :(0.68157, -0.55808, 1.86800)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 148 
+ head_origin :(-0.00174, 0.07205, 0.08482)
+ head_direction :(0.07469, -0.17147, 0.98235)
+ head movement direction :(0.40574, 0.64241, 0.65014)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.83415
+ Accelerometer[1] :-0.11588
+ Accelerometer[2] :0.19933
+ Gyroscope[0] :-1.00176
+ Gyroscope[1] :0.05791
+ Gyroscope[2] :0.20460
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.10000
+ Magnetometer[2] :-197.85000
+ eye_origin :(0.04313, 0.07723, 0.08228)
+ eye_direction :(0.31922, -0.31765, 0.89286)
+ eye_cursor :(0.68157, -0.55808, 1.86800)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 168 
+ head_origin :(-0.00353, 0.07190, 0.08485)
+ head_direction :(0.05376, -0.17226, 0.98358)
+ head movement direction :(0.40093, 0.64219, 0.65334)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.83415
+ Accelerometer[1] :-0.11588
+ Accelerometer[2] :0.19933
+ Gyroscope[0] :-1.00176
+ Gyroscope[1] :0.05791
+ Gyroscope[2] :0.20460
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.10000
+ Magnetometer[2] :-197.85000
+ eye_origin :(0.04313, 0.07723, 0.08228)
+ eye_direction :(0.31922, -0.31765, 0.89286)
+ eye_cursor :(0.68157, -0.55808, 1.86800)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 188 
+ head_origin :(-0.00509, 0.07149, 0.08512)
+ head_direction :(0.03211, -0.17382, 0.98425)
+ head movement direction :(0.39658, 0.64197, 0.65620)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.83415
+ Accelerometer[1] :-0.11588
+ Accelerometer[2] :0.19933
+ Gyroscope[0] :-1.00186
+ Gyroscope[1] :0.01124
+ Gyroscope[2] :0.22802
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.10000
+ Magnetometer[2] :-197.85000
+ eye_origin :(0.04313, 0.07723, 0.08228)
+ eye_direction :(0.31922, -0.31765, 0.89286)
+ eye_cursor :(0.68157, -0.55808, 1.86800)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 198 
+ head_origin :(-0.00646, 0.07092, 0.08534)
+ head_direction :(0.01190, -0.17655, 0.98422)
+ head movement direction :(0.39267, 0.64176, 0.65875)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.83415
+ Accelerometer[1] :-0.11588
+ Accelerometer[2] :0.19933
+ Gyroscope[0] :-1.00186
+ Gyroscope[1] :0.01124
+ Gyroscope[2] :0.22802
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.10000
+ Magnetometer[2] :-197.85000
+ eye_origin :(0.04313, 0.07723, 0.08228)
+ eye_direction :(0.31922, -0.31765, 0.89286)
+ eye_cursor :(0.68157, -0.55808, 1.86800)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 218 
+ head_origin :(-0.00805, 0.07077, 0.08557)
+ head_direction :(-0.00690, -0.17994, 0.98365)
+ head movement direction :(0.38913, 0.64156, 0.66104)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.83415
+ Accelerometer[1] :-0.11588
+ Accelerometer[2] :0.19933
+ Gyroscope[0] :-1.10443
+ Gyroscope[1] :0.06543
+ Gyroscope[2] :0.19059
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.40000
+ Magnetometer[2] :-193.20000
+ eye_origin :(0.04313, 0.07723, 0.08228)
+ eye_direction :(0.31922, -0.31765, 0.89286)
+ eye_cursor :(0.68157, -0.55808, 1.86800)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 238 
+ head_origin :(-0.00972, 0.07046, 0.08551)
+ head_direction :(-0.02597, -0.18273, 0.98282)
+ head movement direction :(0.38594, 0.64137, 0.66309)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.96412
+ Accelerometer[1] :-0.14613
+ Accelerometer[2] :0.32698
+ Gyroscope[0] :-1.10443
+ Gyroscope[1] :0.06543
+ Gyroscope[2] :0.19059
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.40000
+ Magnetometer[2] :-193.20000
+ eye_origin :(0.04313, 0.07723, 0.08228)
+ eye_direction :(0.31922, -0.31765, 0.89286)
+ eye_cursor :(0.68157, -0.55808, 1.86800)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 249 
+ head_origin :(-0.01117, 0.07010, 0.08573)
+ head_direction :(-0.04506, -0.18618, 0.98148)
+ head movement direction :(0.38307, 0.64119, 0.66493)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.96412
+ Accelerometer[1] :-0.14613
+ Accelerometer[2] :0.32698
+ Gyroscope[0] :-1.10443
+ Gyroscope[1] :0.06543
+ Gyroscope[2] :0.19059
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.40000
+ Magnetometer[2] :-193.20000
+ eye_origin :(0.04169, 0.07685, 0.08276)
+ eye_direction :(0.30085, -0.32443, 0.89679)
+ eye_cursor :(0.64339, -0.57201, 1.87635)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 268 
+ head_origin :(-0.01251, 0.06990, 0.08575)
+ head_direction :(-0.06294, -0.18964, 0.97983)
+ head movement direction :(0.37942, 0.64096, 0.66724)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.96412
+ Accelerometer[1] :-0.14613
+ Accelerometer[2] :0.32698
+ Gyroscope[0] :-1.13603
+ Gyroscope[1] :0.01164
+ Gyroscope[2] :0.16781
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.40000
+ Magnetometer[2] :-193.20000
+ eye_origin :(0.04022, 0.07648, 0.08324)
+ eye_direction :(0.28237, -0.33110, 0.90036)
+ eye_cursor :(0.60495, -0.58572, 1.88396)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 288 
+ head_origin :(-0.01370, 0.06981, 0.08585)
+ head_direction :(-0.07924, -0.19253, 0.97809)
+ head movement direction :(0.37505, 0.64069, 0.66997)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.96412
+ Accelerometer[1] :-0.14613
+ Accelerometer[2] :0.32698
+ Gyroscope[0] :-1.13603
+ Gyroscope[1] :0.01164
+ Gyroscope[2] :0.16781
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.40000
+ Magnetometer[2] :-193.20000
+ eye_origin :(0.04022, 0.07648, 0.08324)
+ eye_direction :(0.28237, -0.33110, 0.90036)
+ eye_cursor :(0.60495, -0.58572, 1.88396)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 298 
+ head_origin :(-0.01472, 0.06958, 0.08594)
+ head_direction :(-0.09337, -0.19524, 0.97630)
+ head movement direction :(0.37110, 0.64042, 0.67242)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.96412
+ Accelerometer[1] :-0.14613
+ Accelerometer[2] :0.32698
+ Gyroscope[0] :-1.13603
+ Gyroscope[1] :0.01164
+ Gyroscope[2] :0.16781
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.40000
+ Magnetometer[2] :-193.20000
+ eye_origin :(0.04022, 0.07648, 0.08324)
+ eye_direction :(0.28237, -0.33110, 0.90036)
+ eye_cursor :(0.60495, -0.58572, 1.88396)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 318 
+ head_origin :(-0.01545, 0.06944, 0.08628)
+ head_direction :(-0.10475, -0.19814, 0.97456)
+ head movement direction :(0.36754, 0.64017, 0.67461)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.73252
+ Accelerometer[1] :-0.52392
+ Accelerometer[2] :0.24006
+ Gyroscope[0] :-1.19231
+ Gyroscope[1] :0.02026
+ Gyroscope[2] :0.16816
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.40000
+ Magnetometer[2] :-193.20000
+ eye_origin :(0.04022, 0.07648, 0.08324)
+ eye_direction :(0.28237, -0.33110, 0.90036)
+ eye_cursor :(0.60495, -0.58572, 1.88396)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 338 
+ head_origin :(-0.01615, 0.06910, 0.08637)
+ head_direction :(-0.11334, -0.20074, 0.97307)
+ head movement direction :(0.36433, 0.63994, 0.67657)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.73252
+ Accelerometer[1] :-0.52392
+ Accelerometer[2] :0.24006
+ Gyroscope[0] :-1.19231
+ Gyroscope[1] :0.02026
+ Gyroscope[2] :0.16816
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.40000
+ Magnetometer[2] :-193.20000
+ eye_origin :(0.04022, 0.07648, 0.08324)
+ eye_direction :(0.28237, -0.33110, 0.90036)
+ eye_cursor :(0.60495, -0.58572, 1.88396)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 348 
+ head_origin :(-0.01661, 0.06895, 0.08660)
+ head_direction :(-0.11951, -0.20363, 0.97173)
+ head movement direction :(0.36144, 0.63972, 0.67832)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.73252
+ Accelerometer[1] :-0.52392
+ Accelerometer[2] :0.24006
+ Gyroscope[0] :-1.19231
+ Gyroscope[1] :0.02026
+ Gyroscope[2] :0.16816
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.40000
+ Magnetometer[2] :-193.20000
+ eye_origin :(0.04022, 0.07648, 0.08324)
+ eye_direction :(0.28237, -0.33110, 0.90036)
+ eye_cursor :(0.60495, -0.58572, 1.88396)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 368 
+ head_origin :(-0.01703, 0.06870, 0.08678)
+ head_direction :(-0.12342, -0.20661, 0.97061)
+ head movement direction :(0.35883, 0.63952, 0.67989)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.73252
+ Accelerometer[1] :-0.52392
+ Accelerometer[2] :0.24006
+ Gyroscope[0] :-0.93809
+ Gyroscope[1] :0.01125
+ Gyroscope[2] :0.20437
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.40000
+ Magnetometer[2] :-193.20000
+ eye_origin :(0.04022, 0.07648, 0.08324)
+ eye_direction :(0.28237, -0.33110, 0.90036)
+ eye_cursor :(0.60495, -0.58572, 1.88396)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 388 
+ head_origin :(-0.01713, 0.06892, 0.08699)
+ head_direction :(-0.12531, -0.20896, 0.96986)
+ head movement direction :(0.35648, 0.63933, 0.68131)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.73252
+ Accelerometer[1] :-0.52392
+ Accelerometer[2] :0.24006
+ Gyroscope[0] :-0.93809
+ Gyroscope[1] :0.01125
+ Gyroscope[2] :0.20437
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.40000
+ Magnetometer[2] :-193.20000
+ eye_origin :(0.04022, 0.07648, 0.08324)
+ eye_direction :(0.28237, -0.33110, 0.90036)
+ eye_cursor :(0.60495, -0.58572, 1.88396)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 398 
+ head_origin :(-0.01720, 0.06913, 0.08728)
+ head_direction :(-0.12414, -0.21039, 0.96970)
+ head movement direction :(0.35437, 0.63916, 0.68257)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75471
+ Accelerometer[1] :-1.19292
+ Accelerometer[2] :-0.24913
+ Gyroscope[0] :-0.93809
+ Gyroscope[1] :0.01125
+ Gyroscope[2] :0.20437
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.40000
+ Magnetometer[2] :-193.20000
+ eye_origin :(0.04022, 0.07648, 0.08324)
+ eye_direction :(0.28237, -0.33110, 0.90036)
+ eye_cursor :(0.60495, -0.58572, 1.88396)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 418 
+ head_origin :(-0.01698, 0.06918, 0.08754)
+ head_direction :(-0.12065, -0.21080, 0.97005)
+ head movement direction :(0.35246, 0.63900, 0.68371)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75471
+ Accelerometer[1] :-1.19292
+ Accelerometer[2] :-0.24913
+ Gyroscope[0] :-0.64559
+ Gyroscope[1] :0.01101
+ Gyroscope[2] :0.18774
+ Magnetometer[0] :434.40000
+ Magnetometer[1] :401.40000
+ Magnetometer[2] :-193.20000
+ eye_origin :(0.03809, 0.07608, 0.08374)
+ eye_direction :(0.26696, -0.33638, 0.90310)
+ eye_cursor :(0.57202, -0.59667, 1.88993)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 438 
+ head_origin :(-0.01683, 0.06907, 0.08783)
+ head_direction :(-0.11459, -0.21139, 0.97066)
+ head movement direction :(0.34915, 0.63887, 0.68552)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75471
+ Accelerometer[1] :-1.19292
+ Accelerometer[2] :-0.24913
+ Gyroscope[0] :-0.64559
+ Gyroscope[1] :0.01101
+ Gyroscope[2] :0.18774
+ Magnetometer[0] :432.15000
+ Magnetometer[1] :405.00000
+ Magnetometer[2] :-190.95000
+ eye_origin :(0.03610, 0.07570, 0.08423)
+ eye_direction :(0.25212, -0.34141, 0.90547)
+ eye_cursor :(0.54035, -0.60712, 1.89517)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 449 
+ head_origin :(-0.01679, 0.06907, 0.08797)
+ head_direction :(-0.10781, -0.21190, 0.97133)
+ head movement direction :(0.34464, 0.63874, 0.68792)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75471
+ Accelerometer[1] :-1.19292
+ Accelerometer[2] :-0.24913
+ Gyroscope[0] :-0.64559
+ Gyroscope[1] :0.01101
+ Gyroscope[2] :0.18774
+ Magnetometer[0] :432.15000
+ Magnetometer[1] :405.00000
+ Magnetometer[2] :-190.95000
+ eye_origin :(0.03418, 0.07532, 0.08471)
+ eye_direction :(0.23775, -0.34625, 0.90751)
+ eye_cursor :(0.50969, -0.61718, 1.89974)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 468 
+ head_origin :(-0.01681, 0.06906, 0.08788)
+ head_direction :(-0.10197, -0.21239, 0.97185)
+ head movement direction :(0.33910, 0.63860, 0.69080)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75471
+ Accelerometer[1] :-1.19292
+ Accelerometer[2] :-0.24913
+ Gyroscope[0] :-0.26434
+ Gyroscope[1] :-0.03432
+ Gyroscope[2] :0.07783
+ Magnetometer[0] :432.15000
+ Magnetometer[1] :405.00000
+ Magnetometer[2] :-190.95000
+ eye_origin :(0.03233, 0.07496, 0.08518)
+ eye_direction :(0.22392, -0.35089, 0.90925)
+ eye_cursor :(0.48017, -0.62682, 1.90368)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 488 
+ head_origin :(-0.01660, 0.06912, 0.08799)
+ head_direction :(-0.09666, -0.21328, 0.97220)
+ head movement direction :(0.33267, 0.63842, 0.69408)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.98719
+ Accelerometer[1] :-1.54417
+ Accelerometer[2] :-0.59076
+ Gyroscope[0] :-0.26434
+ Gyroscope[1] :-0.03432
+ Gyroscope[2] :0.07783
+ Magnetometer[0] :432.15000
+ Magnetometer[1] :405.00000
+ Magnetometer[2] :-190.95000
+ eye_origin :(0.03233, 0.07496, 0.08518)
+ eye_direction :(0.22392, -0.35089, 0.90925)
+ eye_cursor :(0.48017, -0.62682, 1.90368)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 528 
+ head_origin :(-0.01653, 0.06931, 0.08811)
+ head_direction :(-0.08885, -0.21228, 0.97316)
+ head movement direction :(0.32687, 0.63824, 0.69700)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.98719
+ Accelerometer[1] :-1.54417
+ Accelerometer[2] :-0.59076
+ Gyroscope[0] :0.00436
+ Gyroscope[1] :0.04115
+ Gyroscope[2] :0.12948
+ Magnetometer[0] :432.15000
+ Magnetometer[1] :405.00000
+ Magnetometer[2] :-190.95000
+ eye_origin :(0.03069, 0.07465, 0.08567)
+ eye_direction :(0.21552, -0.34947, 0.91182)
+ eye_cursor :(0.46174, -0.62428, 1.90931)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 538 
+ head_origin :(-0.01643, 0.06947, 0.08830)
+ head_direction :(-0.08393, -0.21087, 0.97390)
+ head movement direction :(0.32033, 0.63799, 0.70025)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.98719
+ Accelerometer[1] :-1.54417
+ Accelerometer[2] :-0.59076
+ Gyroscope[0] :0.00436
+ Gyroscope[1] :0.04115
+ Gyroscope[2] :0.12948
+ Magnetometer[0] :432.15000
+ Magnetometer[1] :405.00000
+ Magnetometer[2] :-190.95000
+ eye_origin :(0.02899, 0.07437, 0.08613)
+ eye_direction :(0.20766, -0.34802, 0.91420)
+ eye_cursor :(0.44430, -0.62168, 1.91453)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 558 
+ head_origin :(-0.01634, 0.06951, 0.08838)
+ head_direction :(-0.08024, -0.20964, 0.97448)
+ head movement direction :(0.31307, 0.63771, 0.70378)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.98719
+ Accelerometer[1] :-1.54417
+ Accelerometer[2] :-0.59076
+ Gyroscope[0] :0.00436
+ Gyroscope[1] :0.04115
+ Gyroscope[2] :0.12948
+ Magnetometer[0] :432.15000
+ Magnetometer[1] :405.00000
+ Magnetometer[2] :-190.95000
+ eye_origin :(0.02736, 0.07410, 0.08658)
+ eye_direction :(0.20017, -0.34660, 0.91640)
+ eye_cursor :(0.42771, -0.61911, 1.91939)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 588 
+ head_origin :(-0.01619, 0.06961, 0.08851)
+ head_direction :(-0.07705, -0.20910, 0.97485)
+ head movement direction :(0.30520, 0.63738, 0.70753)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.84171
+ Accelerometer[1] :-1.19368
+ Accelerometer[2] :-0.18640
+ Gyroscope[0] :0.28277
+ Gyroscope[1] :0.01923
+ Gyroscope[2] :0.02749
+ Magnetometer[0] :432.15000
+ Magnetometer[1] :405.00000
+ Magnetometer[2] :-190.95000
+ eye_origin :(0.02580, 0.07384, 0.08703)
+ eye_direction :(0.19308, -0.34516, 0.91847)
+ eye_cursor :(0.41197, -0.61647, 1.92397)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 604 
+ head_origin :(-0.01600, 0.06979, 0.08862)
+ head_direction :(-0.07058, -0.20806, 0.97557)
+ head movement direction :(0.29684, 0.63699, 0.71143)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.84171
+ Accelerometer[1] :-1.19368
+ Accelerometer[2] :-0.18640
+ Gyroscope[0] :0.28277
+ Gyroscope[1] :0.01923
+ Gyroscope[2] :0.02749
+ Magnetometer[0] :432.15000
+ Magnetometer[1] :405.00000
+ Magnetometer[2] :-190.95000
+ eye_origin :(0.02433, 0.07360, 0.08747)
+ eye_direction :(0.18618, -0.34376, 0.92042)
+ eye_cursor :(0.39669, -0.61393, 1.92830)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 628 
+ head_origin :(-0.01593, 0.07014, 0.08859)
+ head_direction :(-0.06431, -0.20634, 0.97636)
+ head movement direction :(0.28808, 0.63653, 0.71543)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.84171
+ Accelerometer[1] :-1.19368
+ Accelerometer[2] :-0.18640
+ Gyroscope[0] :0.26001
+ Gyroscope[1] :0.04900
+ Gyroscope[2] :-0.04947
+ Magnetometer[0] :432.15000
+ Magnetometer[1] :405.00000
+ Magnetometer[2] :-190.95000
+ eye_origin :(0.02293, 0.07337, 0.08789)
+ eye_direction :(0.17975, -0.34235, 0.92222)
+ eye_cursor :(0.38243, -0.61132, 1.93233)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 638 
+ head_origin :(-0.01593, 0.07028, 0.08858)
+ head_direction :(-0.06163, -0.20397, 0.97704)
+ head movement direction :(0.27903, 0.63600, 0.71948)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.84171
+ Accelerometer[1] :-1.19368
+ Accelerometer[2] :-0.18640
+ Gyroscope[0] :0.26001
+ Gyroscope[1] :0.04900
+ Gyroscope[2] :-0.04947
+ Magnetometer[0] :432.15000
+ Magnetometer[1] :405.00000
+ Magnetometer[2] :-190.95000
+ eye_origin :(0.02154, 0.07316, 0.08829)
+ eye_direction :(0.17356, -0.34096, 0.92392)
+ eye_cursor :(0.36865, -0.60876, 1.93613)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 658 
+ head_origin :(-0.01587, 0.07052, 0.08853)
+ head_direction :(-0.05856, -0.20235, 0.97756)
+ head movement direction :(0.26970, 0.63540, 0.72355)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75105
+ Accelerometer[1] :-0.90643
+ Accelerometer[2] :0.11575
+ Gyroscope[0] :0.26001
+ Gyroscope[1] :0.04900
+ Gyroscope[2] :-0.04947
+ Magnetometer[0] :433.50000
+ Magnetometer[1] :406.95000
+ Magnetometer[2] :-188.40000
+ eye_origin :(-0.01196, 0.06816, 0.09799)
+ eye_direction :(0.02456, -0.30255, 0.95282)
+ eye_cursor :(0.03716, -0.53694, 2.00363)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 668 
+ head_origin :(-0.01582, 0.07055, 0.08866)
+ head_direction :(-0.05488, -0.20067, 0.97812)
+ head movement direction :(0.23369, 0.63290, 0.73813)
+ head velocity :(-0.10048, -0.01501, 0.02910)
+ Accelerometer[0] :9.75105
+ Accelerometer[1] :-0.90643
+ Accelerometer[2] :0.11575
+ Gyroscope[0] :0.21952
+ Gyroscope[1] :0.01950
+ Gyroscope[2] :-0.02585
+ Magnetometer[0] :433.50000
+ Magnetometer[1] :406.95000
+ Magnetometer[2] :-188.40000
+ eye_origin :(-0.01195, 0.06816, 0.09800)
+ eye_direction :(0.02471, -0.30249, 0.95283)
+ eye_cursor :(0.03747, -0.53681, 2.00366)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 688 
+ head_origin :(-0.01577, 0.07073, 0.08855)
+ head_direction :(-0.05090, -0.19922, 0.97863)
+ head movement direction :(0.20097, 0.62983, 0.75028)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75105
+ Accelerometer[1] :-0.90643
+ Accelerometer[2] :0.11575
+ Gyroscope[0] :0.21952
+ Gyroscope[1] :0.01950
+ Gyroscope[2] :-0.02585
+ Magnetometer[0] :433.50000
+ Magnetometer[1] :406.95000
+ Magnetometer[2] :-188.40000
+ eye_origin :(-0.01232, 0.06819, 0.09797)
+ eye_direction :(0.02322, -0.30120, 0.95328)
+ eye_cursor :(0.03413, -0.53421, 2.00453)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 698 
+ head_origin :(-0.01580, 0.07072, 0.08841)
+ head_direction :(-0.04641, -0.19786, 0.97913)
+ head movement direction :(0.17102, 0.62647, 0.76046)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75105
+ Accelerometer[1] :-0.90643
+ Accelerometer[2] :0.11575
+ Gyroscope[0] :0.21952
+ Gyroscope[1] :0.01950
+ Gyroscope[2] :-0.02585
+ Magnetometer[0] :433.50000
+ Magnetometer[1] :406.95000
+ Magnetometer[2] :-188.40000
+ eye_origin :(-0.01268, 0.06823, 0.09794)
+ eye_direction :(0.02197, -0.29989, 0.95372)
+ eye_cursor :(0.03126, -0.53156, 2.00538)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 718 
+ head_origin :(-0.01578, 0.07089, 0.08835)
+ head_direction :(-0.04201, -0.19648, 0.97961)
+ head movement direction :(0.14362, 0.62295, 0.76896)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75105
+ Accelerometer[1] :-0.90643
+ Accelerometer[2] :0.11575
+ Gyroscope[0] :0.18093
+ Gyroscope[1] :0.07264
+ Gyroscope[2] :-0.11747
+ Magnetometer[0] :433.50000
+ Magnetometer[1] :406.95000
+ Magnetometer[2] :-188.40000
+ eye_origin :(-0.01268, 0.06823, 0.09794)
+ eye_direction :(0.02197, -0.29989, 0.95372)
+ eye_cursor :(0.03126, -0.53156, 2.00538)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 738 
+ head_origin :(-0.01582, 0.07109, 0.08829)
+ head_direction :(-0.03798, -0.19460, 0.98015)
+ head movement direction :(0.11885, 0.61934, 0.77607)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.82682
+ Accelerometer[1] :-0.92544
+ Accelerometer[2] :0.10969
+ Gyroscope[0] :0.18093
+ Gyroscope[1] :0.07264
+ Gyroscope[2] :-0.11747
+ Magnetometer[0] :433.50000
+ Magnetometer[1] :406.95000
+ Magnetometer[2] :-188.40000
+ eye_origin :(-0.01288, 0.06827, 0.09793)
+ eye_direction :(0.02040, -0.29846, 0.95421)
+ eye_cursor :(0.02792, -0.52864, 2.00634)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 758 
+ head_origin :(-0.01575, 0.07132, 0.08827)
+ head_direction :(-0.03413, -0.19246, 0.98071)
+ head movement direction :(0.09633, 0.61578, 0.78201)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.82682
+ Accelerometer[1] :-0.92544
+ Accelerometer[2] :0.10969
+ Gyroscope[0] :0.24399
+ Gyroscope[1] :0.05751
+ Gyroscope[2] :-0.03351
+ Magnetometer[0] :433.50000
+ Magnetometer[1] :406.95000
+ Magnetometer[2] :-188.40000
+ eye_origin :(-0.01307, 0.06831, 0.09791)
+ eye_direction :(0.01899, -0.29703, 0.95468)
+ eye_cursor :(0.02491, -0.52576, 2.00726)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 768 
+ head_origin :(-0.01569, 0.07128, 0.08820)
+ head_direction :(-0.03046, -0.19101, 0.98112)
+ head movement direction :(0.07586, 0.61231, 0.78697)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.82682
+ Accelerometer[1] :-0.92544
+ Accelerometer[2] :0.10969
+ Gyroscope[0] :0.24399
+ Gyroscope[1] :0.05751
+ Gyroscope[2] :-0.03351
+ Magnetometer[0] :433.50000
+ Magnetometer[1] :406.95000
+ Magnetometer[2] :-188.40000
+ eye_origin :(-0.01319, 0.06836, 0.09789)
+ eye_direction :(0.01723, -0.29565, 0.95514)
+ eye_cursor :(0.02127, -0.52295, 2.00817)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 788 
+ head_origin :(-0.01559, 0.07130, 0.08812)
+ head_direction :(-0.02672, -0.19057, 0.98131)
+ head movement direction :(0.05731, 0.60899, 0.79110)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.82682
+ Accelerometer[1] :-0.92544
+ Accelerometer[2] :0.10969
+ Gyroscope[0] :0.24399
+ Gyroscope[1] :0.05751
+ Gyroscope[2] :-0.03351
+ Magnetometer[0] :433.50000
+ Magnetometer[1] :406.95000
+ Magnetometer[2] :-188.40000
+ eye_origin :(-0.01330, 0.06840, 0.09788)
+ eye_direction :(0.01563, -0.29429, 0.95559)
+ eye_cursor :(0.01796, -0.52018, 2.00906)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 808 
+ head_origin :(-0.01556, 0.07113, 0.08795)
+ head_direction :(-0.02278, -0.19042, 0.98144)
+ head movement direction :(0.04050, 0.60584, 0.79456)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.82682
+ Accelerometer[1] :-0.92544
+ Accelerometer[2] :0.10969
+ Gyroscope[0] :0.23578
+ Gyroscope[1] :0.02707
+ Gyroscope[2] :-0.07976
+ Magnetometer[0] :433.50000
+ Magnetometer[1] :406.95000
+ Magnetometer[2] :-188.40000
+ eye_origin :(-0.01668, 0.06967, 0.09743)
+ eye_direction :(-0.02692, -0.26017, 0.96519)
+ eye_cursor :(-0.07052, -0.45066, 2.02781)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 818 
+ head_origin :(-0.01547, 0.07119, 0.08784)
+ head_direction :(-0.01907, -0.19135, 0.98134)
+ head movement direction :(0.02262, 0.60375, 0.79685)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.87627
+ Accelerometer[1] :-0.78713
+ Accelerometer[2] :-0.01245
+ Gyroscope[0] :0.23578
+ Gyroscope[1] :0.02707
+ Gyroscope[2] :-0.07976
+ Magnetometer[0] :433.50000
+ Magnetometer[1] :406.95000
+ Magnetometer[2] :-188.40000
+ eye_origin :(-0.01668, 0.06967, 0.09742)
+ eye_direction :(-0.02674, -0.26013, 0.96520)
+ eye_cursor :(-0.07015, -0.45059, 2.02783)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 838 
+ head_origin :(-0.01545, 0.07140, 0.08775)
+ head_direction :(-0.01561, -0.19169, 0.98133)
+ head movement direction :(0.00652, 0.60170, 0.79869)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.87627
+ Accelerometer[1] :-0.78713
+ Accelerometer[2] :-0.01245
+ Gyroscope[0] :0.23578
+ Gyroscope[1] :0.02707
+ Gyroscope[2] :-0.07976
+ Magnetometer[0] :433.50000
+ Magnetometer[1] :406.95000
+ Magnetometer[2] :-188.40000
+ eye_origin :(-0.01670, 0.06968, 0.09742)
+ eye_direction :(-0.02682, -0.26016, 0.96519)
+ eye_cursor :(-0.07035, -0.45064, 2.02780)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 858 
+ head_origin :(-0.01533, 0.07157, 0.08759)
+ head_direction :(-0.01238, -0.19162, 0.98139)
+ head movement direction :(-0.00798, 0.59973, 0.80016)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.87627
+ Accelerometer[1] :-0.78713
+ Accelerometer[2] :-0.01245
+ Gyroscope[0] :0.26001
+ Gyroscope[1] :0.00359
+ Gyroscope[2] :-0.04072
+ Magnetometer[0] :433.50000
+ Magnetometer[1] :406.95000
+ Magnetometer[2] :-188.40000
+ eye_origin :(-0.01671, 0.06968, 0.09741)
+ eye_direction :(-0.02673, -0.26017, 0.96519)
+ eye_cursor :(-0.07018, -0.45066, 2.02779)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 868 
+ head_origin :(-0.01522, 0.07183, 0.08760)
+ head_direction :(-0.00927, -0.19157, 0.98143)
+ head movement direction :(-0.02105, 0.59785, 0.80133)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.87627
+ Accelerometer[1] :-0.78713
+ Accelerometer[2] :-0.01245
+ Gyroscope[0] :0.26001
+ Gyroscope[1] :0.00359
+ Gyroscope[2] :-0.04072
+ Magnetometer[0] :433.05000
+ Magnetometer[1] :407.10000
+ Magnetometer[2] :-186.00000
+ eye_origin :(-0.01666, 0.06969, 0.09740)
+ eye_direction :(-0.02706, -0.26025, 0.96516)
+ eye_cursor :(-0.07078, -0.45080, 2.02772)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 888 
+ head_origin :(-0.01505, 0.07207, 0.08759)
+ head_direction :(-0.00629, -0.19101, 0.98157)
+ head movement direction :(-0.03277, 0.59608, 0.80226)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.87627
+ Accelerometer[1] :-0.78713
+ Accelerometer[2] :-0.01245
+ Gyroscope[0] :0.26001
+ Gyroscope[1] :0.00359
+ Gyroscope[2] :-0.04072
+ Magnetometer[0] :433.05000
+ Magnetometer[1] :407.10000
+ Magnetometer[2] :-186.00000
+ eye_origin :(-0.01661, 0.06970, 0.09738)
+ eye_direction :(-0.02728, -0.26031, 0.96514)
+ eye_cursor :(-0.07118, -0.45092, 2.02766)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 898 
+ head_origin :(-0.01494, 0.07216, 0.08763)
+ head_direction :(-0.00333, -0.18958, 0.98186)
+ head movement direction :(-0.04327, 0.59442, 0.80299)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.70370
+ Accelerometer[1] :-0.72024
+ Accelerometer[2] :-0.09202
+ Gyroscope[0] :0.21176
+ Gyroscope[1] :0.07200
+ Gyroscope[2] :0.02775
+ Magnetometer[0] :433.05000
+ Magnetometer[1] :407.10000
+ Magnetometer[2] :-186.00000
+ eye_origin :(-0.01651, 0.06971, 0.09737)
+ eye_direction :(-0.02787, -0.26043, 0.96509)
+ eye_cursor :(-0.07225, -0.45115, 2.02755)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 918 
+ head_origin :(-0.01475, 0.07217, 0.08775)
+ head_direction :(-0.00068, -0.18780, 0.98221)
+ head movement direction :(-0.05263, 0.59288, 0.80357)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.70370
+ Accelerometer[1] :-0.72024
+ Accelerometer[2] :-0.09202
+ Gyroscope[0] :0.21176
+ Gyroscope[1] :0.07200
+ Gyroscope[2] :0.02775
+ Magnetometer[0] :433.05000
+ Magnetometer[1] :407.10000
+ Magnetometer[2] :-186.00000
+ eye_origin :(-0.01641, 0.06973, 0.09736)
+ eye_direction :(-0.02828, -0.26051, 0.96506)
+ eye_cursor :(-0.07297, -0.45129, 2.02747)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 938 
+ head_origin :(-0.01474, 0.07198, 0.08774)
+ head_direction :(0.00188, -0.18674, 0.98241)
+ head movement direction :(-0.06097, 0.59147, 0.80402)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.70370
+ Accelerometer[1] :-0.72024
+ Accelerometer[2] :-0.09202
+ Gyroscope[0] :0.21176
+ Gyroscope[1] :0.07200
+ Gyroscope[2] :0.02775
+ Magnetometer[0] :433.05000
+ Magnetometer[1] :407.10000
+ Magnetometer[2] :-186.00000
+ eye_origin :(-0.01629, 0.06975, 0.09734)
+ eye_direction :(-0.02893, -0.26063, 0.96500)
+ eye_cursor :(-0.07415, -0.45152, 2.02735)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 958 
+ head_origin :(-0.01457, 0.07196, 0.08785)
+ head_direction :(0.00399, -0.18639, 0.98247)
+ head movement direction :(-0.06838, 0.59019, 0.80436)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.70370
+ Accelerometer[1] :-0.72024
+ Accelerometer[2] :-0.09202
+ Gyroscope[0] :0.21220
+ Gyroscope[1] :0.04162
+ Gyroscope[2] :-0.03323
+ Magnetometer[0] :433.05000
+ Magnetometer[1] :407.10000
+ Magnetometer[2] :-186.00000
+ eye_origin :(-0.01618, 0.06977, 0.09733)
+ eye_direction :(-0.02941, -0.26071, 0.96497)
+ eye_cursor :(-0.07499, -0.45165, 2.02727)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 968 
+ head_origin :(-0.01446, 0.07187, 0.08795)
+ head_direction :(0.00597, -0.18683, 0.98237)
+ head movement direction :(-0.07495, 0.58902, 0.80463)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.70370
+ Accelerometer[1] :-0.72024
+ Accelerometer[2] :-0.09202
+ Gyroscope[0] :0.21220
+ Gyroscope[1] :0.04162
+ Gyroscope[2] :-0.03323
+ Magnetometer[0] :433.05000
+ Magnetometer[1] :407.10000
+ Magnetometer[2] :-186.00000
+ eye_origin :(-0.01606, 0.06979, 0.09732)
+ eye_direction :(-0.02974, -0.26076, 0.96495)
+ eye_cursor :(-0.07555, -0.45172, 2.02721)
+-------------------------------
+
+Log Entry : 
+9:05:34 AM Sunday, April 9, 2023
+9 5 34 988 
+ head_origin :(-0.01432, 0.07188, 0.08811)
+ head_direction :(0.00769, -0.18749, 0.98224)
+ head movement direction :(-0.08076, 0.58798, 0.80484)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.89848
+ Accelerometer[1] :-0.62131
+ Accelerometer[2] :-0.18937
+ Gyroscope[0] :0.21220
+ Gyroscope[1] :0.04162
+ Gyroscope[2] :-0.03323
+ Magnetometer[0] :433.05000
+ Magnetometer[1] :407.10000
+ Magnetometer[2] :-186.00000
+ eye_origin :(-0.01608, 0.06982, 0.09730)
+ eye_direction :(-0.02743, -0.26091, 0.96497)
+ eye_cursor :(-0.07094, -0.45199, 2.02725)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 8 
+ head_origin :(-0.01427, 0.07190, 0.08826)
+ head_direction :(0.00932, -0.18778, 0.98217)
+ head movement direction :(-0.08600, 0.58703, 0.80498)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.89848
+ Accelerometer[1] :-0.62131
+ Accelerometer[2] :-0.18937
+ Gyroscope[0] :0.16449
+ Gyroscope[1] :0.04165
+ Gyroscope[2] :-0.03291
+ Magnetometer[0] :433.05000
+ Magnetometer[1] :407.10000
+ Magnetometer[2] :-186.00000
+ eye_origin :(-0.01603, 0.06984, 0.09729)
+ eye_direction :(-0.02511, -0.26107, 0.96499)
+ eye_cursor :(-0.06625, -0.45230, 2.02728)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 18 
+ head_origin :(-0.01417, 0.07195, 0.08850)
+ head_direction :(0.01063, -0.18782, 0.98215)
+ head movement direction :(-0.09068, 0.58619, 0.80509)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.89848
+ Accelerometer[1] :-0.62131
+ Accelerometer[2] :-0.18937
+ Gyroscope[0] :0.16449
+ Gyroscope[1] :0.04165
+ Gyroscope[2] :-0.03291
+ Magnetometer[0] :433.05000
+ Magnetometer[1] :407.10000
+ Magnetometer[2] :-186.00000
+ eye_origin :(-0.01598, 0.06986, 0.09729)
+ eye_direction :(-0.02278, -0.26122, 0.96501)
+ eye_cursor :(-0.06154, -0.45259, 2.02731)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 38 
+ head_origin :(-0.01421, 0.07189, 0.08887)
+ head_direction :(0.01141, -0.18797, 0.98211)
+ head movement direction :(-0.09484, 0.58543, 0.80516)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.89848
+ Accelerometer[1] :-0.62131
+ Accelerometer[2] :-0.18937
+ Gyroscope[0] :0.16449
+ Gyroscope[1] :0.04165
+ Gyroscope[2] :-0.03291
+ Magnetometer[0] :433.05000
+ Magnetometer[1] :407.10000
+ Magnetometer[2] :-186.00000
+ eye_origin :(-0.01590, 0.06987, 0.09729)
+ eye_direction :(-0.02052, -0.26137, 0.96502)
+ eye_cursor :(-0.05694, -0.45287, 2.02733)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 58 
+ head_origin :(-0.01419, 0.07206, 0.08905)
+ head_direction :(0.01130, -0.18844, 0.98202)
+ head movement direction :(-0.09853, 0.58475, 0.80521)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.89848
+ Accelerometer[1] :-0.62131
+ Accelerometer[2] :-0.18937
+ Gyroscope[0] :0.11624
+ Gyroscope[1] :0.01929
+ Gyroscope[2] :0.05183
+ Magnetometer[0] :433.05000
+ Magnetometer[1] :407.10000
+ Magnetometer[2] :-186.00000
+ eye_origin :(-0.01583, 0.06989, 0.09730)
+ eye_direction :(-0.01831, -0.26152, 0.96503)
+ eye_cursor :(-0.05245, -0.45314, 2.02735)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 68 
+ head_origin :(-0.01415, 0.07208, 0.08926)
+ head_direction :(0.01123, -0.18898, 0.98192)
+ head movement direction :(-0.10178, 0.58414, 0.80524)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.68633
+ Accelerometer[1] :-0.52323
+ Accelerometer[2] :-0.17267
+ Gyroscope[0] :0.11624
+ Gyroscope[1] :0.01929
+ Gyroscope[2] :0.05183
+ Magnetometer[0] :433.05000
+ Magnetometer[1] :407.10000
+ Magnetometer[2] :-186.00000
+ eye_origin :(-0.01573, 0.06991, 0.09731)
+ eye_direction :(-0.01631, -0.26173, 0.96500)
+ eye_cursor :(-0.04836, -0.45355, 2.02732)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 88 
+ head_origin :(-0.01410, 0.07197, 0.08953)
+ head_direction :(0.01147, -0.18989, 0.98174)
+ head movement direction :(-0.10462, 0.58360, 0.80527)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.68633
+ Accelerometer[1] :-0.52323
+ Accelerometer[2] :-0.17267
+ Gyroscope[0] :0.11624
+ Gyroscope[1] :0.01929
+ Gyroscope[2] :0.05183
+ Magnetometer[0] :433.65000
+ Magnetometer[1] :405.45000
+ Magnetometer[2] :-187.50000
+ eye_origin :(-0.01341, 0.07034, 0.09792)
+ eye_direction :(0.03266, -0.26693, 0.96316)
+ eye_cursor :(0.05191, -0.46351, 2.02424)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 108 
+ head_origin :(-0.01420, 0.07205, 0.08977)
+ head_direction :(0.01170, -0.19107, 0.98151)
+ head movement direction :(-0.10522, 0.58323, 0.80546)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.68633
+ Accelerometer[1] :-0.52323
+ Accelerometer[2] :-0.17267
+ Gyroscope[0] :0.14833
+ Gyroscope[1] :-0.00387
+ Gyroscope[2] :0.01261
+ Magnetometer[0] :433.65000
+ Magnetometer[1] :405.45000
+ Magnetometer[2] :-187.50000
+ eye_origin :(-0.01342, 0.07034, 0.09792)
+ eye_direction :(0.03260, -0.26693, 0.96316)
+ eye_cursor :(0.05179, -0.46352, 2.02425)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 118 
+ head_origin :(-0.01431, 0.07216, 0.09005)
+ head_direction :(0.01192, -0.19156, 0.98141)
+ head movement direction :(-0.10575, 0.58289, 0.80564)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.68633
+ Accelerometer[1] :-0.52323
+ Accelerometer[2] :-0.17267
+ Gyroscope[0] :0.14833
+ Gyroscope[1] :-0.00387
+ Gyroscope[2] :0.01261
+ Magnetometer[0] :433.65000
+ Magnetometer[1] :405.45000
+ Magnetometer[2] :-187.50000
+ eye_origin :(-0.01342, 0.07034, 0.09793)
+ eye_direction :(0.03257, -0.26696, 0.96316)
+ eye_cursor :(0.05173, -0.46357, 2.02425)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 138 
+ head_origin :(-0.01451, 0.07235, 0.09032)
+ head_direction :(0.01185, -0.19192, 0.98134)
+ head movement direction :(-0.10624, 0.58258, 0.80580)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.68633
+ Accelerometer[1] :-0.52323
+ Accelerometer[2] :-0.17267
+ Gyroscope[0] :0.14833
+ Gyroscope[1] :-0.00387
+ Gyroscope[2] :0.01261
+ Magnetometer[0] :433.65000
+ Magnetometer[1] :405.45000
+ Magnetometer[2] :-187.50000
+ eye_origin :(-0.01341, 0.07034, 0.09796)
+ eye_direction :(0.03242, -0.26701, 0.96315)
+ eye_cursor :(0.05142, -0.46369, 2.02426)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 158 
+ head_origin :(-0.01466, 0.07238, 0.09059)
+ head_direction :(0.01150, -0.19245, 0.98124)
+ head movement direction :(-0.10666, 0.58230, 0.80595)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75057
+ Accelerometer[1] :-0.54071
+ Accelerometer[2] :-0.09215
+ Gyroscope[0] :0.09327
+ Gyroscope[1] :-0.04920
+ Gyroscope[2] :0.02172
+ Magnetometer[0] :433.65000
+ Magnetometer[1] :405.45000
+ Magnetometer[2] :-187.50000
+ eye_origin :(-0.01340, 0.07034, 0.09799)
+ eye_direction :(0.03227, -0.26708, 0.96313)
+ eye_cursor :(0.05114, -0.46382, 2.02426)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 169 
+ head_origin :(-0.01485, 0.07234, 0.09083)
+ head_direction :(0.01119, -0.19305, 0.98113)
+ head movement direction :(-0.10704, 0.58203, 0.80609)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75057
+ Accelerometer[1] :-0.54071
+ Accelerometer[2] :-0.09215
+ Gyroscope[0] :0.09327
+ Gyroscope[1] :-0.04920
+ Gyroscope[2] :0.02172
+ Magnetometer[0] :433.65000
+ Magnetometer[1] :405.45000
+ Magnetometer[2] :-187.50000
+ eye_origin :(-0.01340, 0.07035, 0.09804)
+ eye_direction :(0.03206, -0.26719, 0.96311)
+ eye_cursor :(0.05073, -0.46404, 2.02426)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 188 
+ head_origin :(-0.01500, 0.07232, 0.09098)
+ head_direction :(0.01099, -0.19485, 0.98077)
+ head movement direction :(-0.10737, 0.58177, 0.80624)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75057
+ Accelerometer[1] :-0.54071
+ Accelerometer[2] :-0.09215
+ Gyroscope[0] :0.09327
+ Gyroscope[1] :-0.04920
+ Gyroscope[2] :0.02172
+ Magnetometer[0] :433.65000
+ Magnetometer[1] :405.45000
+ Magnetometer[2] :-187.50000
+ eye_origin :(-0.01340, 0.07035, 0.09809)
+ eye_direction :(0.03187, -0.26733, 0.96308)
+ eye_cursor :(0.05034, -0.46431, 2.02424)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 208 
+ head_origin :(-0.01522, 0.07257, 0.09130)
+ head_direction :(0.01110, -0.19557, 0.98063)
+ head movement direction :(-0.10767, 0.58152, 0.80638)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75057
+ Accelerometer[1] :-0.54071
+ Accelerometer[2] :-0.09215
+ Gyroscope[0] :-0.02656
+ Gyroscope[1] :-0.05763
+ Gyroscope[2] :0.01401
+ Magnetometer[0] :433.65000
+ Magnetometer[1] :405.45000
+ Magnetometer[2] :-187.50000
+ eye_origin :(-0.01342, 0.07036, 0.09814)
+ eye_direction :(0.03168, -0.26750, 0.96304)
+ eye_cursor :(0.04994, -0.46464, 2.02422)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 218 
+ head_origin :(-0.01538, 0.07282, 0.09171)
+ head_direction :(0.01140, -0.19506, 0.98072)
+ head movement direction :(-0.10794, 0.58127, 0.80652)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.75057
+ Accelerometer[1] :-0.54071
+ Accelerometer[2] :-0.09215
+ Gyroscope[0] :-0.02656
+ Gyroscope[1] :-0.05763
+ Gyroscope[2] :0.01401
+ Magnetometer[0] :433.65000
+ Magnetometer[1] :405.45000
+ Magnetometer[2] :-187.50000
+ eye_origin :(-0.01343, 0.07037, 0.09821)
+ eye_direction :(0.03150, -0.26769, 0.96299)
+ eye_cursor :(0.04957, -0.46501, 2.02420)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 238 
+ head_origin :(-0.01569, 0.07284, 0.09201)
+ head_direction :(0.01135, -0.19412, 0.98091)
+ head movement direction :(-0.10820, 0.58103, 0.80665)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.81785
+ Accelerometer[1] :-0.59315
+ Accelerometer[2] :-0.01682
+ Gyroscope[0] :-0.02656
+ Gyroscope[1] :-0.05763
+ Gyroscope[2] :0.01401
+ Magnetometer[0] :433.65000
+ Magnetometer[1] :405.45000
+ Magnetometer[2] :-187.50000
+ eye_origin :(-0.01348, 0.07038, 0.09829)
+ eye_direction :(0.03137, -0.26788, 0.96294)
+ eye_cursor :(0.04925, -0.46539, 2.02417)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 258 
+ head_origin :(-0.01581, 0.07297, 0.09253)
+ head_direction :(0.01139, -0.19286, 0.98116)
+ head movement direction :(-0.10846, 0.58078, 0.80680)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.81785
+ Accelerometer[1] :-0.59315
+ Accelerometer[2] :-0.01682
+ Gyroscope[0] :0.01330
+ Gyroscope[1] :-0.01137
+ Gyroscope[2] :0.08320
+ Magnetometer[0] :433.65000
+ Magnetometer[1] :405.45000
+ Magnetometer[2] :-187.50000
+ eye_origin :(-0.01352, 0.07039, 0.09838)
+ eye_direction :(0.03124, -0.26807, 0.96289)
+ eye_cursor :(0.04895, -0.46575, 2.02416)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 268 
+ head_origin :(-0.01592, 0.07308, 0.09306)
+ head_direction :(0.01171, -0.19225, 0.98128)
+ head movement direction :(-0.10872, 0.58054, 0.80694)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.81785
+ Accelerometer[1] :-0.59315
+ Accelerometer[2] :-0.01682
+ Gyroscope[0] :0.01330
+ Gyroscope[1] :-0.01137
+ Gyroscope[2] :0.08320
+ Magnetometer[0] :433.65000
+ Magnetometer[1] :405.45000
+ Magnetometer[2] :-187.50000
+ eye_origin :(-0.01358, 0.07041, 0.09847)
+ eye_direction :(0.03117, -0.26832, 0.96282)
+ eye_cursor :(0.04876, -0.46624, 2.02412)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 288 
+ head_origin :(-0.01602, 0.07327, 0.09338)
+ head_direction :(0.01232, -0.19218, 0.98128)
+ head movement direction :(-0.10900, 0.58028, 0.80708)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.81785
+ Accelerometer[1] :-0.59315
+ Accelerometer[2] :-0.01682
+ Gyroscope[0] :-0.01823
+ Gyroscope[1] :0.01950
+ Gyroscope[2] :0.03685
+ Magnetometer[0] :433.65000
+ Magnetometer[1] :405.45000
+ Magnetometer[2] :-187.50000
+ eye_origin :(-0.01365, 0.07044, 0.09858)
+ eye_direction :(0.03112, -0.26855, 0.96276)
+ eye_cursor :(0.04859, -0.46667, 2.02411)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 298 
+ head_origin :(-0.01626, 0.07329, 0.09379)
+ head_direction :(0.01333, -0.19177, 0.98135)
+ head movement direction :(-0.10929, 0.58002, 0.80723)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.81785
+ Accelerometer[1] :-0.59315
+ Accelerometer[2] :-0.01682
+ Gyroscope[0] :-0.01823
+ Gyroscope[1] :0.01950
+ Gyroscope[2] :0.03685
+ Magnetometer[0] :433.65000
+ Magnetometer[1] :405.45000
+ Magnetometer[2] :-187.50000
+ eye_origin :(-0.01372, 0.07046, 0.09870)
+ eye_direction :(0.03110, -0.26884, 0.96268)
+ eye_cursor :(0.04849, -0.46721, 2.02407)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 318 
+ head_origin :(-0.01646, 0.07333, 0.09429)
+ head_direction :(0.01436, -0.19161, 0.98137)
+ head movement direction :(-0.10961, 0.57976, 0.80738)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.81785
+ Accelerometer[1] :-0.59315
+ Accelerometer[2] :-0.01682
+ Gyroscope[0] :-0.01823
+ Gyroscope[1] :0.01950
+ Gyroscope[2] :0.03685
+ Magnetometer[0] :433.65000
+ Magnetometer[1] :405.15000
+ Magnetometer[2] :-186.75000
+ eye_origin :(-0.01380, 0.07050, 0.09883)
+ eye_direction :(0.03112, -0.26909, 0.96261)
+ eye_cursor :(0.04843, -0.46769, 2.02405)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 338 
+ head_origin :(-0.01674, 0.07333, 0.09473)
+ head_direction :(0.01519, -0.19219, 0.98124)
+ head movement direction :(-0.10994, 0.57948, 0.80753)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.91413
+ Accelerometer[1] :-0.65398
+ Accelerometer[2] :-0.05253
+ Gyroscope[0] :-0.03362
+ Gyroscope[1] :0.01985
+ Gyroscope[2] :-0.04004
+ Magnetometer[0] :433.65000
+ Magnetometer[1] :405.15000
+ Magnetometer[2] :-186.75000
+ eye_origin :(-0.01391, 0.07053, 0.09897)
+ eye_direction :(0.03131, -0.26935, 0.96253)
+ eye_cursor :(0.04870, -0.46817, 2.02404)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 358 
+ head_origin :(-0.01703, 0.07335, 0.09517)
+ head_direction :(0.01612, -0.19280, 0.98111)
+ head movement direction :(-0.11032, 0.57920, 0.80768)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.91413
+ Accelerometer[1] :-0.65398
+ Accelerometer[2] :-0.05253
+ Gyroscope[0] :-0.03362
+ Gyroscope[1] :0.01985
+ Gyroscope[2] :-0.04004
+ Magnetometer[0] :433.65000
+ Magnetometer[1] :405.15000
+ Magnetometer[2] :-186.75000
+ eye_origin :(-0.01403, 0.07057, 0.09913)
+ eye_direction :(0.03152, -0.26960, 0.96245)
+ eye_cursor :(0.04901, -0.46864, 2.02404)
+-------------------------------
+
+Log Entry : 
+9:05:35 AM Sunday, April 9, 2023
+9 5 35 378 
+ head_origin :(-0.01743, 0.07341, 0.09559)
+ head_direction :(0.01695, -0.19329, 0.98100)
+ head movement direction :(-0.11074, 0.57889, 0.80784)
+ head velocity :(0.00000, 0.00000, 0.00000)
+ Accelerometer[0] :9.91413
+ Accelerometer[1] :-0.65398
+ Accelerometer[2] :-0.05253
+ Gyroscope[0] :-0.03362
+ Gyroscope[1] :0.01985
+ Gyroscope[2] :-0.04004
+ Magnetometer[0] :433.65000
+ Magnetometer[1] :405.15000
+ Magnetometer[2] :-186.75000
+ eye_origin :(-0.01420, 0.07062, 0.09930)
+ eye_direction :(0.03189, -0.26994, 0.96235)
+ eye_cursor :(0.04959, -0.46926, 2.02400)
+-------------------------------
