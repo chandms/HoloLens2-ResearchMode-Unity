@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Mukherjee"
   given-names: "Chandrika"
-title: "HoloAuth Data Collector (\url{https://github.com/chandms/HoloLens2-ResearchMode-Unity})"
+title: "HoloAuth Data Collector https://github.com/chandms/HoloLens2-ResearchMode-Unity}"
 version: 1.0.0
 date-released: 2023-04-15
 url: "https://github.com/chandms/HoloLens2-ResearchMode-Unity"
