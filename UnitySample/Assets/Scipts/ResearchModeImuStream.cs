@@ -101,7 +101,7 @@ namespace Microsoft.MixedReality.Toolkit
             }
 
 
-            if (string.Compare("Accel", logFlag) == 0 || string.Compare("All", logFlag) == 0) {
+            if (string.Compare("Accel", logFlag) == 0 || string.Compare("All", logFlag) == 0 || string.Compare("IMU", logFlag) == 0) {
                 if (accelSampleData != null && accelSampleData.Length == 3)
                 {
                     temp_data += $" Accelerometer[0] :{accelSampleData[0].ToString("F5")}\n";
@@ -110,7 +110,7 @@ namespace Microsoft.MixedReality.Toolkit
                 }
             }
 
-            if (string.Compare("Gyro", logFlag) == 0 || string.Compare("All", logFlag) == 0) {
+            if (string.Compare("Gyro", logFlag) == 0 || string.Compare("All", logFlag) == 0 || string.Compare("IMU", logFlag) == 0) {
                 if (gyroSampleData != null && gyroSampleData.Length == 3)
                 {
                     temp_data += $" Gyroscope[0] :{gyroSampleData[0].ToString("F5")}\n";
@@ -119,7 +119,7 @@ namespace Microsoft.MixedReality.Toolkit
                 }
             }
 
-            if (string.Compare("Mag", logFlag) == 0 || string.Compare("All", logFlag) == 0) {
+            if (string.Compare("Mag", logFlag) == 0 || string.Compare("All", logFlag) == 0 || string.Compare("IMU", logFlag) == 0) {
                 if (magSampleData != null && magSampleData.Length == 3)
                 {
                     temp_data += $" Magnetometer[0] :{ magSampleData[0].ToString("F5")}\n";
@@ -151,7 +151,7 @@ namespace Microsoft.MixedReality.Toolkit
             accelSampleData = researchMode.GetAccelSample();
             if (accelSampleData.Length == 3)
             {
-                if (string.Compare("Accel", logFlag) == 0 || string.Compare("All", logFlag) == 0) {
+                if (string.Compare("Accel", logFlag) == 0 || string.Compare("All", logFlag) == 0 || string.Compare("IMU", logFlag) == 0) {
                     AccelText.text = $"Accel : {accelSampleData[0]:F3}, {accelSampleData[1]:F3}, {accelSampleData[2]:F3}";
                 }
                 else{
@@ -166,7 +166,7 @@ namespace Microsoft.MixedReality.Toolkit
             gyroSampleData = researchMode.GetGyroSample();
             if (gyroSampleData.Length == 3)
             {
-                if (string.Compare("Gyro", logFlag) == 0 || string.Compare("All", logFlag) == 0) {
+                if (string.Compare("Gyro", logFlag) == 0 || string.Compare("All", logFlag) == 0 || string.Compare("IMU", logFlag) == 0) {
                 GyroText.text = $"Gyro  : {gyroSampleData[0]:F3}, {gyroSampleData[1]:F3}, {gyroSampleData[2]:F3}";
                 }
                 else{
@@ -181,7 +181,7 @@ namespace Microsoft.MixedReality.Toolkit
             magSampleData = researchMode.GetMagSample();
             if (magSampleData.Length == 3)
             {
-                if (string.Compare("Mag", logFlag) == 0 || string.Compare("All", logFlag) == 0) {
+                if (string.Compare("Mag", logFlag) == 0 || string.Compare("All", logFlag) == 0 || string.Compare("IMU", logFlag) == 0) {
                 MagText.text = $"Mag   : {magSampleData[0]:F3}, {magSampleData[1]:F3}, {magSampleData[2]:F3}";
                 }
                 else{
@@ -379,6 +379,11 @@ namespace Microsoft.MixedReality.Toolkit
         public void ChangeLogFlagToAll()
         {
             logFlag = "All";
+        }
+
+        public void ChangeLogFlagToIMU()
+        {
+            logFlag = "IMU";
         }
     }
 
