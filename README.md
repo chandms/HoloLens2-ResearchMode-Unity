@@ -50,3 +50,8 @@ Unity Plugin for using research mode functionality in HoloLens 2. Modified based
 - Use the same ip and port in config_sensor[https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/config_sensor.txt] file.
 - The server will capture specific data, the user chose to stream
 - For each session, data will be stored in a separate timestamped file.
+
+# Head Movement Analysis (Overview)
+  - Collected User Data
+  - Python scripts for Analysis.
+  - Please follow the [Readme](https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/Head_Movement_Analysis/README.md) of that folder.
