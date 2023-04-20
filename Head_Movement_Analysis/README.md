@@ -26,9 +26,12 @@
 
     python plot_diff_user_same_gest.py --path1 <USER1 GYRO/HEAD FOLDER PATH> --path2 <USER2 GYRO/HEAD FOLDER PATH> --plot <cir/w/tr/square/diff>
 
-# Plot Figures for Same User, Different Gesture
+# Plot Figures for Same User, Different/Same Gesture
 
-    python plot_same_user_diff_gest.py --path <USER GYRO/HEAD FOLDER PATH> --plot <cir/w/tr/square/diff>
+- To compare Different gestures of same user, use <u>diff</u> as input in plot argument.
+- To compare same gestures of same user, use <u>cir or w or tr or square</u> as input in plot argument.
+        
+        python plot_same_user_diff_gest.py --path <USER GYRO/HEAD FOLDER PATH> --plot <cir/w/tr/square/diff>
 
 # DTW Affinity -
 
