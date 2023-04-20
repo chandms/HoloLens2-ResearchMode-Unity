@@ -28,8 +28,8 @@
 
 # Plot Figures for Same User, Different/Same Gesture
 
-- To compare Different gestures of same user, use <u>diff</u> as input in plot argument.
-- To compare same gestures of same user, use <u>cir or w or tr or square</u> as input in plot argument.
+- To compare Different gestures of same user, use <ins>diff</ins> as input in plot argument.
+- To compare same gestures of same user, use <ins>cir or w or tr or square</ins> as input in plot argument.
         
         python plot_same_user_diff_gest.py --path <USER GYRO/HEAD FOLDER PATH> --plot <cir/w/tr/square/diff>
 
