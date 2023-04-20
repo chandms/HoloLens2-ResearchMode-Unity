@@ -8,7 +8,7 @@ Unity Plugin for using research mode functionality in HoloLens 2. Modified based
 
 # HoloLesn2 Sensor Streaming App (Overview)
 
-- Capture data from IMU sensors [Assets/Scenes/ImuViewSample.unity](https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/Unity_Sensor_Streaming_App/Assets/Scenes/ImuViewSample.unity)
+- Capture data from IMU sensors (HoloLens2 must be in Research Mode)
 - Capture Head and Eye tracking information of user
 - Stream above data to python server over TCP
   1. upload [config_sensor](https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/config_sensor.txt) file (after changing the ip address and port number with server ip and port) in LocalState folder of the deployed app in HoloLens2. Use Windows Device Portal to do this step.
@@ -23,8 +23,6 @@ Unity Plugin for using research mode functionality in HoloLens 2. Modified based
   6. Log IMU [For IMU sensors data]
   7. Log Sensors [For all the senors data]
 
-  HoloLens2 must be in Research Mode.
-
 
 # Compatibility
 - Unity 2019.4*
@@ -34,7 +32,7 @@ Unity Plugin for using research mode functionality in HoloLens 2. Modified based
 # Build HL2 App
 - Open [Unity_Sensor_Streaming_App](https://github.com/chandms/HoloLens2-ResearchMode-Unity/tree/master/Unity_Sensor_Streaming_App) folder in Unity.
 - Go to Build Settings, switch target platform to UWP.
-- In the Project tab, open `Scenes/ImuViewSample.unity`.
+- In the Project tab, open [Scenes/ImuViewSample.unity](https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/Unity_Sensor_Streaming_App/Assets/Scenes/ImuViewSample.unity).
 - Hopefully, there is no error in the console. Go to Build Settings, change Target Device to HoloLens, Architecture to ARM64. Build the Unity project in a new folder (e.g. App folder).
 - Open `App/HL2SensorStreaming/Package.appxmanifest` with a text editor. Add `xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities"` before the `IgnorableNamespaces` in Package tag (line 2). Add `<rescap:Capability Name="perceptionSensorsExperimental" />` in the Capabilities tag between `<uap2:Capability ... >` and `<DeviceCapability ... >`. 
 - As IMU is used, add `<DeviceCapability Name="backgroundSpatialPerception"/>` to DeviceCapability.
