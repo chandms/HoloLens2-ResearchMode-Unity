@@ -9,7 +9,7 @@ from datetime import datetime
 
 
 def tcp_server():
-    serverHost = ''  # localhost
+    serverHost = ''  # input the ip address of the server
     serverPort = 9090
     save_folder = 'data/'
 
