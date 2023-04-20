@@ -1,4 +1,5 @@
-# HoloLens2-ResearchMode-Unity
+# HoloLens2-ResearchMode-Sensor-Streaming-Unity-Application
+
 Unity Plugin for using research mode functionality in HoloLens 2. Modified based on [HoloLens2ForCV](https://github.com/microsoft/HoloLens2ForCV).
 
 ![Picture from HL2 Sensor Streaming App](https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/hololens_app.jpg)
