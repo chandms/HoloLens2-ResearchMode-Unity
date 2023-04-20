@@ -8,7 +8,7 @@ Unity Plugin for using research mode functionality in HoloLens 2. Modified based
 - Capture data from IMU sensors(Assets/Scenes/ImuViewSample.unity)
 - Capture Head and Eye tracking information of user
 - Stream above data to python server over TCP
-  -- upload [config_sensor](https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/config_sensor.txt) file (after changing the ip address and port number with server ip and port) in LocalState folder of the deployed app in HoloLens2. Use Windows Device Portal to do this step.
+  1. upload [config_sensor](https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/config_sensor.txt) file (after changing the ip address and port number with server ip and port) in LocalState folder of the deployed app in HoloLens2. Use Windows Device Portal to do this step.
 - Use "Connect to Server" button to start and stop streaming.
 - Use specific buttons on the screen to visuliaze and stream particular data
 - Voice commands can also be used
