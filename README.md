@@ -42,7 +42,8 @@ Unity Plugin for using research mode functionality in HoloLens 2. Modified based
 
 
 # Note
-- An already built version with necessary changes is present in folder Sensor_Streaming_Application. You can directly open [HL2SensorStreaming.sln](https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/Sensor_Streaming_Application/HL2SensorStreaming.sln) in visual studio. However, you need to still upload the config_sensor[https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/config_sensor.txt] file after deployment (follow the instructions above).
+- An already built version with necessary changes is present in folder Sensor_Streaming_Application. You can directly open [HL2SensorStreaming.sln](https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/Sensor_Streaming_Application/HL2SensorStreaming.sln) in visual studio. However, you need to still upload the
+[config_sensor](https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/config_sensor.txt) file after deployment (follow the instructions above).
 
 - The app may not function properly the first time you open the deployed app when there are pop-up windows asking for permissions. You can simply grant the permissions, close the app and reopen it. Then everything should be fine.
 
@@ -51,7 +52,7 @@ Unity Plugin for using research mode functionality in HoloLens 2. Modified based
 
 # Python Server
 - Execute [TCPServer_IMU](https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/python_servers/TCPServer_IMU.py) server in your laptop/desktop with suitable ip and port.
-- Use the same ip and port in config_sensor[https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/config_sensor.txt] file.
+- Use the same ip and port in [config_sensor](https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/config_sensor.txt) file.
 - The server will capture specific data, the user chose to stream
 - For each session, data will be stored in a separate timestamped file.
 
