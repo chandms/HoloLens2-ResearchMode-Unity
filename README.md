@@ -44,3 +44,9 @@ Unity Plugin for using research mode functionality in HoloLens 2. Modified based
 
 - You need to restart the device (hold the power button for several seconds) each time the device hiberates after you opened an app that uses research mode functions. So if your app suddenly cannot get any sensor data, try restarting your device. Please let me know if you know how to solve this issue.
 
+
+# Python Server
+- Execute [TCPServer_IMU](https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/python_servers/TCPServer_IMU.py) server in your laptop/desktop with suitable ip and port.
+- Use the same ip and port in config_sensor[https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/config_sensor.txt] file.
+- The server will capture specific data, the user chose to stream
+- For each session, data will be stored in a timestamped file.
