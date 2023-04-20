@@ -3,6 +3,8 @@ Unity Plugin for using research mode functionality in HoloLens 2. Modified based
 
 ![Picture from HL2 Sensor Streaming App](https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/hololens_app.jpg)
 
+## Please ensure that you have these required tools for [HoloLesn2 MRTK App development](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/install-the-tools).
+
 # HoloLesn2 Sensor Streaming App (Overview)
 
 - Capture data from IMU sensors(Assets/Scenes/ImuViewSample.unity)
@@ -19,6 +21,8 @@ Unity Plugin for using research mode functionality in HoloLens 2. Modified based
   5. Log Eye Tracking [For Eye Data]
   6. Log IMU [For IMU sensors data]
   7. Log Sensors [For all the senors data]
+
+  HoloLens2 must be in Research Mode.
 
 
 # Compatibility
@@ -56,3 +60,8 @@ Unity Plugin for using research mode functionality in HoloLens 2. Modified based
   - Collected User Data
   - Python scripts for Analysis.
   - Please follow the [Readme](https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/Head_Movement_Analysis/README.md) of that folder.
+
+# Some Other Important Links - 
+  - [Windows Device Portal](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/advanced-concepts/using-the-windows-device-portal)
+  - [HoloLens2 App Deployment](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/advanced-concepts/using-visual-studio?tabs=hl2)
+  - [Enable Research Mode in HL2](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/advanced-concepts/research-mode)

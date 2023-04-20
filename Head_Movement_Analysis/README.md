@@ -4,9 +4,9 @@
     2. user2 - 2 different datasets of user2 (folder - user2_day1, user2_day2)
     3. user3 - 1 dataset (folder - user3_day1)
 
-### <span style="color:red"> Note - keep the scipts in same directory with the dataset folders.</span>
+### Note - keep the scipts in same directory with the dataset folders.
 
-<span style="color:blue"> In the command line, move to Head_Movement_Analysis folder and keep everything as it is, then execute the scripts using correct commands. </span>
+    In the command line, move to Head_Movement_Analysis folder and keep everything as it is, then execute the scripts using correct commands. 
 
 # Plot all sensor data for a particular file
 
@@ -61,7 +61,7 @@
     python dtw_sim_svm_tsfresh.py --path <PATH TO NEW FOLDER>
 
     Create a new folder MIX_GYRO, put all the extracted gyro files from all the users or create a new folder MIX_HEAD, put all the extracted head files from all the users.
-    For example - copy all the files from user1_day1_gyro, user1_day2_gyro, user2_day1_gyro
+    For example - copy all the files from user1_day1_gyro, user1_day2_gyro, user2_day1_gyro to MIX_GYRO
 
     Example - python dtw_sim_svm_tsfresh.py --path MIX_GYRO
     Example - python dtw_sim_svm_tsfresh.py --path MIX_HEAD
@@ -73,7 +73,7 @@
     python dtw_sim_svm_user_tsfresh.py --path <PATH TO NEW FOLDER>
 
     Create a new folder MIX_GYRO, put all the extracted gyro files from all the users or create a new folder MIX_HEAD, put all the extracted head files from all the users.
-    For example - copy all the files from user1_day1_gyro, user1_day2_gyro, user2_day1_gyro
+    For example - copy all the files from user1_day1_gyro, user1_day2_gyro, user2_day1_gyro to MIX_GYRO
 
     Example - python dtw_sim_svm_user_tsfresh.py --path MIX_GYRO
     Example - python dtw_sim_svm_user_tsfresh.py --path MIX_HEAD
