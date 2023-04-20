@@ -26,7 +26,7 @@ Unity Plugin for using research mode functionality in HoloLens 2. Modified based
 - Visual Studio 2019
 
 
-# Build
+# Build HL2 App
 - Open [Unity_Sensor_Streaming_App](https://github.com/chandms/HoloLens2-ResearchMode-Unity/tree/master/Unity_Sensor_Streaming_App) folder in Unity.
 - Go to Build Settings, switch target platform to UWP.
 - In the Project tab, open `Scenes/ImuViewSample.unity`.
