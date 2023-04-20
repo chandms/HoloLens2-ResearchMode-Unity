@@ -52,6 +52,7 @@ Unity Plugin for using research mode functionality in HoloLens 2. Modified based
 - For each session, data will be stored in a separate timestamped file.
 
 # Head Movement Analysis (Overview)
+  - Please check the folder [Head_Movement_Analysis](https://github.com/chandms/HoloLens2-ResearchMode-Unity/tree/master/Head_Movement_Analysis)
   - Collected User Data
   - Python scripts for Analysis.
   - Please follow the [Readme](https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/Head_Movement_Analysis/README.md) of that folder.
