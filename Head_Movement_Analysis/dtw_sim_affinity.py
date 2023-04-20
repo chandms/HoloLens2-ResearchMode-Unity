@@ -120,7 +120,7 @@ for j in range(len(signals)):
 comp_df.style.set_properties(
     **{'border': '1px solid green', 'color': 'magenta'})
 html_comp = comp_df.to_html()
-html_comp_filename = 'Output/comp_'+str(datetime.datetime.now())+".html"
+html_comp_filename = 'output/comp_'+str(datetime.datetime.now())+".html"
 with open(html_comp_filename, 'w') as hc:
     hc.write(html_comp)
 
@@ -235,6 +235,6 @@ print('\n\n')
 print(test_df)
 
 html_test = test_df.to_html()
-html_test_filename = "Output/test_"+str(datetime.datetime.now())+".html"
+html_test_filename = "output/test_"+str(datetime.datetime.now())+".html"
 with open(html_test_filename, "w") as th:
     th.write(html_test)

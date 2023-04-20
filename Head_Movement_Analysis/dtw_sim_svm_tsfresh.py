@@ -341,11 +341,7 @@ print(confusion_mat)
 print("############# classification_report #####################")
 
 
-target_names = []
-for j in range(n_clusters_):
-    target_names.append("class "+str(j))
-
-print(classification_report(y_test, y_pred, target_names=target_names))
+print(classification_report(y_test, y_pred))
 
 print("Training set score for SVM: %f" % final_model.score(X_train, y_train))
 print("Testing  set score for SVM: %f" % final_model.score(X_test, y_test))

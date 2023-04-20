@@ -3,7 +3,7 @@ import os
 import matplotlib.pyplot as plt
 import numpy as np
 
-# python plot_same_user_diff_gest.py --path <User Data Path> --plot <cir/w/tr/square/diff>
+# python plot_same_user_diff_gest.py --path <User Data Path> --plot <cir/w/tri/square/diff>
 # pass diff if want to compare different gestures of same user
 # pass particular gesture <cir/w/tri> to compare similar gesture for same user
 # if nothing passed, will show all the files
