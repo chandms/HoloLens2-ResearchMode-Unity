@@ -9,7 +9,7 @@ Unity Plugin for using research mode functionality in HoloLens 2. Modified based
 - Capture Head and Eye tracking information of user
 - Stream above data to python server over TCP
   -- upload [config_sensor](https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/config_sensor.txt) file (after changing the ip address and port number with server ip and port) in LocalState folder of the deployed app in HoloLens2. Use Windows Device Portal to do this step.
-- Use "Connect to Server" button to start streaming
+- Use "Connect to Server" button to start and stop streaming.
 - Use specific buttons on the screen to visuliaze and stream particular data
 - Voice commands can also be used
   1. Log Gyroscope [For Gyroscope Data]
@@ -49,4 +49,4 @@ Unity Plugin for using research mode functionality in HoloLens 2. Modified based
 - Execute [TCPServer_IMU](https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/python_servers/TCPServer_IMU.py) server in your laptop/desktop with suitable ip and port.
 - Use the same ip and port in config_sensor[https://github.com/chandms/HoloLens2-ResearchMode-Unity/blob/master/config_sensor.txt] file.
 - The server will capture specific data, the user chose to stream
-- For each session, data will be stored in a timestamped file.
+- For each session, data will be stored in a separate timestamped file.
