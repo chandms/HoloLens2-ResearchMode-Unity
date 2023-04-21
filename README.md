@@ -38,7 +38,7 @@ Unity Plugin for using research mode functionality in HoloLens 2. Modified based
     
         Note: You can run the project in unity, however, for definite reasons, unity application on your laptop will not show any information in the IMU section, but it will show the data from head and eye, moving the mouse pointer will change those values.
 
-- Hopefully, there is no error in the console. Go to Build Settings, change Target Device to HoloLens, Architecture to ARM64 or You can keep any device and x86 (change these when deploying in VS code). Build the Unity project in a new folder (e.g. App folder).
+- Hopefully, there is no error in the console. Go to Build Settings, change Target Device to HoloLens, Architecture to ARM64 or you can keep the setting as any device and x86 (change these when deploying in VS code). Build the Unity project in a new folder (e.g. App folder).
 
 - Open `App/HL2SensorStreaming/Package.appxmanifest` with a text editor. Add `xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities"` before the `IgnorableNamespaces` in Package tag (line 2). Add `<rescap:Capability Name="perceptionSensorsExperimental" />` in the Capabilities tag between `<uap2:Capability ... >` and `<DeviceCapability ... >`. 
 
