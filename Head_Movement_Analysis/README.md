@@ -61,7 +61,8 @@
     python dtw_sim_svm_tsfresh.py --path <PATH TO NEW FOLDER>
 
     Create a new folder MIX_GYRO, put all the extracted gyro files from all the users or create a new folder MIX_HEAD, put all the extracted head files from all the users.
-    For example - copy all the files from user1_day1_gyro, user1_day2_gyro, user2_day1_gyro to MIX_GYRO
+    For example - copy all the files from user1_day1_gyro, user1_day2_gyro, user2_day1_gyro to MIX_GYRO.
+    To get the exact result from my analysis, first extract all gyro/head data from all the datasets above, then put all of them in a folder and execute the script below.
 
     Example - python dtw_sim_svm_tsfresh.py --path MIX_GYRO
     Example - python dtw_sim_svm_tsfresh.py --path MIX_HEAD
@@ -73,7 +74,8 @@
     python dtw_sim_svm_user_tsfresh.py --path <PATH TO NEW FOLDER>
 
     Create a new folder MIX_GYRO, put all the extracted gyro files from all the users or create a new folder MIX_HEAD, put all the extracted head files from all the users.
-    For example - copy all the files from user1_day1_gyro, user1_day2_gyro, user2_day1_gyro to MIX_GYRO
+    For example - copy all the files from user1_day1_gyro, user1_day2_gyro, user2_day1_gyro to MIX_GYRO.
+    To get the exact result from my analysis, first extract all gyro/head data from all the datasets above, then put all of them in a folder and execute the script below.
 
     Example - python dtw_sim_svm_user_tsfresh.py --path MIX_GYRO
     Example - python dtw_sim_svm_user_tsfresh.py --path MIX_HEAD
